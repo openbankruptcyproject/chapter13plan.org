@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-053Z64N82F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 13 Plan Payment Calculator -- Estimate Your Monthly Payment | chapter13plan.org</title>
+<meta name="description" content="Free Chapter 13 plan payment calculator. Estimate your monthly payment based on disposable income, the best interest test, and the applicable commitment period.">
+<meta name="keywords" content="chapter 13 plan payment calculator, disposable income, chapter 13 monthly payment, best interest test, applicable commitment period">
+<link rel="canonical" href="https://chapter13plan.org/plan-payment-calculator.html">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Chapter 13 Plan Payment Calculator -- Estimate Your Monthly Payment">
+<meta property="og:description" content="Free Chapter 13 plan payment calculator. Estimate your monthly payment based on disposable income, the best interest test, and the applicable commitment period.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://chapter13plan.org/plan-payment-calculator.html">
+<meta property="og:site_name" content="chapter13plan.org">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Chapter 13 Plan Payment Calculator -- Estimate Your Monthly Payment">
+<meta name="twitter:description" content="Free Chapter 13 plan payment calculator. Estimate your monthly payment based on disposable income, the best interest test, and the applicable commitment period.">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Open Bankruptcy Project",
+  "url": "https://1328f.org",
+  "description": "Free, open-source bankruptcy information. Real information, no strings.",
+  "sameAs": [
+    "https://1328f.com",
+    "https://1328f.org",
+    "https://automaticstay.org",
+    "https://meanstest.org",
+    "https://341meeting.org",
+    "https://relieffromstay.org",
+    "https://dischargeinjunction.org",
+    "https://dischargeinjunction.com",
+    "https://523a.org",
+    "https://109g.org",
+    "https://727a8.org",
+    "https://727a8.com",
+    "https://prosedebtors.org",
+    "https://whatischapter7.com",
+    "https://whatischapter7.org",
+    "https://chapter13plan.org",
+    "https://lienstripping.org",
+    "https://nondischargeable.org",
+    "https://bankruptcyfreshstart.org",
+    "https://reaffirmationagreement.org",
+    "https://dischargebar.org",
+    "https://section1328.org",
+    "https://bankruptcytaxes.org",
+    "https://dismissedbankruptcy.org",
+    "https://serialfiler.org",
+    "https://codebtorstay.org",
+    "https://bankruptcyhardship.org",
+    "https://voluntarypetition.org"
+  ]
+}
+</script>
+
+<!-- BreadcrumbList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Network",
+      "item": "https://1328f.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Chapter 13 Repayment Plan",
+      "item": "https://chapter13plan.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Plan Payment Calculator",
+      "item": "https://chapter13plan.org/plan-payment-calculator.html"
+    }
+  ]
+}
+</script>
+
+<!-- FAQPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much will my Chapter 13 payment be?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your Chapter 13 payment depends on three factors: your monthly disposable income (current monthly income minus allowed expenses), the value of your non-exempt assets (the best interest test), and whether the plan is feasible. The payment must be the higher of your disposable income or the amount unsecured creditors would receive in a Chapter 7 liquidation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can my payment change during the plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Either you, the trustee, or an unsecured creditor can request a plan modification under Section 1329. Common triggers include job loss, income increases, or unexpected expenses. The modified plan must still satisfy the best interest test and be feasible."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is disposable income in Chapter 13?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disposable income is defined in 11 U.S.C. Section 1325(b)(2) as current monthly income minus amounts reasonably necessary for the maintenance or support of the debtor and dependents. For above-median debtors, the allowed expenses are determined by the means test standards from Section 707(b)(2)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I cannot afford the minimum payment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you cannot afford the minimum Chapter 13 payment, you may not be eligible for Chapter 13. You might consider Chapter 7 (if you pass the means test), negotiating with creditors outside bankruptcy, or waiting until your financial situation changes. If you are already in an active Chapter 13 case and circumstances have changed, you may seek a plan modification or hardship discharge under Section 1328(b)."
+      }
+    }
+  ]
+}
+</script>
+
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+    --yellow: #e3a835;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
+  header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  .breadcrumb { max-width: 820px; margin: 1rem auto 0; padding: 0 1.5rem; font-size: 0.85rem; color: var(--text-muted); }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.25rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section p:last-child { margin-bottom: 0; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0; padding-left: 1.5rem; }
+  .content-section li { margin-bottom: 0.5rem; font-size: 0.95rem; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; }
+  .green-box p:last-child { margin-bottom: 0; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; }
+  .yellow-box p:last-child { margin-bottom: 0; }
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
+  .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
+  .cta-box .cta-links { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
+  .cta-box .cta-links a { display: inline-block; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; transition: background 0.2s; }
+  .cta-links .primary-btn { background: #238636; color: #fff; }
+  .cta-links .primary-btn:hover { background: #2ea043; text-decoration: none; }
+  .cta-links .secondary-btn { background: var(--border); color: var(--text); }
+  .cta-links .secondary-btn:hover { background: #484f58; text-decoration: none; }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  .calc-form { background: #21262d; border: 1px solid var(--border); border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0; }
+  .calc-form label { display: block; color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.25rem; margin-top: 1rem; }
+  .calc-form label:first-child { margin-top: 0; }
+  .calc-form input { width: 100%; max-width: 300px; padding: 0.5rem 0.75rem; background: var(--bg); border: 1px solid var(--border); border-radius: 4px; color: var(--text); font-size: 1rem; }
+  .calc-form input:focus { border-color: var(--accent); outline: none; }
+  .calc-form .hint { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.15rem; }
+  .calc-btn { display: inline-block; margin-top: 1.25rem; padding: 0.6rem 2rem; background: #238636; color: #fff; border: none; border-radius: 6px; font-size: 1rem; font-weight: 600; cursor: pointer; }
+  .calc-btn:hover { background: #2ea043; }
+  .calc-result { background: var(--surface); border: 2px solid var(--green); border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem; display: none; }
+  .calc-result h3 { color: #f0f6fc; margin-bottom: 1rem; font-size: 1.15rem; }
+  .calc-result .result-row { display: flex; justify-content: space-between; padding: 0.5rem 0; border-bottom: 1px solid var(--border); font-size: 0.95rem; }
+  .calc-result .result-row:last-child { border-bottom: none; }
+  .calc-result .result-label { color: var(--text-muted); }
+  .calc-result .result-value { color: var(--accent); font-weight: 600; }
+  .faq-item { margin-bottom: 1.5rem; }
+  .faq-item h3 { color: #f0f6fc; font-size: 1.05rem; margin-bottom: 0.5rem; }
+  .faq-item p { color: var(--text); font-size: 0.95rem; }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; }
+    main { padding: 1.5rem 1rem; }
+    .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; }
+    .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
+    .calc-form input { max-width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<nav role="navigation" aria-label="Site navigation">
+  <a href="/" class="site-name">chapter13plan.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/plan-payments.html" class="active">Payments</a>
+    <a href="/plan-confirmation.html">Confirmation</a>
+    <a href="/secured-debts.html">Secured Debts</a>
+    <a href="/priority-debts.html">Priority Debts</a>
+    <a href="/plan-modification.html">Modification</a>
+    <a href="/cramdown.html">Cramdown</a>
+  </div>
+</nav>
+
+<header>
+  <h1><span class="accent">Chapter 13 Plan Payment Calculator</span></h1>
+  <p class="subtitle">Estimate your monthly Chapter 13 plan payment based on disposable income and the best interest test</p>
+</header>
+
+<div class="breadcrumb" aria-label="Breadcrumb">
+  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">Chapter 13 Plan</a> &rsaquo; Payment Calculator
+</div>
+
+<main id="main-content">
+
+  <div class="content-section">
+    <h2>How Chapter 13 Payments Are Determined</h2>
+    <p>Your Chapter 13 plan payment is not a number your attorney picks out of thin air. It is determined by federal bankruptcy law -- specifically 11 U.S.C. Section 1325(b) -- and must satisfy three independent tests. Your actual payment will be the highest amount required by any of them.</p>
+    <p>Understanding these tests is critical because they set both the floor and the ceiling for what you will pay over the life of your plan. If your payment is set too low, the trustee or a creditor will object and the court will not confirm your plan. If it is set higher than required, you may be paying more than necessary.</p>
+
+    <h3>Test 1: The Disposable Income Test</h3>
+    <p>Under Section 1325(b)(1)(B), if the trustee or an unsecured creditor objects to confirmation, the plan must commit all of your "projected disposable income" to plan payments during the applicable commitment period.</p>
+    <p><strong>Disposable income</strong> is defined as your current monthly income (CMI) minus amounts reasonably necessary for the maintenance and support of yourself and your dependents. For above-median-income debtors, the "reasonably necessary" expenses are determined using the means test standards from Section 707(b)(2) -- the same IRS expense categories used to determine Chapter 7 eligibility. For below-median debtors, the court uses your actual expenses as reported on Schedule J.</p>
+    <p>Current monthly income is calculated by averaging your gross income from all sources over the six full calendar months before your bankruptcy filing date. This includes wages, salary, overtime, business income, rental income, pension and retirement distributions, and regular contributions from others. It does not include Social Security benefits.</p>
+
+    <h3>Test 2: The Best Interest Test (Liquidation Analysis)</h3>
+    <p>Under Section 1325(a)(4), unsecured creditors must receive at least as much through your Chapter 13 plan as they would have received if you had filed Chapter 7 instead. This is called the "best interest of creditors" test.</p>
+    <p>In a Chapter 7 case, a trustee would liquidate your non-exempt assets and distribute the proceeds to creditors. If you have $10,000 in non-exempt assets and $50,000 in unsecured debt, the Chapter 7 dividend would be 20 cents on the dollar. Your Chapter 13 plan must pay at least that same 20% to unsecured creditors.</p>
+    <p>If you have no non-exempt assets -- which is common -- the Chapter 7 dividend would be zero, and this test does not set a meaningful floor. But if you have significant equity in property above your exemption limits, this test can require substantial payments.</p>
+
+    <h3>Test 3: The Feasibility Test</h3>
+    <p>Under Section 1325(a)(6), the court must find that you will be able to make all payments under the plan. A plan that looks good on paper but would leave you unable to pay rent or buy groceries will not be confirmed. The court examines your budget (Schedules I and J) to verify that the proposed payment is realistic given your actual income and expenses.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>The Applicable Commitment Period</h2>
+    <p>The length of your plan is governed by the "applicable commitment period" under Section 1325(b)(4). It depends on whether your income is above or below the median for your state and household size:</p>
+    <ul>
+      <li><strong>Below median income:</strong> The applicable commitment period is 3 years (36 months). However, the court may approve a longer plan up to 5 years if needed to pay priority debts, cure mortgage arrears, or for other cause.</li>
+      <li><strong>Above median income:</strong> The applicable commitment period is 5 years (60 months). You must commit all disposable income for the full 60 months unless you pay 100% of unsecured claims sooner.</li>
+    </ul>
+    <p>You can check whether your income is above or below the median using the means test at <a href="https://meanstest.org">meanstest.org</a>. The median income figures are published by the Census Bureau and updated periodically by the U.S. Trustee Program.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Estimate Your Payment</h2>
+    <div class="yellow-box">
+      <p><strong>Important:</strong> This calculator provides a rough estimate only. Actual Chapter 13 payments depend on many factors not captured here, including secured debt arrears, priority tax claims, attorney fees, trustee percentage, and local court practices. Do not rely on this estimate as legal advice.</p>
+    </div>
+
+    <div class="calc-form">
+      <label for="calc-income">Monthly Gross Income (all sources)</label>
+      <input type="number" id="calc-income" placeholder="e.g. 5000" min="0" step="1">
+      <p class="hint">Average of last 6 months. Include wages, business income, rental income, etc. Exclude Social Security.</p>
+
+      <label for="calc-expenses">Monthly Necessary Expenses</label>
+      <input type="number" id="calc-expenses" placeholder="e.g. 4000" min="0" step="1">
+      <p class="hint">Housing, food, transportation, insurance, medical, childcare, etc.</p>
+
+      <label for="calc-assets">Value of Non-Exempt Assets</label>
+      <input type="number" id="calc-assets" placeholder="e.g. 5000" min="0" step="1">
+      <p class="hint">Total value of property you could not protect with exemptions in a Chapter 7. Enter 0 if unsure.</p>
+
+      <label for="calc-unsecured">Total Unsecured Debt</label>
+      <input type="number" id="calc-unsecured" placeholder="e.g. 30000" min="0" step="1">
+      <p class="hint">Credit cards, medical bills, personal loans, deficiency balances, etc.</p>
+
+      <label for="calc-median">Is your income above or below the state median?</label>
+      <select id="calc-median" style="width:100%;max-width:300px;padding:0.5rem 0.75rem;background:var(--bg);border:1px solid var(--border);border-radius:4px;color:var(--text);font-size:1rem;">
+        <option value="below">Below median (3-year plan)</option>
+        <option value="above">Above median (5-year plan)</option>
+      </select>
+      <p class="hint">Check at <a href="https://meanstest.org">meanstest.org</a> if you are unsure.</p>
+
+      <button class="calc-btn" onclick="calculatePayment()">Estimate My Payment</button>
+    </div>
+
+    <div class="calc-result" id="calc-result">
+      <h3>Estimated Results</h3>
+      <div class="result-row">
+        <span class="result-label">Monthly Disposable Income</span>
+        <span class="result-value" id="res-di">--</span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Plan Length</span>
+        <span class="result-value" id="res-length">--</span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Estimated Monthly Payment</span>
+        <span class="result-value" id="res-payment">--</span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Total Paid to Unsecured Creditors</span>
+        <span class="result-value" id="res-total">--</span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Estimated % to Unsecured Creditors</span>
+        <span class="result-value" id="res-pct">--</span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Controlling Test</span>
+        <span class="result-value" id="res-test">--</span>
+      </div>
+      <p style="color:var(--text-muted);font-size:0.85rem;margin-top:1rem;">This estimate does not include trustee fees (typically 4-10%), attorney fees, secured debt arrears, or priority claims -- all of which increase your actual payment. Consult with a bankruptcy attorney for an accurate calculation.</p>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <h2>What the Calculator Does Not Include</h2>
+    <p>The estimate above covers only the disposable income and best interest tests for unsecured creditors. In practice, your monthly Chapter 13 payment also funds:</p>
+    <ul>
+      <li><strong>Mortgage arrears:</strong> If you are behind on your mortgage, the plan must cure the entire arrearage over the plan term, which increases your monthly payment.</li>
+      <li><strong>Priority debts:</strong> Domestic support obligations (child support, alimony) and most tax debts classified as priority under Section 507 must be paid in full through the plan.</li>
+      <li><strong>Secured debt through the plan:</strong> Some plans pay car loans or other secured debts directly through the trustee, adding to the monthly payment.</li>
+      <li><strong>Attorney fees:</strong> Your bankruptcy attorney's fees are often paid through the plan, typically $3,000-$5,000 depending on the district.</li>
+      <li><strong>Trustee fees:</strong> The Chapter 13 trustee takes a percentage of all plan payments (typically 4-10%) as compensation. This means your gross payment must be higher than the net amount distributed to creditors.</li>
+    </ul>
+  </div>
+
+  <div class="content-section">
+    <h2>Frequently Asked Questions</h2>
+
+    <div class="faq-item">
+      <h3>How much will my Chapter 13 payment be?</h3>
+      <p>Your payment depends on your disposable income, the value of your non-exempt assets, and the specific debts included in your plan. At minimum, it must equal your monthly disposable income (if the trustee objects) and must pay unsecured creditors at least as much as they would receive in a Chapter 7 liquidation. Many debtors pay between $200 and $2,000 per month, but the range varies enormously.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Can my payment change during the plan?</h3>
+      <p>Yes. Section 1329 allows the debtor, the trustee, or an unsecured creditor to request a plan modification after confirmation. If you lose your job, get a raise, or experience a significant change in expenses, the payment can be adjusted up or down. The modified plan must still satisfy the best interest test and be feasible. See our <a href="/plan-modification.html">plan modification guide</a> and our detailed page on <a href="/modify-plan.html">modifying your plan after confirmation</a>.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>What is disposable income in Chapter 13?</h3>
+      <p>Disposable income is your current monthly income minus amounts reasonably necessary for your maintenance and support. For above-median debtors, allowed expenses follow the means test formula from Section 707(b)(2) -- standardized IRS expense categories plus actual payments on secured debts. For below-median debtors, the court typically uses actual reasonable expenses. The means test is explained in detail at <a href="https://meanstest.org">meanstest.org</a>.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>What happens if I cannot afford the minimum payment?</h3>
+      <p>If your disposable income is zero or negative, you may still file Chapter 13 -- but only if you can propose a feasible plan that satisfies the best interest test and pays all required priority and secured debts. If that is not possible, Chapter 7 may be a better option (assuming you qualify under the means test). If you are already in an active case and cannot keep up, you may request a <a href="/plan-modification.html">plan modification</a>, convert to Chapter 7, or seek a <a href="https://bankruptcyhardship.org">hardship discharge</a> under Section 1328(b).</p>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <h2>Related Resources</h2>
+    <ul style="list-style:none;padding:0;">
+      <li style="margin-bottom:0.5rem;"><a href="https://meanstest.org">meanstest.org</a> -- Determine if your income is above or below the state median</li>
+      <li style="margin-bottom:0.5rem;"><a href="https://section1328.org">section1328.org</a> -- Chapter 13 discharge rules and the superdischarge</li>
+      <li style="margin-bottom:0.5rem;"><a href="/plan-payments.html">How Plan Payments Work</a> -- Payment collection, missed payments, and catch-up</li>
+      <li style="margin-bottom:0.5rem;"><a href="https://dismissalrate.org">dismissalrate.org</a> -- Chapter 13 dismissal and failure rates by district</li>
+    </ul>
+  </div>
+
+  <p style="color:var(--text-muted);font-size:0.8rem;text-align:center;margin-top:2rem;">Last updated: March 2026</p>
+
+</main>
+
+<footer class="network-footer" role="contentinfo">
+  <p><strong>Part of the Open Bankruptcy Project</strong></p>
+  <p>Real information, no strings.</p>
+  <div class="links">
+    <a href="https://1328f.com">1328f.com</a>
+    <a href="https://1328f.org">1328f.org</a>
+    <a href="https://automaticstay.org">automaticstay.org</a>
+    <a href="https://meanstest.org">meanstest.org</a>
+    <a href="https://341meeting.org">341meeting.org</a>
+    <a href="https://relieffromstay.org">relieffromstay.org</a>
+    <a href="https://dischargeinjunction.org">dischargeinjunction.org</a>
+    <a href="https://523a.org">523a.org</a>
+    <a href="https://727a8.org">727a8.org</a>
+    <a href="https://prosedebtors.org">prosedebtors.org</a>
+    <a href="https://whatischapter7.com">whatischapter7.com</a>
+    <a href="https://chapter13plan.org">chapter13plan.org</a>
+    <a href="https://lienstripping.org">lienstripping.org</a>
+    <a href="https://section1328.org">section1328.org</a>
+    <a href="https://bankruptcyhardship.org">bankruptcyhardship.org</a>
+    <a href="https://ko-fi.com/ilikemath9999">Ko-fi</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit (determination pending).</p>
+</footer>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+  <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+  <a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Fund this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+
+<script src="/btn-engage.js"></script>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:700px;margin:2rem auto">
+<p style="color:#9eaab6;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.25rem">Federal Rules Committee</p>
+<p style="color:#e6edf3;font-size:0.95rem;margin-bottom:0.25rem">This research supports <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/rules-suggestions" style="color:#58a6ff">Suggestion 26-BK-3</a> to the Advisory Committee on Bankruptcy Rules</p>
+<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts</p>
+</div>
+
+<script>
+function calculatePayment() {
+  var income = parseFloat(document.getElementById('calc-income').value) || 0;
+  var expenses = parseFloat(document.getElementById('calc-expenses').value) || 0;
+  var assets = parseFloat(document.getElementById('calc-assets').value) || 0;
+  var unsecured = parseFloat(document.getElementById('calc-unsecured').value) || 0;
+  var median = document.getElementById('calc-median').value;
+
+  var di = Math.max(0, income - expenses);
+  var months = median === 'above' ? 60 : 36;
+
+  // Disposable income test: total paid = di * months
+  var diTotal = di * months;
+
+  // Best interest test: must pay at least the value of non-exempt assets
+  var biTotal = assets;
+
+  // The controlling amount is whichever is higher
+  var controllingTotal = Math.max(diTotal, biTotal);
+  var controllingTest = diTotal >= biTotal ? 'Disposable Income Test' : 'Best Interest Test';
+
+  // If best interest test controls, monthly payment = assets / months (at minimum)
+  var monthlyPayment = controllingTotal / months;
+
+  // Cap percentage at 100%
+  var pct = unsecured > 0 ? Math.min(100, (controllingTotal / unsecured) * 100) : 0;
+
+  // If total exceeds unsecured debt, cap and possibly shorten plan
+  if (unsecured > 0 && controllingTotal > unsecured) {
+    controllingTotal = unsecured;
+    pct = 100;
+    // Could finish early
+    if (di > 0) {
+      var earlyMonths = Math.ceil(unsecured / di);
+      if (earlyMonths < months) {
+        months = earlyMonths;
+        monthlyPayment = di;
+      }
+    }
+  }
+
+  document.getElementById('res-di').textContent = '$' + di.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0}) + '/month';
+  document.getElementById('res-length').textContent = months + ' months (' + (months / 12).toFixed(1) + ' years)';
+  document.getElementById('res-payment').textContent = '$' + Math.round(monthlyPayment).toLocaleString() + '/month';
+  document.getElementById('res-total').textContent = '$' + Math.round(controllingTotal).toLocaleString();
+  document.getElementById('res-pct').textContent = pct.toFixed(1) + '%';
+  document.getElementById('res-test').textContent = controllingTest;
+
+  document.getElementById('calc-result').style.display = 'block';
+}
+</script>
+</body>
+</html>
