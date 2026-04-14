@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## 100% Chapter 13 Plan -- Benefits of Paying All Unsecured Creditors in Full
+## 100% Chapter 13 Plan - Benefits of Paying All Unsecured Creditors in Full
 Source: https://chapter13plan.org/100-percent-plan.html
 
 Skip to main content
@@ -30,9 +30,9 @@ Network › Chapter 13 Plan › 100% Plan
 
 What Is a 100% Plan?
 
-A "100% plan" is a Chapter 13 repayment plan that pays all allowed unsecured claims in full -- 100 cents on the dollar. At first glance, this might seem pointless: why go through bankruptcy if you are paying everything back? But a 100% plan provides several concrete legal and financial advantages that are not available outside bankruptcy.
+A "100% plan" is a Chapter 13 repayment plan that pays all allowed unsecured claims in full - 100 cents on the dollar. At first glance, this might seem pointless: why go through bankruptcy if you are paying everything back? But a 100% plan provides several concrete legal and financial advantages that are not available outside bankruptcy.
 
-100% plans are more common than many people realize. They typically arise when a debtor has above-median income and relatively moderate unsecured debt, or when a debtor's primary goal is not debt reduction but rather restructuring -- stopping a foreclosure, cramming down a car loan, or consolidating payments under court protection.
+100% plans are more common than many people realize. They typically arise when a debtor has above-median income and relatively moderate unsecured debt, or when a debtor's primary goal is not debt reduction but rather restructuring - stopping a foreclosure, cramming down a car loan, or consolidating payments under court protection.
 
 Why File Chapter 13 If Paying 100%?
 
@@ -40,35 +40,35 @@ A 100% Chapter 13 plan delivers benefits that no amount of voluntary debt repaym
 
 1. Stop Foreclosure and Cure Mortgage Arrears
 
-This is the most common reason for 100% plans. If you are behind on your mortgage, the automatic stay under Section 362 immediately stops foreclosure proceedings. Your plan then allows you to cure the entire arrearage over 3 to 5 years while making current mortgage payments going forward. Outside bankruptcy, most lenders demand immediate full payment of arrears -- which is often impossible.
+This is the most common reason for 100% plans. If you are behind on your mortgage, the automatic stay under Section 362 immediately stops foreclosure proceedings. Your plan then allows you to cure the entire arrearage over 3 to 5 years while making current mortgage payments going forward. Outside bankruptcy, most lenders demand immediate full payment of arrears - which is often impossible.
 
-A debtor who is $15,000 behind on a mortgage and has $20,000 in credit card debt might file a 100% plan that cures the mortgage arrears over 60 months ($250/month) while paying 100% of the unsecured debt. The alternative -- losing the home -- is far worse.
+A debtor who is $15,000 behind on a mortgage and has $20,000 in credit card debt might file a 100% plan that cures the mortgage arrears over 60 months ($250/month) while paying 100% of the unsecured debt. The alternative - losing the home - is far worse.
 
 2. Cramdown Car Loans
 
-Even in a 100% plan, you can cramdown car loans to the vehicle's replacement value (subject to the 910-day rule). If you owe $18,000 on a car worth $10,000, your plan pays $10,000 as a secured claim at the Till rate, and the $8,000 deficiency becomes unsecured. In a 100% plan, you pay the $8,000 deficiency in full -- but you still save substantially because you eliminated the high contract interest rate on the entire $18,000.
+Even in a 100% plan, you can cramdown car loans to the vehicle's replacement value (subject to the 910-day rule). If you owe $18,000 on a car worth $10,000, your plan pays $10,000 as a secured claim at the Till rate, and the $8,000 deficiency becomes unsecured. In a 100% plan, you pay the $8,000 deficiency in full - but you still save substantially because you eliminated the high contract interest rate on the entire $18,000.
 
 3. Stop Interest and Penalties
 
-Once your Chapter 13 case is filed, most unsecured creditors stop accruing interest. In a 100% plan, you pay the allowed claims as of the filing date -- not the ballooning balance that would accumulate over 3 to 5 years of continued interest and late fees. For high-interest credit card debt, this savings can be significant even in a 100% plan.
+Once your Chapter 13 case is filed, most unsecured creditors stop accruing interest. In a 100% plan, you pay the allowed claims as of the filing date - not the ballooning balance that would accumulate over 3 to 5 years of continued interest and late fees. For high-interest credit card debt, this savings can be significant even in a 100% plan.
 
 4. One Consolidated Monthly Payment
 
-Instead of juggling payments to multiple creditors, you make one payment to the Chapter 13 trustee, who distributes it according to the plan. This simplifies your finances and eliminates the risk of missing a payment to one creditor while paying others. It also provides a structured framework -- like a court-supervised debt management plan with the force of federal law behind it.
+Instead of juggling payments to multiple creditors, you make one payment to the Chapter 13 trustee, who distributes it according to the plan. This simplifies your finances and eliminates the risk of missing a payment to one creditor while paying others. It also provides a structured framework - like a court-supervised debt management plan with the force of federal law behind it.
 
 5. Protection from Lawsuits and Garnishment
 
-The automatic stay prevents all collection activity throughout your case -- lawsuits, wage garnishment, bank levies, repossession, utility shutoffs (for 20 days), and collection calls. This blanket protection lasts for the entire 3-to-5-year plan term, not just a few months.
+The automatic stay prevents all collection activity throughout your case - lawsuits, wage garnishment, bank levies, repossession, utility shutoffs (for 20 days), and collection calls. This blanket protection lasts for the entire 3-to-5-year plan term, not just a few months.
 
 6. The Superdischarge
 
 The Chapter 13 discharge under Section 1328(a) is broader than the Chapter 7 discharge. Sometimes called the "superdischarge," it can discharge certain debts that would survive Chapter 7, including:
 
-Debts for willful and malicious injury to property (but not to persons) -- 11 U.S.C. Section 523(a)(6)
+Debts for willful and malicious injury to property (but not to persons) - 11 U.S.C. Section 523(a)(6)
 
-Debts incurred to pay nondischargeable tax obligations -- 11 U.S.C. Section 523(a)(14)
+Debts incurred to pay nondischargeable tax obligations - 11 U.S.C. Section 523(a)(14)
 
-Certain debts arising from property settlements in divorce or separation -- 11 U.S.C. Section 523(a)(15)
+Certain debts arising from property settlements in divorce or separation - 11 U.S.C. Section 523(a)(15)
 
 Even in a 100% plan, the discharge provides a legal determination that the debts are fully satisfied. It prevents creditors from later claiming additional amounts, penalties, or interest that were not part of the allowed claim. For more on the superdischarge, see section1328.org.
 
@@ -80,7 +80,7 @@ Not everyone who files a 100% plan does so by choice. Several circumstances lead
 
 Above-median income with moderate unsecured debt: If you earn well above the state median and have only $15,000-$30,000 in unsecured debt, your projected disposable income over 60 months may exceed the total unsecured debt. The disposable income test effectively requires a 100% plan.
 
-Low unsecured debt: A debtor with $5,000 in credit card debt but $20,000 in mortgage arrears will likely pay 100% of unsecured claims because the plan payment -- driven by the mortgage cure -- generates enough to cover everything.
+Low unsecured debt: A debtor with $5,000 in credit card debt but $20,000 in mortgage arrears will likely pay 100% of unsecured claims because the plan payment - driven by the mortgage cure - generates enough to cover everything.
 
 Significant non-exempt assets: If you have $40,000 in non-exempt equity and $35,000 in unsecured debt, the best interest test requires at least 100% payment (since Chapter 7 liquidation would yield more than the total unsecured claims).
 
@@ -92,11 +92,11 @@ One important and often-contested question: can a 100% plan be shorter than the 
 
 The circuits are split on this issue:
 
-Some circuits allow early completion: If you pay 100% of all allowed unsecured claims before the 36- or 60-month commitment period ends, some courts permit the plan to conclude early. The reasoning is that Section 1325(b)(1)(B) requires either full payment or the applicable commitment period -- and full payment has been achieved.
+Some circuits allow early completion: If you pay 100% of all allowed unsecured claims before the 36- or 60-month commitment period ends, some courts permit the plan to conclude early. The reasoning is that Section 1325(b)(1)(B) requires either full payment or the applicable commitment period - and full payment has been achieved.
 
 Other circuits require the full period: Some courts hold that the applicable commitment period is a minimum duration, regardless of when 100% payment is achieved. Under this interpretation, you continue making payments (which are then distributed to creditors, potentially exceeding 100%) or you must wait out the remaining months.
 
-For below-median debtors, the 3-year commitment period makes this less controversial -- 3 years is manageable, and many plans can pay 100% well within that timeframe. For above-median debtors locked into a 5-year period, the difference matters significantly.
+For below-median debtors, the 3-year commitment period makes this less controversial - 3 years is manageable, and many plans can pay 100% well within that timeframe. For above-median debtors locked into a 5-year period, the difference matters significantly.
 
 Check your circuit: Local practice controls this issue. Ask your attorney or the Chapter 13 trustee's office whether your district permits early plan completion upon 100% payment.
 
@@ -130,11 +130,11 @@ Under Section 1325(b)(1), if the trustee or an unsecured creditor objects to con
 
 If your disposable income over the commitment period exceeds your total unsecured debt, you are paying 100% whether you planned to or not.
 
-If you propose a 100% plan, the disposable income test is automatically satisfied regardless of how much income you earn -- because you are paying everything.
+If you propose a 100% plan, the disposable income test is automatically satisfied regardless of how much income you earn - because you are paying everything.
 
 The best interest test is also automatically satisfied in a 100% plan, since creditors receive more than they would in Chapter 7 liquidation (unless you have non-exempt assets exceeding your unsecured debt, which is rare).
 
-This makes confirmation of a 100% plan relatively straightforward. The main issue the court will examine is feasibility -- can you actually make the proposed payments for the duration of the plan?
+This makes confirmation of a 100% plan relatively straightforward. The main issue the court will examine is feasibility - can you actually make the proposed payments for the duration of the plan?
 
 Frequently Asked Questions
 
@@ -148,7 +148,7 @@ It depends on your income level and your circuit. Below-median debtors have a 3-
 
 Do I still get a discharge with a 100% plan?
 
-Yes. Upon completion of all plan payments, you receive the full Chapter 13 discharge under Section 1328(a). This includes the superdischarge -- broader than the Chapter 7 discharge -- which covers certain debts like willful property damage and some property settlement obligations from divorce. The discharge also provides a legal determination that all obligations under the plan are satisfied, preventing future claims.
+Yes. Upon completion of all plan payments, you receive the full Chapter 13 discharge under Section 1328(a). This includes the superdischarge - broader than the Chapter 7 discharge - which covers certain debts like willful property damage and some property settlement obligations from divorce. The discharge also provides a legal determination that all obligations under the plan are satisfied, preventing future claims.
 
 Does the trustee fee increase my total cost?
 
@@ -156,13 +156,13 @@ Yes. The trustee takes a percentage (typically 4-10%) of all distributions. In a
 
 Related Resources
 
-meanstest.org -- Check whether your income is above or below median
+meanstest.org - Check whether your income is above or below median
 
-How Plan Payments Work -- Payment collection and what happens if you miss one
+How Plan Payments Work - Payment collection and what happens if you miss one
 
-The Superdischarge -- Section 1328(a)
+The Superdischarge - Section 1328(a)
 
-whatischapter7.com -- Compare with Chapter 7 to decide which chapter fits your situation
+whatischapter7.com - Compare with Chapter 7 to decide which chapter fits your situation
 
 Last updated: March 2026
 
@@ -171,10 +171,10 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -280,7 +280,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Payment Calculator: Estimate Your Monthly Plan [2026] -- Chapter 13 Plan
+## Chapter 13 Payment Calculator: Estimate Your Monthly Plan [2026] - Chapter 13 Plan
 Source: https://chapter13plan.org/calculator.html
 
 Skip to main content
@@ -307,7 +307,7 @@ Chapter 13 Payment Estimator
 
 Monthly Take-Home Income (after taxes)
 
-Your net monthly pay -- what actually hits your bank account.
+Your net monthly pay - what actually hits your bank account.
 
 Monthly Expenses
 
@@ -329,7 +329,7 @@ Childcare, child support (ongoing), clothing, phone, internet, etc.
 
 Total Secured Debt Arrears ($)
 
-Mortgage arrears, car loan arrears -- the past-due amount you must cure.
+Mortgage arrears, car loan arrears - the past-due amount you must cure.
 
 Total Priority Debt ($)
 
@@ -388,19 +388,19 @@ A Chapter 13 bankruptcy plan is a court-supervised repayment program lasting 3 t
 
 Your monthly plan payment is sent to a Chapter 13 trustee, who distributes it to your creditors according to the priority rules set by the Bankruptcy Code. The trustee takes a percentage (typically 5-10%) as an administrative fee before distributing the remainder.
 
-The core idea is straightforward: you pay what you can afford, and anything left over on unsecured debt is discharged when you complete the plan. But "what you can afford" is not up to you alone -- the court applies specific tests to make sure the amount is fair to both you and your creditors.
+The core idea is straightforward: you pay what you can afford, and anything left over on unsecured debt is discharged when you complete the plan. But "what you can afford" is not up to you alone - the court applies specific tests to make sure the amount is fair to both you and your creditors.
 
 The Three Tests Every Plan Must Pass
 
 Before a bankruptcy judge will confirm (approve) your plan, it must satisfy three key requirements under 11 U.S.C. Section 1325:
 
-Feasibility test -- You must be able to actually make the proposed payments. The court looks at your income, expenses, and payment history. If your budget leaves no margin for emergencies, the court may reject the plan as not feasible.
+Feasibility test - You must be able to actually make the proposed payments. The court looks at your income, expenses, and payment history. If your budget leaves no margin for emergencies, the court may reject the plan as not feasible.
 
-Best interests test (Section 1325(a)(4)) -- Unsecured creditors must receive at least as much as they would get in a Chapter 7 liquidation. If you have nonexempt assets worth $5,000 that would be sold in Chapter 7, your plan must pay unsecured creditors at least $5,000 total.
+Best interests test (Section 1325(a)(4)) - Unsecured creditors must receive at least as much as they would get in a Chapter 7 liquidation. If you have nonexempt assets worth $5,000 that would be sold in Chapter 7, your plan must pay unsecured creditors at least $5,000 total.
 
-Best efforts test (Section 1325(b)) -- If the trustee or any unsecured creditor objects, you must commit all of your "projected disposable income" for the applicable commitment period. This is the most common battleground in Chapter 13 cases.
+Best efforts test (Section 1325(b)) - If the trustee or any unsecured creditor objects, you must commit all of your "projected disposable income" for the applicable commitment period. This is the most common battleground in Chapter 13 cases.
 
-11 U.S.C. Section 1325(b)(1): "If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan -- the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim; or the plan provides that all of the debtor's projected disposable income to be received in the applicable commitment period ... will be applied to make payments to unsecured creditors under the plan."
+11 U.S.C. Section 1325(b)(1): "If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan - the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim; or the plan provides that all of the debtor's projected disposable income to be received in the applicable commitment period ... will be applied to make payments to unsecured creditors under the plan."
 
 Understanding Disposable Income
 
@@ -412,7 +412,7 @@ If your current monthly income is below the state median, your disposable income
 
 Above-Median Debtors
 
-If your income exceeds the state median, expenses are determined using IRS Local and National Standards -- the same standards used in the Chapter 7 means test. You must commit to a 60-month plan. This formula-based approach can sometimes allow more or fewer expenses than you actually spend.
+If your income exceeds the state median, expenses are determined using IRS Local and National Standards - the same standards used in the Chapter 7 means test. You must commit to a 60-month plan. This formula-based approach can sometimes allow more or fewer expenses than you actually spend.
 
 Key point: Disposable income is not the same as "leftover money." It is a legal calculation that may differ significantly from what you see in your bank account. Above-median debtors use standardized expense amounts, not actual spending. Below-median debtors use actual expenses, but the court can disallow expenses it considers unreasonable.
 
@@ -420,37 +420,37 @@ Secured, Priority, and Unsecured Debt Treatment
 
 Secured Debt
 
-Secured debts are backed by collateral -- your home mortgage, car loan, or equipment liens. In Chapter 13, you must cure any pre-filing arrears (missed payments) over the plan term while maintaining ongoing regular payments outside the plan. For example, if you are $6,000 behind on your mortgage, that $6,000 must be paid through your plan over 36 or 60 months, on top of your regular monthly mortgage payment.
+Secured debts are backed by collateral - your home mortgage, car loan, or equipment liens. In Chapter 13, you must cure any pre-filing arrears (missed payments) over the plan term while maintaining ongoing regular payments outside the plan. For example, if you are $6,000 behind on your mortgage, that $6,000 must be paid through your plan over 36 or 60 months, on top of your regular monthly mortgage payment.
 
 For some secured debts, you may be able to use cramdown to reduce the debt to the collateral's current value. This is especially valuable for car loans on underwater vehicles, though it does not apply to your primary residence mortgage.
 
 Priority Debt
 
-Priority debts must be paid in full through the plan. These include income tax debts from the last three years, past-due child support and alimony, and certain other claims designated as priority under 11 U.S.C. Section 507. You cannot discharge priority debts, so they must be paid 100% -- the only question is whether you pay them over 36 or 60 months.
+Priority debts must be paid in full through the plan. These include income tax debts from the last three years, past-due child support and alimony, and certain other claims designated as priority under 11 U.S.C. Section 507. You cannot discharge priority debts, so they must be paid 100% - the only question is whether you pay them over 36 or 60 months.
 
 Unsecured Debt
 
-Unsecured debt -- credit cards, medical bills, personal loans, payday loans -- gets whatever is left after the trustee fee, secured arrears, and priority debts are paid. In many plans, unsecured creditors receive between 0% and 30% of their claims. Whatever balance remains after your plan completes is discharged.
+Unsecured debt - credit cards, medical bills, personal loans, payday loans - gets whatever is left after the trustee fee, secured arrears, and priority debts are paid. In many plans, unsecured creditors receive between 0% and 30% of their claims. Whatever balance remains after your plan completes is discharged.
 
-The math matters: If your disposable income is $500/month and your secured arrears and priority debt require $400/month, only $100/month (minus trustee fees) goes to unsecured creditors. On a 60-month plan, that means roughly $5,400 to unsecured creditors (after 10% trustee fee) -- which on $50,000 in unsecured debt equals about 11%.
+The math matters: If your disposable income is $500/month and your secured arrears and priority debt require $400/month, only $100/month (minus trustee fees) goes to unsecured creditors. On a 60-month plan, that means roughly $5,400 to unsecured creditors (after 10% trustee fee) - which on $50,000 in unsecured debt equals about 11%.
 
 What Happens When Your Situation Changes
 
 Life does not stop during a 3-5 year plan. Job loss, pay raises, medical emergencies, divorce, and other changes can all affect your ability to make plan payments. The Bankruptcy Code provides several safety valves:
 
-Plan modification (Section 1329) -- You, the trustee, or an unsecured creditor can ask the court to modify the plan after confirmation. This can increase or decrease payments depending on changed circumstances.
+Plan modification (Section 1329) - You, the trustee, or an unsecured creditor can ask the court to modify the plan after confirmation. This can increase or decrease payments depending on changed circumstances.
 
-Hardship discharge (Section 1328(b)) -- If circumstances beyond your control prevent plan completion and unsecured creditors have already received at least what they would in Chapter 7, you may qualify for a discharge without completing the plan.
+Hardship discharge (Section 1328(b)) - If circumstances beyond your control prevent plan completion and unsecured creditors have already received at least what they would in Chapter 7, you may qualify for a discharge without completing the plan.
 
-Voluntary dismissal (Section 1307(b)) -- You can dismiss your Chapter 13 case at any time, but you lose the benefit of the automatic stay and any dischargeable debt remains.
+Voluntary dismissal (Section 1307(b)) - You can dismiss your Chapter 13 case at any time, but you lose the benefit of the automatic stay and any dischargeable debt remains.
 
-Conversion to Chapter 7 (Section 1307(a)) -- If you qualify, you can convert your Chapter 13 to a Chapter 7, which eliminates unsecured debt without continued payments.
+Conversion to Chapter 7 (Section 1307(a)) - If you qualify, you can convert your Chapter 13 to a Chapter 7, which eliminates unsecured debt without continued payments.
 
 Trustee Fees and Administrative Costs
 
 The Chapter 13 trustee takes a percentage of every dollar that passes through the plan. This percentage varies by district but typically ranges from 5% to 10%. It is set by the U.S. Trustee's office under 28 U.S.C. Section 586(e) and is not negotiable.
 
-Attorney fees are also paid through the plan in most districts. A typical Chapter 13 attorney fee ranges from $2,500 to $4,000, and this amount is deducted from your plan payments before creditors receive distributions. Some districts use "no-look" fee amounts -- pre-approved fee levels that do not require itemized billing.
+Attorney fees are also paid through the plan in most districts. A typical Chapter 13 attorney fee ranges from $2,500 to $4,000, and this amount is deducted from your plan payments before creditors receive distributions. Some districts use "no-look" fee amounts - pre-approved fee levels that do not require itemized billing.
 
 These administrative costs mean that not every dollar of your payment goes to creditors. On a $500/month payment with a 10% trustee fee, only $450/month actually reaches creditors.
 
@@ -485,23 +485,23 @@ Research Platform
 
 Related Resources
 
-How Plan Payments Work -- Detailed breakdown of payment mechanics
+How Plan Payments Work - Detailed breakdown of payment mechanics
 
-Means Test Guide -- Determine if you qualify for Chapter 7 or must file Chapter 13
+Means Test Guide - Determine if you qualify for Chapter 7 or must file Chapter 13
 
-Lien Stripping -- Remove underwater junior liens in Chapter 13
+Lien Stripping - Remove underwater junior liens in Chapter 13
 
-Alternatives to Bankruptcy -- Compare all options before you file
+Alternatives to Bankruptcy - Compare all options before you file
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -582,7 +582,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Cramdown -- Reduce Your Car Loan and Other Secured Debts -- Chapter 13 Plan
+## Chapter 13 Cramdown - Reduce Your Car Loan and Other Secured Debts - Chapter 13 Plan
 Source: https://chapter13plan.org/cramdown.html
 
 Skip to main content
@@ -606,9 +606,9 @@ Network › Chapter 13 Plan › Cramdown
 
 What Is a Cramdown?
 
-A "cramdown" is one of the most powerful tools available to Chapter 13 debtors. It allows you to reduce a secured debt to the actual value of the collateral -- not what you owe on the loan. The legal basis is 11 U.S.C. Section 506(a), which provides that a claim is secured only to the extent of the value of the creditor's interest in the property. Any amount above that value becomes an unsecured claim.
+A "cramdown" is one of the most powerful tools available to Chapter 13 debtors. It allows you to reduce a secured debt to the actual value of the collateral - not what you owe on the loan. The legal basis is 11 U.S.C. Section 506(a), which provides that a claim is secured only to the extent of the value of the creditor's interest in the property. Any amount above that value becomes an unsecured claim.
 
-In plain terms: if you owe $15,000 on a car that is now worth $8,000, a cramdown splits the debt into two parts. The $8,000 secured by the car is treated as a secured claim and paid through the plan at an appropriate interest rate. The remaining $7,000 becomes unsecured and is paid at whatever percentage your plan provides to unsecured creditors -- often pennies on the dollar.
+In plain terms: if you owe $15,000 on a car that is now worth $8,000, a cramdown splits the debt into two parts. The $8,000 secured by the car is treated as a secured claim and paid through the plan at an appropriate interest rate. The remaining $7,000 becomes unsecured and is paid at whatever percentage your plan provides to unsecured creditors - often pennies on the dollar.
 
 The term "cramdown" is not used in the Bankruptcy Code itself. It is informal shorthand used by practitioners and courts to describe the bifurcation of an undersecured claim under Section 506(a) and the treatment of the secured portion under Section 1325(a)(5).
 
@@ -616,7 +616,7 @@ How Cramdown Works in Practice
 
 To cramdown a secured debt in Chapter 13, your plan must propose to pay the secured creditor the replacement value of the collateral, plus interest, over the life of the plan. The plan must also provide that the creditor retains its lien on the property until the earlier of (a) payment of the allowed secured claim or (b) discharge. Here is the step-by-step process:
 
-Determine the collateral's value. For personal property like vehicles, the standard is "replacement value" -- what it would cost the debtor to obtain comparable property, considering the age and condition of the actual property. The Supreme Court established this standard in Associates Commercial Corp. v. Rash, 520 U.S. 953 (1997). For cars, this is typically between private party value and retail value, often approximated using NADA or KBB guides.
+Determine the collateral's value. For personal property like vehicles, the standard is "replacement value" - what it would cost the debtor to obtain comparable property, considering the age and condition of the actual property. The Supreme Court established this standard in Associates Commercial Corp. v. Rash, 520 U.S. 953 (1997). For cars, this is typically between private party value and retail value, often approximated using NADA or KBB guides.
 
 Bifurcate the claim. The total debt is split: the secured portion equals the collateral's value, and the remainder is treated as an unsecured claim.
 
@@ -648,21 +648,21 @@ In this example, cramdown saves approximately $10,000 over the life of the plan.
 
 The 910-Day Rule (BAPCPA Hanging Paragraph)
 
-There is one major exception to car loan cramdown. The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA) added what is commonly called the "hanging paragraph" -- an unnumbered paragraph at the end of Section 1325(a) that prevents cramdown of certain recent vehicle purchases.
+There is one major exception to car loan cramdown. The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA) added what is commonly called the "hanging paragraph" - an unnumbered paragraph at the end of Section 1325(a) that prevents cramdown of certain recent vehicle purchases.
 
 The 910-day rule: If you purchased a motor vehicle for personal use and the purchase-money security interest was incurred within 910 days (approximately 2.5 years) before your bankruptcy filing date, you cannot cramdown the loan. You must pay the full balance through the plan.
 
 Key details about the 910-day rule:
 
-Purchase-money only: The rule applies only to purchase-money security interests -- loans taken out to buy the vehicle. If you refinanced the car loan, some courts hold that the refinanced loan is no longer a purchase-money security interest, making cramdown available even within 910 days. This is a contested area of law that varies by circuit.
+Purchase-money only: The rule applies only to purchase-money security interests - loans taken out to buy the vehicle. If you refinanced the car loan, some courts hold that the refinanced loan is no longer a purchase-money security interest, making cramdown available even within 910 days. This is a contested area of law that varies by circuit.
 
 Personal use only: The 910-day rule applies only to vehicles acquired for personal, family, or household purposes. Business vehicles are not subject to the rule and can be crammed down regardless of when they were purchased.
 
 Motor vehicles only: The rule specifically covers motor vehicles. Other personal property purchased within one year before filing is subject to a separate provision in the same hanging paragraph, but the 910-day timeline applies only to motor vehicles.
 
-Count carefully: The 910 days are counted backward from the petition date. If you purchased the car on January 1, 2024, and filed bankruptcy on August 1, 2026, that is 943 days -- cramdown is available. If you filed on April 1, 2026, that is only 821 days -- cramdown is blocked.
+Count carefully: The 910 days are counted backward from the petition date. If you purchased the car on January 1, 2024, and filed bankruptcy on August 1, 2026, that is 943 days - cramdown is available. If you filed on April 1, 2026, that is only 821 days - cramdown is blocked.
 
-Strategic timing: If your car loan is underwater and you are considering Chapter 13, check whether waiting a few extra months to file would get you past the 910-day mark. The savings from cramdown can be substantial -- potentially thousands of dollars.
+Strategic timing: If your car loan is underwater and you are considering Chapter 13, check whether waiting a few extra months to file would get you past the 910-day mark. The savings from cramdown can be substantial - potentially thousands of dollars.
 
 What Can (and Cannot) Be Crammed Down
 
@@ -688,9 +688,9 @@ Personal property loans within 1 year (non-vehicle): The hanging paragraph also 
 
 Valuation: The Replacement Value Standard
 
-Under Associates Commercial Corp. v. Rash, 520 U.S. 953 (1997), the Supreme Court held that when a debtor proposes to retain collateral under a cramdown, the appropriate valuation standard is "replacement value" -- the price a willing buyer in the debtor's trade, business, or situation would pay a willing seller to obtain comparable property.
+Under Associates Commercial Corp. v. Rash, 520 U.S. 953 (1997), the Supreme Court held that when a debtor proposes to retain collateral under a cramdown, the appropriate valuation standard is "replacement value" - the price a willing buyer in the debtor's trade, business, or situation would pay a willing seller to obtain comparable property.
 
-For vehicles, replacement value is generally understood to fall between private party sale value and full retail value. Most courts look to NADA (National Automobile Dealers Association) guides, Kelley Blue Book, or actual comparable sales. Some districts have established local conventions -- for example, using NADA clean retail minus a fixed percentage.
+For vehicles, replacement value is generally understood to fall between private party sale value and full retail value. Most courts look to NADA (National Automobile Dealers Association) guides, Kelley Blue Book, or actual comparable sales. Some districts have established local conventions - for example, using NADA clean retail minus a fixed percentage.
 
 Valuation disputes are common. The creditor will argue for a higher value (reducing the benefit of cramdown), and the debtor will argue for a lower value. If the parties cannot agree, the court holds an evidentiary hearing on valuation. Having a professional appraisal or detailed comparable sales data strengthens your position.
 
@@ -702,7 +702,7 @@ Till rate = Prime rate + Risk adjustment (1% to 3%)
 
 The prime rate is the national prime rate published by the Wall Street Journal. The risk adjustment accounts for factors such as the probability of default, the nature of the collateral, and the adequacy of protection. Most courts add 1% to 3%, with 1% to 2% being most common for vehicle loans.
 
-The Till rate is almost always lower than the contract rate on the original loan, especially for subprime borrowers. A debtor who financed a car at 18% interest might see their cramdown rate reduced to 9-10% -- a significant savings on top of the principal reduction.
+The Till rate is almost always lower than the contract rate on the original loan, especially for subprime borrowers. A debtor who financed a car at 18% interest might see their cramdown rate reduced to 9-10% - a significant savings on top of the principal reduction.
 
 Not all circuits follow Till identically. Some courts in the Eighth Circuit and elsewhere have used a "coerced loan" or market-rate approach in certain circumstances. Check local practice in your district.
 
@@ -730,7 +730,7 @@ Frequently Asked Questions
 
 Can I reduce my car loan in Chapter 13?
 
-Yes -- if the vehicle was purchased more than 910 days before your bankruptcy filing date. Under Section 506(a), the secured claim is reduced to the replacement value of the vehicle. The remaining balance becomes unsecured debt, paid at whatever percentage your plan provides. If the vehicle was purchased within 910 days and the loan is a purchase-money security interest, cramdown is not available.
+Yes - if the vehicle was purchased more than 910 days before your bankruptcy filing date. Under Section 506(a), the secured claim is reduced to the replacement value of the vehicle. The remaining balance becomes unsecured debt, paid at whatever percentage your plan provides. If the vehicle was purchased within 910 days and the loan is a purchase-money security interest, cramdown is not available.
 
 What is the 910-day rule?
 
@@ -738,7 +738,7 @@ The 910-day rule (from the BAPCPA "hanging paragraph" at the end of Section 1325
 
 Can I cramdown my mortgage?
 
-You cannot cramdown a mortgage on your principal residence. Section 1322(b)(2) specifically prohibits modification of a claim secured only by the debtor's primary home. However, you can cramdown mortgages on investment or rental properties. You may also be able to strip off a wholly unsecured junior lien on your primary residence -- see lienstripping.org.
+You cannot cramdown a mortgage on your principal residence. Section 1322(b)(2) specifically prohibits modification of a claim secured only by the debtor's primary home. However, you can cramdown mortgages on investment or rental properties. You may also be able to strip off a wholly unsecured junior lien on your primary residence - see lienstripping.org.
 
 What interest rate applies to a crammed-down loan?
 
@@ -746,13 +746,13 @@ Most courts apply the Till rate: the national prime rate plus a risk adjustment 
 
 Related Resources
 
-lienstripping.org -- Strip off underwater junior liens on your home
+lienstripping.org - Strip off underwater junior liens on your home
 
-Secured Debts in Chapter 13 -- How mortgages, car loans, and other liens are treated
+Secured Debts in Chapter 13 - How mortgages, car loans, and other liens are treated
 
-meanstest.org -- Determine your median income status for plan length
+meanstest.org - Determine your median income status for plan length
 
-section1328.org -- Chapter 13 discharge rules
+section1328.org - Chapter 13 discharge rules
 
 Last updated: March 2026
 
@@ -761,10 +761,10 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -870,7 +870,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Repayment Plan -- How Plan Payments Work [2026 Guide] -- Chapter 13 Plan
+## Chapter 13 Repayment Plan - How Plan Payments Work [2026 Guide] - Chapter 13 Plan
 Source: https://chapter13plan.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -888,7 +888,7 @@ Priority Debts
 Modification
 Cramdown
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Chapter 13 Repayment Plan
 
@@ -898,13 +898,13 @@ Network › Chapter 13 Repayment Plan
 
 About This Site
 
-The Chapter 13 repayment plan is the centerpiece of every Chapter 13 bankruptcy case. It is a court-approved proposal that determines how much you pay, to whom, and for how long -- typically 3 to 5 years. The plan governs everything from mortgage arrears to priority tax debts to unsecured creditor distributions.
+The Chapter 13 repayment plan is the centerpiece of every Chapter 13 bankruptcy case. It is a court-approved proposal that determines how much you pay, to whom, and for how long - typically 3 to 5 years. The plan governs everything from mortgage arrears to priority tax debts to unsecured creditor distributions. Chapter 13 also provides a powerful right to cure defaults on secured debts like mortgages and car loans, allowing you to catch up on missed payments through the plan.
 
 This site will explain the requirements for a confirmable plan under Sections 1322 and 1325, including the best interests test, the projected disposable income test, and the treatment of secured, priority, and unsecured claims. We will break down plan modification rules under Section 1329 and what happens when circumstances change.
 
 Whether you are trying to understand a plan your attorney proposed, evaluating whether to object to confirmation, or researching Chapter 13 plan structures as a legal professional, this site will provide clear, statute-grounded explanations of how plans work in practice.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -921,19 +921,19 @@ How Plan Payments Work
 
 Plan Payment Calculator
 
-Plan Confirmation -- Section 1325
+Plan Confirmation - Section 1325
 
-Modifying Your Plan -- Section 1329
+Modifying Your Plan - Section 1329
 
 Can I Modify My Plan After Confirmation?
 
-Secured Debts -- Mortgage, Car, Liens
+Secured Debts - Mortgage, Car, Liens
 
-Cramdown -- Reduce Your Car Loan
+Cramdown - Reduce Your Car Loan
 
 Priority Debts in Chapter 13
 
-100% Plan -- Paying All Creditors in Full
+100% Plan - Paying All Creditors in Full
 
 Related Topics
 
@@ -950,21 +950,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Lien Stripping -- How to remove underwater junior liens in Chapter 13
+Lien Stripping - How to remove underwater junior liens in Chapter 13
 
-hardship discharge in bankruptcy -- Section 1328 discharge requirements(b) discharge when you cannot complete your plan
+hardship discharge in bankruptcy - Section 1328 discharge requirements(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -1009,7 +1009,7 @@ dismissalrate.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Can I Keep My Car?
 
@@ -1171,11 +1171,14 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1215,27 +1218,27 @@ Cramdown
 
 Can I Modify My Chapter 13 Plan After Confirmation?
 
-Yes -- Section 1329 provides a flexible mechanism to adjust your plan when circumstances change
+Yes - Section 1329 provides a flexible mechanism to adjust your plan when circumstances change
 
 Network › Chapter 13 Plan › Modify Plan After Confirmation
 
 Post-Confirmation Modification Under Section 1329
 
-A Chapter 13 plan is not set in stone. Life changes -- jobs are lost, medical emergencies arise, income increases, divorces happen -- and the Bankruptcy Code accounts for this reality. Section 1329 of Title 11 allows modification of a confirmed plan at any time after confirmation but before the completion of payments.
+A Chapter 13 plan is not set in stone. Life changes - jobs are lost, medical emergencies arise, income increases, divorces happen - and the Bankruptcy Code accounts for this reality. Section 1329 of Title 11 allows modification of a confirmed plan at any time after confirmation but before the completion of payments.
 
 This flexibility is one of the core advantages of Chapter 13 over Chapter 7. Rather than forcing dismissal when things change, the Code provides a mechanism to adjust the plan to current reality. Courts generally favor modification over dismissal because it keeps the debtor in the system, maintains the automatic stay, and continues distributions to creditors.
 
-However, modification is not automatic. The modified plan must be filed with the court, served on affected parties, and must satisfy the same legal requirements as the original plan -- including the best interest test, the projected disposable income test, and the feasibility test under Section 1325.
+However, modification is not automatic. The modified plan must be filed with the court, served on affected parties, and must satisfy the same legal requirements as the original plan - including the best interest test, the projected disposable income test, and the feasibility test under Section 1325.
 
 Who Can Request a Modification?
 
 Section 1329(a) authorizes three parties to request plan modification:
 
-The debtor -- This is the most common scenario. You can file a modified plan at any time after confirmation to reduce payments (if income dropped), extend the plan (up to 60 months), change how claims are treated, or surrender collateral you can no longer afford.
+The debtor - This is the most common scenario. You can file a modified plan at any time after confirmation to reduce payments (if income dropped), extend the plan (up to 60 months), change how claims are treated, or surrender collateral you can no longer afford.
 
-The Chapter 13 trustee -- The trustee monitors your financial situation throughout the case. If your income increases substantially, the trustee may file a motion to modify your plan to increase payments to unsecured creditors. This is often triggered by review of your annual tax returns.
+The Chapter 13 trustee - The trustee monitors your financial situation throughout the case. If your income increases substantially, the trustee may file a motion to modify your plan to increase payments to unsecured creditors. This is often triggered by review of your annual tax returns.
 
-An unsecured creditor -- While rare in practice, any holder of an allowed unsecured claim can request modification. This might occur if a creditor learns that the debtor's income has increased or that the debtor received a substantial inheritance or other windfall.
+An unsecured creditor - While rare in practice, any holder of an allowed unsecured claim can request modification. This might occur if a creditor learns that the debtor's income has increased or that the debtor received a substantial inheritance or other windfall.
 
 Common Triggers for Plan Modification
 
@@ -1267,7 +1270,7 @@ Section 1329(a) specifically permits modification to:
 
 Increase or reduce the amount of payments on claims of a particular class designated in the plan.
 
-Extend or reduce the time period for payments -- but the plan cannot exceed 60 months total from the date of the first payment under the original plan.
+Extend or reduce the time period for payments - but the plan cannot exceed 60 months total from the date of the first payment under the original plan.
 
 Alter the amount of distribution to a creditor whose claim is provided for by the plan, to the extent necessary to account for payments made outside the plan.
 
@@ -1275,7 +1278,7 @@ Reduce amounts to be paid to account for any actual payments made (added by the 
 
 In practical terms, this means you can adjust payment amounts, change how specific creditors are paid, surrender collateral, add new debts to the plan, extend the plan up to the 60-month maximum, or shorten it if you can pay everything sooner.
 
-The 60-month ceiling is absolute. Even through modification, your plan cannot exceed 60 months from the date of the first payment under the original confirmed plan. If you are already 48 months into a 60-month plan, you cannot extend it to 72 months -- you have 12 months left, period. Plan accordingly.
+The 60-month ceiling is absolute. Even through modification, your plan cannot exceed 60 months from the date of the first payment under the original confirmed plan. If you are already 48 months into a 60-month plan, you cannot extend it to 72 months - you have 12 months left, period. Plan accordingly.
 
 The Modification Process
 
@@ -1291,13 +1294,13 @@ Objection period. Creditors and the trustee have a period (typically 21-28 days,
 
 Hearing. If no objection is filed, many courts confirm the modified plan without a hearing. If there is an objection, the court schedules a hearing where both sides present their positions.
 
-Confirmation of modified plan. The court applies the same tests as initial confirmation -- the modified plan must satisfy Section 1325(a) requirements as applicable.
+Confirmation of modified plan. The court applies the same tests as initial confirmation - the modified plan must satisfy Section 1325(a) requirements as applicable.
 
 Modifications to Reduce Payments
 
 When you seek to reduce your plan payment, the court will scrutinize whether the reduction is justified by a genuine change in circumstances. You will typically need to show:
 
-A specific, identifiable change -- not just general financial stress
+A specific, identifiable change - not just general financial stress
 
 Updated income documentation (pay stubs, tax returns, business records)
 
@@ -1305,11 +1308,11 @@ Updated expense documentation showing the changed circumstances
 
 That the modified plan still satisfies the best interest test (unsecured creditors still receive at least the Chapter 7 liquidation value)
 
-That the modified plan is feasible -- you can actually make the proposed payments
+That the modified plan is feasible - you can actually make the proposed payments
 
 Courts are generally sympathetic to involuntary income reductions (layoffs, disability, medical issues) and less sympathetic to voluntary changes (quitting a job, taking lower-paying work by choice). Document the involuntary nature of the change thoroughly.
 
-Practical tip: Do not wait until you are already months behind on payments to seek modification. File the modified plan as soon as you know your circumstances have changed. Falling behind triggers a motion to dismiss, and you will be fighting on two fronts -- defending against dismissal while trying to get a modification approved.
+Practical tip: Do not wait until you are already months behind on payments to seek modification. File the modified plan as soon as you know your circumstances have changed. Falling behind triggers a motion to dismiss, and you will be fighting on two fronts - defending against dismissal while trying to get a modification approved.
 
 Modifications to Increase Payments
 
@@ -1327,7 +1330,7 @@ If your income has genuinely and permanently increased, the trustee's modificati
 
 Alternatives to Modification
 
-If modification will not solve your problem -- for example, if your income has dropped so far that no feasible plan is possible -- you have other options:
+If modification will not solve your problem - for example, if your income has dropped so far that no feasible plan is possible - you have other options:
 
 Hardship discharge (Section 1328(b)): If you cannot complete your plan due to circumstances beyond your control, you have already paid at least as much as creditors would have received in Chapter 7, and modification is not practicable, you may qualify for a hardship discharge. See bankruptcyhardship.org.
 
@@ -1339,7 +1342,7 @@ Frequently Asked Questions
 
 How do I modify my Chapter 13 plan?
 
-File a modified plan with the court along with updated Schedules I and J, serve the trustee and affected creditors, and attend a hearing if any party objects. The modified plan must explain the changed circumstances and satisfy the same legal requirements as the original plan. Most districts have local forms -- check your court's website or ask the trustee's office.
+File a modified plan with the court along with updated Schedules I and J, serve the trustee and affected creditors, and attend a hearing if any party objects. The modified plan must explain the changed circumstances and satisfy the same legal requirements as the original plan. Most districts have local forms - check your court's website or ask the trustee's office.
 
 Can the trustee force me to pay more?
 
@@ -1347,7 +1350,7 @@ Yes. The trustee can file a motion to modify your plan to increase payments unde
 
 How many times can I modify my Chapter 13 plan?
 
-There is no statutory limit on the number of modifications. You can modify as many times as circumstances require. However, frequent modifications may draw scrutiny -- courts want to see that each modification reflects a genuine change in circumstances, not gamesmanship. Each modification also costs time and potentially attorney fees.
+There is no statutory limit on the number of modifications. You can modify as many times as circumstances require. However, frequent modifications may draw scrutiny - courts want to see that each modification reflects a genuine change in circumstances, not gamesmanship. Each modification also costs time and potentially attorney fees.
 
 What if I cannot afford any payment at all?
 
@@ -1355,13 +1358,13 @@ If no feasible plan payment is possible, modification will not help. Your option
 
 Related Resources
 
-Plan Modification Overview -- Section 1329
+Plan Modification Overview - Section 1329
 
-Modification Before Discharge -- section1328.org
+Modification Before Discharge - section1328.org
 
-Why Chapter 13 Cases Fail -- dismissalrate.org
+Why Chapter 13 Cases Fail - dismissalrate.org
 
-Hardship Discharge -- Section 1328(b)
+Hardship Discharge - Section 1328(b)
 
 Last updated: March 2026
 
@@ -1370,10 +1373,10 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -1479,7 +1482,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Plan Confirmation -- Section 1325
+## Chapter 13 Plan Confirmation - Section 1325
 Source: https://chapter13plan.org/plan-confirmation.html
 
 Skip to main content
@@ -1501,15 +1504,15 @@ Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325
 
 Network › Chapter 13 Repayment Plan
 
-Good Faith -- 1325(a)(3)
+Good Faith - 1325(a)(3)
 
 The plan must be proposed in good faith. Courts consider the totality of circumstances: Is the debtor making a genuine effort to repay? Is the plan an honest attempt to deal with creditors? Manipulating income, hiding assets, or proposing an unrealistic plan can result in denial.
 
-Best Interest Test -- 1325(a)(4)
+Best Interest Test - 1325(a)(4)
 
-Unsecured creditors must receive at least as much as they would receive in a Chapter 7 liquidation. Calculate the value of non-exempt assets -- that is the minimum unsecured creditors must receive through the plan.
+Unsecured creditors must receive at least as much as they would receive in a Chapter 7 liquidation. Calculate the value of non-exempt assets - that is the minimum unsecured creditors must receive through the plan.
 
-Disposable Income -- 1325(b)
+Disposable Income - 1325(b)
 
 If the trustee or an unsecured creditor objects, the plan must commit all projected disposable income for the applicable commitment period. Below-median debtors: 3 years. Above-median debtors: 5 years.
 
@@ -1527,21 +1530,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Lien Stripping -- How to remove underwater junior liens in Chapter 13
+Lien Stripping - How to remove underwater junior liens in Chapter 13
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -1654,7 +1657,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Modifying Your Chapter 13 Plan -- Section 1329
+## Modifying Your Chapter 13 Plan - Section 1329
 Source: https://chapter13plan.org/plan-modification.html
 
 Skip to main content
@@ -1702,21 +1705,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Lien Stripping -- How to remove underwater junior liens in Chapter 13
+Lien Stripping - How to remove underwater junior liens in Chapter 13
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -1829,7 +1832,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Plan Payment Calculator -- Estimate Your Monthly Payment
+## Chapter 13 Plan Payment Calculator - Estimate Your Monthly Payment
 Source: https://chapter13plan.org/plan-payment-calculator.html
 
 Skip to main content
@@ -1853,7 +1856,7 @@ Network › Chapter 13 Plan › Payment Calculator
 
 How Chapter 13 Payments Are Determined
 
-Your Chapter 13 plan payment is not a number your attorney picks out of thin air. It is determined by federal bankruptcy law -- specifically 11 U.S.C. Section 1325(b) -- and must satisfy three independent tests. Your actual payment will be the highest amount required by any of them.
+Your Chapter 13 plan payment is not a number your attorney picks out of thin air. It is determined by federal bankruptcy law - specifically 11 U.S.C. Section 1325(b) - and must satisfy three independent tests. Your actual payment will be the highest amount required by any of them.
 
 Understanding these tests is critical because they set both the floor and the ceiling for what you will pay over the life of your plan. If your payment is set too low, the trustee or a creditor will object and the court will not confirm your plan. If it is set higher than required, you may be paying more than necessary.
 
@@ -1861,7 +1864,7 @@ Test 1: The Disposable Income Test
 
 Under Section 1325(b)(1)(B), if the trustee or an unsecured creditor objects to confirmation, the plan must commit all of your "projected disposable income" to plan payments during the applicable commitment period.
 
-Disposable income is defined as your current monthly income (CMI) minus amounts reasonably necessary for the maintenance and support of yourself and your dependents. For above-median-income debtors, the "reasonably necessary" expenses are determined using the means test standards from Section 707(b)(2) -- the same IRS expense categories used to determine Chapter 7 eligibility. For below-median debtors, the court uses your actual expenses as reported on Schedule J.
+Disposable income is defined as your current monthly income (CMI) minus amounts reasonably necessary for the maintenance and support of yourself and your dependents. For above-median-income debtors, the "reasonably necessary" expenses are determined using the means test standards from Section 707(b)(2) - the same IRS expense categories used to determine Chapter 7 eligibility. For below-median debtors, the court uses your actual expenses as reported on Schedule J.
 
 Current monthly income is calculated by averaging your gross income from all sources over the six full calendar months before your bankruptcy filing date. This includes wages, salary, overtime, business income, rental income, pension and retirement distributions, and regular contributions from others. It does not include Social Security benefits.
 
@@ -1871,7 +1874,7 @@ Under Section 1325(a)(4), unsecured creditors must receive at least as much thro
 
 In a Chapter 7 case, a trustee would liquidate your non-exempt assets and distribute the proceeds to creditors. If you have $10,000 in non-exempt assets and $50,000 in unsecured debt, the Chapter 7 dividend would be 20 cents on the dollar. Your Chapter 13 plan must pay at least that same 20% to unsecured creditors.
 
-If you have no non-exempt assets -- which is common -- the Chapter 7 dividend would be zero, and this test does not set a meaningful floor. But if you have significant equity in property above your exemption limits, this test can require substantial payments.
+If you have no non-exempt assets - which is common - the Chapter 7 dividend would be zero, and this test does not set a meaningful floor. But if you have significant equity in property above your exemption limits, this test can require substantial payments.
 
 Test 3: The Feasibility Test
 
@@ -1936,7 +1939,7 @@ Estimated % to Unsecured Creditors
 Controlling Test
 --
 
-This estimate does not include trustee fees (typically 4-10%), attorney fees, secured debt arrears, or priority claims -- all of which increase your actual payment. Consult with a bankruptcy attorney for an accurate calculation.
+This estimate does not include trustee fees (typically 4-10%), attorney fees, secured debt arrears, or priority claims - all of which increase your actual payment. Consult with a bankruptcy attorney for an accurate calculation.
 
 What the Calculator Does Not Include
 
@@ -1964,33 +1967,37 @@ Yes. Section 1329 allows the debtor, the trustee, or an unsecured creditor to re
 
 What is disposable income in Chapter 13?
 
-Disposable income is your current monthly income minus amounts reasonably necessary for your maintenance and support. For above-median debtors, allowed expenses follow the means test formula from Section 707(b)(2) -- standardized IRS expense categories plus actual payments on secured debts. For below-median debtors, the court typically uses actual reasonable expenses. The means test is explained in detail at meanstest.org.
+Disposable income is your current monthly income minus amounts reasonably necessary for your maintenance and support. For above-median debtors, allowed expenses follow the means test formula from Section 707(b)(2) - standardized IRS expense categories plus actual payments on secured debts. For below-median debtors, the court typically uses actual reasonable expenses. The means test is explained in detail at meanstest.org.
 
 What happens if I cannot afford the minimum payment?
 
-If your disposable income is zero or negative, you may still file Chapter 13 -- but only if you can propose a feasible plan that satisfies the best interest test and pays all required priority and secured debts. If that is not possible, Chapter 7 may be a better option (assuming you qualify under the means test). If you are already in an active case and cannot keep up, you may request a plan modification, convert to Chapter 7, or seek a hardship discharge under Section 1328(b).
+If your disposable income is zero or negative, you may still file Chapter 13 - but only if you can propose a feasible plan that satisfies the best interest test and pays all required priority and secured debts. If that is not possible, Chapter 7 may be a better option (assuming you qualify under the means test). If you are already in an active case and cannot keep up, you may request a plan modification, convert to Chapter 7, or seek a hardship discharge under Section 1328(b).
 
 Related Resources
 
-meanstest.org -- Determine if your income is above or below the state median
+meanstest.org - Determine if your income is above or below the state median
 
-section1328.org -- Chapter 13 discharge rules and the superdischarge
+section1328.org - Chapter 13 discharge rules and the superdischarge
 
-How Plan Payments Work -- Payment collection, missed payments, and catch-up
+How Plan Payments Work - Payment collection, missed payments, and catch-up
 
-dismissalrate.org -- Chapter 13 dismissal and failure rates by district
+dismissalrate.org - Chapter 13 dismissal and failure rates by district
 
 Last updated: March 2026
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -2120,7 +2127,7 @@ Network › Chapter 13 Repayment Plan
 
 How Payments Are Collected
 
-The Chapter 13 trustee collects your monthly payment and distributes it to creditors according to the confirmed plan. Most courts require payroll deduction -- your employer sends the payment directly to the trustee before you receive your paycheck.
+The Chapter 13 trustee collects your monthly payment and distributes it to creditors according to the confirmed plan. Most courts require payroll deduction - your employer sends the payment directly to the trustee before you receive your paycheck.
 
 If you are self-employed or your employer cannot accommodate payroll deduction, you make payments directly to the trustee, typically by check, money order, or electronic payment.
 
@@ -2148,21 +2155,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Lien Stripping -- How to remove underwater junior liens in Chapter 13
+Lien Stripping - How to remove underwater junior liens in Chapter 13
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -2275,7 +2282,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Priority Debts in Chapter 13 -- Chapter 13 Plan
+## Priority Debts in Chapter 13 - Chapter 13 Plan
 Source: https://chapter13plan.org/priority-debts.html
 
 Skip to main content
@@ -2303,11 +2310,11 @@ Priority claims under Section 507 must be paid 100% through the Chapter 13 plan.
 
 Common Priority Debts
 
-Domestic support obligations (507(a)(1)) -- child support, alimony, maintenance. These have the highest priority.
+Domestic support obligations (507(a)(1)) - child support, alimony, maintenance. These have the highest priority.
 
-Certain tax claims (507(a)(8)) -- income taxes for returns due within 3 years, assessed within 240 days, with returns filed within 2 years.
+Certain tax claims (507(a)(8)) - income taxes for returns due within 3 years, assessed within 240 days, with returns filed within 2 years.
 
-Administrative expenses (507(a)(2)) -- attorney fees approved by the court, trustee fees.
+Administrative expenses (507(a)(2)) - attorney fees approved by the court, trustee fees.
 
 Impact on Plan Feasibility
 
@@ -2325,21 +2332,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Lien Stripping -- How to remove underwater junior liens in Chapter 13
+Lien Stripping - How to remove underwater junior liens in Chapter 13
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -2452,7 +2459,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Bankruptcy Pros and Cons -- Keep Property, Cure Arrears -- Chapter 13 Plan
+## Chapter 13 Bankruptcy Pros and Cons - Keep Property, Cure Arrears - Chapter 13 Plan
 Source: https://chapter13plan.org/pros-cons.html
 
 Skip to main content
@@ -2469,7 +2476,7 @@ Ch. 7 vs. 13
 
 Chapter 13 Bankruptcy Pros and Cons
 
-Keep your property, cure arrears, and consolidate debt -- but at the cost of 3-5 years of disposable income and trustee oversight.
+Keep your property, cure arrears, and consolidate debt - but at the cost of 3-5 years of disposable income and trustee oversight.
 
 Network › Chapter 13 Plan › Pros and Cons
 
@@ -2481,27 +2488,27 @@ Advantages of Chapter 13 Bankruptcy
 
 1. Keep All Your Property
 
-This is the single biggest advantage of Chapter 13 over Chapter 7. There is no liquidation. You keep your house, your cars, your investments, your business assets -- everything. Instead of surrendering nonexempt property to a trustee for sale, you pay the value of that nonexempt property to creditors through your plan over 3-5 years.
+This is the single biggest advantage of Chapter 13 over Chapter 7. There is no liquidation. You keep your house, your cars, your investments, your business assets - everything. Instead of surrendering nonexempt property to a trustee for sale, you pay the value of that nonexempt property to creditors through your plan over 3-5 years.
 
 This matters enormously if you have significant equity in your home beyond the homestead exemption, a business with valuable equipment, or other assets that would be seized in Chapter 7. Under Chapter 13, you keep it all as long as you make your plan payments.
 
 2. Cure Mortgage Arrears and Save Your Home
 
-If you are behind on your mortgage, Chapter 13 is often the only way to save your home from foreclosure. Under 11 U.S.C. Section 1322(b)(5), you can spread your mortgage arrears -- the past-due payments -- over the life of the plan (3-5 years) while resuming regular monthly payments going forward.
+If you are behind on your mortgage, Chapter 13 is often the only way to save your home from foreclosure. Under 11 U.S.C. Section 1322(b)(5), you can spread your mortgage arrears - the past-due payments - over the life of the plan (3-5 years) while resuming regular monthly payments going forward.
 
-For example, if you are $15,000 behind on your mortgage, you can add approximately $250-$420 per month to your plan payments to cure that arrearage over 3-5 years, rather than having to come up with $15,000 at once. Chapter 7 does not offer this -- if you are behind on your mortgage in Chapter 7, the lender can proceed with foreclosure after the automatic stay ends.
+For example, if you are $15,000 behind on your mortgage, you can add approximately $250-$420 per month to your plan payments to cure that arrearage over 3-5 years, rather than having to come up with $15,000 at once. Chapter 7 does not offer this - if you are behind on your mortgage in Chapter 7, the lender can proceed with foreclosure after the automatic stay ends.
 
 Key fact: Chapter 13 is the primary tool for homeowners facing foreclosure. The plan forces the lender to accept your arrears cure over time, and the automatic stay stops the foreclosure the moment you file.
 
 3. Strip Junior Liens on Underwater Property
 
-Lien stripping is one of Chapter 13's most powerful features. If your home is worth less than what you owe on your first mortgage, any junior liens (second mortgages, HELOCs) are treated as completely unsecured debt. Through the plan, these liens are stripped -- you pay them pennies on the dollar (or nothing) as unsecured claims, and the lien is removed from your property upon plan completion.
+Lien stripping is one of Chapter 13's most powerful features. If your home is worth less than what you owe on your first mortgage, any junior liens (second mortgages, HELOCs) are treated as completely unsecured debt. Through the plan, these liens are stripped - you pay them pennies on the dollar (or nothing) as unsecured claims, and the lien is removed from your property upon plan completion.
 
 Example: Your home is worth $200,000. You owe $210,000 on the first mortgage and $40,000 on a HELOC. Because the first mortgage exceeds the home's value, the entire $40,000 HELOC is stripped. You may pay just a fraction of it through your plan, and the lien is eliminated.
 
 4. No Means Test Income Ceiling
 
-Unlike Chapter 7, Chapter 13 has no maximum income threshold. High earners who fail the means test and cannot qualify for Chapter 7 can always file Chapter 13. The means test in Chapter 13 only determines whether your plan must be 3 years or 5 years -- it never disqualifies you from filing.
+Unlike Chapter 7, Chapter 13 has no maximum income threshold. High earners who fail the means test and cannot qualify for Chapter 7 can always file Chapter 13. The means test in Chapter 13 only determines whether your plan must be 3 years or 5 years - it never disqualifies you from filing.
 
 If your income is above the state median, your plan must be 5 years. If below, you can propose a 3-year plan (though the court can require up to 5). Either way, you are never turned away.
 
@@ -2509,7 +2516,7 @@ If your income is above the state median, your plan must be 5 years. If below, y
 
 Chapter 13 provides a codebtor stay under 11 U.S.C. Section 1301 that protects people who cosigned your consumer debts. As long as your plan proposes to pay the cosigned debt in full, the cosigner is protected from collection for the duration of your case.
 
-Chapter 7 does not offer this protection. In a Chapter 7 case, your discharge releases you from the debt, but the cosigner remains fully liable -- and creditors immediately pursue them.
+Chapter 7 does not offer this protection. In a Chapter 7 case, your discharge releases you from the debt, but the cosigner remains fully liable - and creditors immediately pursue them.
 
 6. Cramdown Car Loans
 
@@ -2519,7 +2526,7 @@ Example: You owe $18,000 on a car worth $11,000. If the loan is older than 910 d
 
 7. Catch Up on Taxes and Support Obligations
 
-Priority debts -- including recent income taxes, property taxes, and domestic support obligations -- must be paid in full through the plan. But you get 3-5 years to pay them, interest-free (for taxes), rather than facing IRS levies, tax liens, or contempt proceedings. For people who owe large tax balances, this structured repayment can be more favorable than an IRS installment agreement.
+Priority debts - including recent income taxes, property taxes, and domestic support obligations - must be paid in full through the plan. But you get 3-5 years to pay them, interest-free (for taxes), rather than facing IRS levies, tax liens, or contempt proceedings. For people who owe large tax balances, this structured repayment can be more favorable than an IRS installment agreement.
 
 Disadvantages of Chapter 13 Bankruptcy
 
@@ -2527,17 +2534,17 @@ Disadvantages of Chapter 13 Bankruptcy
 
 Chapter 13 is not a quick fix. Your plan lasts a minimum of 36 months (3 years) if your income is below the state median, and 60 months (5 years) if above. During this entire period, you make monthly payments to the Chapter 13 trustee, who distributes funds to your creditors according to the court-approved plan.
 
-This is a long commitment. Life changes over 3-5 years -- job loss, illness, divorce, relocation. Any of these can make it difficult or impossible to maintain plan payments, which is why the dismissal rate is so high.
+This is a long commitment. Life changes over 3-5 years - job loss, illness, divorce, relocation. Any of these can make it difficult or impossible to maintain plan payments, which is why the dismissal rate is so high.
 
 2. Must Have Regular Income
 
-Chapter 13 requires "regular income" under 11 U.S.C. Section 109(e). This does not have to be traditional W-2 employment -- Social Security, pension income, self-employment income, rental income, and even regular financial support from a family member can qualify. But if your income is irregular, seasonal, or uncertain, maintaining consistent plan payments becomes a major challenge.
+Chapter 13 requires "regular income" under 11 U.S.C. Section 109(e). This does not have to be traditional W-2 employment - Social Security, pension income, self-employment income, rental income, and even regular financial support from a family member can qualify. But if your income is irregular, seasonal, or uncertain, maintaining consistent plan payments becomes a major challenge.
 
 Additionally, there are debt limits. As of 2026, your total noncontingent, liquidated debts (secured and unsecured combined) must not exceed $2,750,000 to qualify for Chapter 13.
 
 3. All Disposable Income Goes to the Plan
 
-Under the "projected disposable income" test of 11 U.S.C. Section 1325(b), all of your disposable income -- everything above what the court considers necessary living expenses -- must go to your plan for the applicable commitment period. You cannot save extra money, take vacations, make discretionary purchases, or build a financial cushion while your plan is active.
+Under the "projected disposable income" test of 11 U.S.C. Section 1325(b), all of your disposable income - everything above what the court considers necessary living expenses - must go to your plan for the applicable commitment period. You cannot save extra money, take vacations, make discretionary purchases, or build a financial cushion while your plan is active.
 
 The court defines "necessary expenses" using either IRS Local Standards (if above-median income) or your actual expenses (if below-median). Either way, there is very little financial flexibility during the plan period.
 
@@ -2545,7 +2552,7 @@ Reality check: For 3-5 years, you live on a court-approved budget. Every dollar 
 
 4. Approximately 48% National Dismissal Rate
 
-This is the statistic most attorneys do not tell you upfront. Nationally, roughly 48% of Chapter 13 cases are dismissed -- meaning the debtor fails to complete the plan and receives no discharge. Federal Judicial Center data from 2008-2024 confirms this pattern across most districts.
+This is the statistic most attorneys do not tell you upfront. Nationally, roughly 48% of Chapter 13 cases are dismissed - meaning the debtor fails to complete the plan and receives no discharge. Federal Judicial Center data from 2008-2024 confirms this pattern across most districts.
 
 Dismissal means you exit bankruptcy without a discharge. Your debts are reinstated in full (minus whatever was paid through the plan). Creditors resume collection. If you were curing a mortgage arrearage, the lender can immediately resume foreclosure.
 
@@ -2561,7 +2568,7 @@ Missing the plan confirmation deadline
 
 Unrealistic plan proposals that the court rejects
 
-Dismissal rates vary significantly by district and by attorney. Some districts have dismissal rates above 60%, while others are below 35%. Attorney quality matters enormously -- experienced Chapter 13 attorneys have significantly better completion rates than high-volume practices.
+Dismissal rates vary significantly by district and by attorney. Some districts have dismissal rates above 60%, while others are below 35%. Attorney quality matters enormously - experienced Chapter 13 attorneys have significantly better completion rates than high-volume practices.
 
 Before filing: Ask your attorney what their Chapter 13 completion rate is. If they cannot answer, or if their rate is below the national average, consider that a warning sign.
 
@@ -2655,7 +2662,7 @@ You have an underwater second mortgage. Lien stripping can save you tens of thou
 
 You owe significant tax debt. A structured 3-5 year payoff through the plan can be better than IRS collection alternatives.
 
-You have steady, reliable income. The plan requires consistent monthly payments -- this only works if your income is predictable.
+You have steady, reliable income. The plan requires consistent monthly payments - this only works if your income is predictable.
 
 Chapter 13 May Not Be Right for You If:
 
@@ -2663,13 +2670,13 @@ Your income is irregular or unreliable. If you cannot reliably make monthly plan
 
 Your debt is mostly unsecured and you have few assets. If you qualify for Chapter 7, it provides faster relief without the multi-year commitment.
 
-You are already judgment-proof. If your income is exempt (Social Security, disability) and you have no nonexempt assets, creditors cannot collect from you anyway -- bankruptcy may be unnecessary.
+You are already judgment-proof. If your income is exempt (Social Security, disability) and you have no nonexempt assets, creditors cannot collect from you anyway - bankruptcy may be unnecessary.
 
 You cannot afford the plan payments. If your budget after necessary expenses leaves nothing for creditors, no confirmable plan exists.
 
 Your debts exceed the Chapter 13 limits. Total noncontingent, liquidated debts above $2,750,000 disqualify you from Chapter 13.
 
-Not sure which chapter? Use the Chapter 7 vs. Chapter 13 comparison for a complete side-by-side breakdown. Start with the means test to determine your Chapter 7 eligibility -- that result often drives the decision.
+Not sure which chapter? Use the Chapter 7 vs. Chapter 13 comparison for a complete side-by-side breakdown. Start with the means test to determine your Chapter 7 eligibility - that result often drives the decision.
 
 Estimate Your Chapter 13 Plan Payment
 
@@ -2700,10 +2707,10 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -2801,7 +2808,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Secured Debts in Chapter 13 -- Chapter 13 Plan
+## Secured Debts in Chapter 13 - Chapter 13 Plan
 Source: https://chapter13plan.org/secured-debts.html
 
 Skip to main content
@@ -2823,13 +2830,13 @@ Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325
 
 Network › Chapter 13 Repayment Plan
 
-Mortgage Cure -- 1322(b)(5)
+Mortgage Cure - 1322(b)(5)
 
 One of Chapter 13s most powerful tools. You can cure mortgage arrears over the life of the plan while resuming regular payments. This stops foreclosure and lets you keep your home.
 
 The arrears are spread over 3-5 years. Regular mortgage payments continue outside the plan (paid directly to the lender).
 
-Vehicle Cramdown -- 506(a)
+Vehicle Cramdown - 506(a)
 
 If your car is worth less than the loan balance, you can "cram down" the secured claim to the vehicles current market value. The remainder becomes unsecured debt (paid at a fraction or 0%). The 910-day rule: cramdown is not available for vehicles purchased within 910 days (about 2.5 years) of filing.
 
@@ -2853,21 +2860,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Lien Stripping -- How to remove underwater junior liens in Chapter 13
+Lien Stripping - How to remove underwater junior liens in Chapter 13
 
-Hardship Discharge -- Section 1328(b) discharge when you cannot complete your plan
+Hardship Discharge - Section 1328(b) discharge when you cannot complete your plan
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 13 plans and comparison:
 
 11 U.S.C. Chapter 13
-Cornell LII -- full Chapter 13 text
+Cornell LII - full Chapter 13 text
 
 11 U.S.C. Section 1328
-Cornell LII -- discharge provisions
+Cornell LII - discharge provisions
 
 Chapter 13 Basics
 USCourts.gov
@@ -2977,3 +2984,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - chapter13plan.org
+Source: https://chapter13plan.org/privacy.html
+
+chapter13plan.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

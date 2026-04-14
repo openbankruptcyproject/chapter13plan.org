@@ -1,22 +1,23 @@
-# Chapter 13 Repayment Plan -- How Plan Payments Work [2026 Guide] -- Chapter 13 Plan
+# Chapter 13 Repayment Plan - How Plan Payments Work [2026 Guide] - Chapter 13 Plan
 > How does a Chapter 13 repayment plan work? Payment calculations, plan length, what you pay, and modification rules. Complete 2026 guide.
 
 ## About
 chapter13plan.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- 100% Chapter 13 Plan -- Benefits of Paying All Unsecured Creditors in Full: https://chapter13plan.org/100-percent-plan.html
-- Chapter 13 Payment Calculator: Estimate Your Monthly Plan [2026] -- Chapter 13 Plan: https://chapter13plan.org/calculator.html
-- Chapter 13 Cramdown -- Reduce Your Car Loan and Other Secured Debts -- Chapter 13 Plan: https://chapter13plan.org/cramdown.html
-- Chapter 13 Repayment Plan -- How Plan Payments Work [2026 Guide] -- Chapter 13 Plan: https://chapter13plan.org/
+- 100% Chapter 13 Plan - Benefits of Paying All Unsecured Creditors in Full: https://chapter13plan.org/100-percent-plan.html
+- Chapter 13 Payment Calculator: Estimate Your Monthly Plan [2026] - Chapter 13 Plan: https://chapter13plan.org/calculator.html
+- Chapter 13 Cramdown - Reduce Your Car Loan and Other Secured Debts - Chapter 13 Plan: https://chapter13plan.org/cramdown.html
+- Chapter 13 Repayment Plan - How Plan Payments Work [2026 Guide] - Chapter 13 Plan: https://chapter13plan.org/
 - Can I Modify My Chapter 13 Plan After Confirmation?: https://chapter13plan.org/modify-plan.html
-- Chapter 13 Plan Confirmation -- Section 1325: https://chapter13plan.org/plan-confirmation.html
-- Modifying Your Chapter 13 Plan -- Section 1329: https://chapter13plan.org/plan-modification.html
-- Chapter 13 Plan Payment Calculator -- Estimate Your Monthly Payment: https://chapter13plan.org/plan-payment-calculator.html
+- Chapter 13 Plan Confirmation - Section 1325: https://chapter13plan.org/plan-confirmation.html
+- Modifying Your Chapter 13 Plan - Section 1329: https://chapter13plan.org/plan-modification.html
+- Chapter 13 Plan Payment Calculator - Estimate Your Monthly Payment: https://chapter13plan.org/plan-payment-calculator.html
 - How Chapter 13 Plan Payments Work: https://chapter13plan.org/plan-payments.html
-- Priority Debts in Chapter 13 -- Chapter 13 Plan: https://chapter13plan.org/priority-debts.html
-- Chapter 13 Bankruptcy Pros and Cons -- Keep Property, Cure Arrears -- Chapter 13 Plan: https://chapter13plan.org/pros-cons.html
-- Secured Debts in Chapter 13 -- Chapter 13 Plan: https://chapter13plan.org/secured-debts.html
+- Priority Debts in Chapter 13 - Chapter 13 Plan: https://chapter13plan.org/priority-debts.html
+- Chapter 13 Bankruptcy Pros and Cons - Keep Property, Cure Arrears - Chapter 13 Plan: https://chapter13plan.org/pros-cons.html
+- Secured Debts in Chapter 13 - Chapter 13 Plan: https://chapter13plan.org/secured-debts.html
+- Privacy Policy: https://chapter13plan.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
