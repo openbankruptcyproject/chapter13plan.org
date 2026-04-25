@@ -16,22 +16,24 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Priority Debts in Chapter 13 - Chapter 13 Plan</title>
-<meta name="description" content="Learn about priority debts in chapter 13 | chapter13plan.org in our free 2026 guide. Clear explanations, real data, and practical steps.">
+<title>Chapter 13 Repayment Plan - How Plan Payments Work [2026 Guide] - Chapter 13 Plan</title>
+<meta name="description" content="How does a Chapter 13 repayment plan work? Payment calculations, plan length, what you pay, and modification rules. Complete 2026 guide.">
 <meta name="keywords" content="chapter 13 repayment plan, bankruptcy, chapter13plan">
-<link rel="canonical" href="https://chapter13plan.org/priority-debts.html">
+<link rel="canonical" href="https://chapter13plan.org/">
+<link rel="alternate" hreflang="en" href="https://chapter13plan.org/">
+<link rel="alternate" hreflang="es" href="https://chapter13plan.org/es.html">
 
 <!-- Open Graph -->
-<meta property="og:title" content="Priority Debts in Chapter 13 - Chapter 13 Plan">
-<meta property="og:description" content="Learn about priority debts in chapter 13 | chapter13plan.org in our free 2026 guide. Clear explanations, real data, and practical steps.">
+<meta property="og:title" content="Chapter 13 Repayment Plan - How Plan Payments Work [2026 Guide] - Chapter 13 Plan">
+<meta property="og:description" content="How does a Chapter 13 repayment plan work? Payment calculations, plan length, what you pay, and modification rules. Complete 2026 guide.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://chapter13plan.org/priority-debts.html">
+<meta property="og:url" content="https://chapter13plan.org/">
 <meta property="og:site_name" content="chapter13plan.org">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Priority Debts in Chapter 13 - Chapter 13 Plan">
-<meta name="twitter:description" content="Learn about priority debts in chapter 13 | chapter13plan.org in our free 2026 guide. Clear explanations, real data, and practical steps.">
+<meta name="twitter:title" content="Chapter 13 Repayment Plan - How Plan Payments Work [2026 Guide] - Chapter 13 Plan">
+<meta name="twitter:description" content="How does a Chapter 13 repayment plan work? Payment calculations, plan length, what you pay, and modification rules. Complete 2026 guide.">
 <meta property="og:image" content="https://chapter13plan.org/og-image.svg">
 <meta name="twitter:image" content="https://chapter13plan.org/og-image.svg">
 
@@ -70,7 +72,7 @@
     {
       "@type": "Article",
       "headline": "Chapter 13 Repayment Plan",
-      "description": "Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325",
+      "description": "How Chapter 13 repayment plans work under Sections 1322 and 1325. Payment calculations, plan length, and what creditors must accept. Updated 2026.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -82,12 +84,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://chapter13plan.org/priority-debts.html"
+      "mainEntityOfPage": "https://chapter13plan.org/"
     },
     {
       "@type": "WebPage",
       "name": "Chapter 13 Repayment Plan",
-      "url": "https://chapter13plan.org/priority-debts.html",
+      "url": "https://chapter13plan.org/",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -97,6 +99,22 @@
           "p:first-of-type"
         ]
       }
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "name": "BTN Network",
+      "url": [
+        "https://1328f.com",
+        "https://1328f.org",
+        "https://automaticstay.org",
+        "https://341meeting.org",
+        "https://523a.org",
+        "https://109g.org",
+        "https://727a8.com",
+        "https://meanstest.org",
+        "https://chapter7vs13.org",
+        "https://howtofilebankruptcy.org"
+      ]
     }
   ]
 }
@@ -179,32 +197,11 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the bankruptcy means test?", "acceptedAnswer": {"@type": "Answer", "text": "The means test compares your income to your state's median income to determine Chapter 7 eligibility. If your income is below the median, you qualify automatically. If above, a detailed expense analysis determines whether you have enough disposable income to fund a Chapter 13 plan instead."}}, {"@type": "Question", "name": "How do I calculate my income for the means test?", "acceptedAnswer": {"@type": "Answer", "text": "The means test uses your average monthly income from the six full calendar months before filing, not your current income. It includes wages, self-employment income, rental income, pensions, and most other regular income sources. Social Security income is excluded."}}, {"@type": "Question", "name": "What if I fail the means test?", "acceptedAnswer": {"@type": "Answer", "text": "Failing the means test does not prevent you from filing bankruptcy. You can file Chapter 13 instead, wait until your income drops, or demonstrate special circumstances that justify additional deductions. An attorney can help identify legitimate expense deductions you may have missed."}}, {"@type": "Question", "name": "Does the means test apply to Chapter 13?", "acceptedAnswer": {"@type": "Answer", "text": "The means test determines your disposable income and plan length in Chapter 13. If your income is below the median, your plan can be as short as 36 months. If above, you must propose a 60-month plan and pay your full disposable income to unsecured creditors."}}, {"@type": "Question", "name": "What should I know before filing bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Bankruptcy is a legal process that can eliminate or restructure debts, but it has lasting effects on your credit and financial life. Before filing, understand which debts can be discharged, what property you can keep through exemptions, and which chapter fits your situation."}}]}
 </script>
-
-<link rel="alternate" hreflang="en" href="https://chapter13plan.org/priority-debts.html">
-<link rel="alternate" hreflang="es" href="https://chapter13plan.org/priority-debts-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
+<!-- aggressive-interlink:lang-en -->
+<div style="background:#161b22;border-bottom:1px solid #30363d;padding:8px 16px;text-align:center;font-size:0.85em"><a href="/es.html" style="color:#58a6ff;text-decoration:none">🌐 Esta pagina esta disponible en Espanol</a></div>
+
 
 <a href="#main-content" class="skip-link">Skip to main content</a>
 
@@ -212,15 +209,19 @@
   <a href="/" class="site-name">chapter13plan.org</a>
   <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
   <div class="nav-links">
-    <a href="/">Home</a>
+    <a href="/" class="active">Home</a>
     <a href="/plan-payments.html">Payments</a>
     <a href="/plan-confirmation.html">Confirmation</a>
     <a href="/secured-debts.html">Secured Debts</a>
-    <a href="/priority-debts.html" class="active">Priority Debts</a>
+    <a href="/priority-debts.html">Priority Debts</a>
     <a href="/plan-modification.html">Modification</a>
     <a href="/cramdown.html">Cramdown</a>
   </div>
 </nav>
+<div class="obp-banner" style="background:#151b23;border-bottom:1px solid #252d38;padding:8px 16px;text-align:center;font-size:0.82rem;color:#7d8590;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - 161+ free domains, 115,000+ pages, $0 cost
+</div>
+
 
 <header>
   <h1><span class="accent">Chapter 13 Repayment Plan</span></h1>
@@ -234,33 +235,59 @@
 <main id="main-content">
 
   <div class="content-section">
-    <h2>Must Be Paid in Full</h2>
-    <p>Priority claims under Section 507 must be paid 100% through the <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> plan. This is a confirmation requirement under Section 1322(a)(2). The plan cannot be confirmed if it does not provide for full payment of priority claims.</p>
-  </div>
+    <h2>About This Site</h2>
+    <p>The <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> repayment plan is the centerpiece of every <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy case. It is a court-approved proposal that determines how much you pay, to whom, and for how long - typically 3 to 5 years. The plan governs everything from mortgage arrears to priority tax debts to <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a> distributions. Chapter 13 also provides a powerful <a href="https://righttocure.org/" title="right to cure default">right to cure defaults</a> on secured debts like mortgages and car loans, allowing you to catch up on missed payments through the plan.</p>
+    <p>This site will explain the requirements for a confirmable plan under Sections 1322 and 1325, including the best interests test, the projected disposable income test, and the treatment of secured, priority, and unsecured claims. We will break down plan modification rules under Section 1329 and what happens when circumstances change.</p>
+    <p>Whether you are trying to understand a plan your attorney proposed, evaluating whether to object to confirmation, or researching Chapter 13 plan structures as a legal professional, this site will provide clear, statute-grounded explanations of how plans work in practice.</p>
 
-  <div class="content-section">
-    <h2>Common Priority Debts</h2>
-    <p>Domestic support obligations (507(a)(1)) - child support, alimony, maintenance. These have the highest priority.</p>
-    <p>Certain tax claims (507(a)(8)) - income taxes for returns due within 3 years, assessed within 240 days, with returns filed within 2 years.</p>
-    <p>Administrative expenses (507(a)(2)) - attorney fees approved by the court, trustee fees.</p>
-  </div>
-
-  <div class="content-section">
-    <h2>Impact on Plan Feasibility</h2>
-    <p>Large priority claims can make a plan infeasible. If you owe $30,000 in priority taxes over a 5-year plan, that alone requires $500/month before any other creditors are paid. If your disposable income cannot cover priority claims plus trustee fees plus secured debt payments, the plan cannot be confirmed.</p>
+    <div class="green-box">
+      <p><strong>Part of the Open Bankruptcy Project</strong> - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.</p>
+    </div>
   </div>
 
   <div class="cta-box">
-    <p>Learn about the full <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> plan</p>
-    <a href="https://chapter13plan.org" class="btn">Chapter 13 Plan Guide</a>
+    <h3>Check Your Bankruptcy Discharge Eligibility</h3>
+    <p>Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
+    <div class="cta-links">
+      <a href="https://1328f.com?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network" class="primary-btn">Discharge Screener</a>
+      <a href="https://1328f.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network" class="secondary-btn">Research Platform</a>
+    </div>
   </div>
+
+
+  <div class="content-section">
+    <h2>Explore Chapter 13 Plans</h2>
+    <p>Dive deeper into specific aspects:</p>
+    <ul style="list-style:none;padding:0;">
+      <li style="margin-bottom:0.5rem;"><a href="/plan-payments.html">How Plan Payments Work</a></li>
+      <li style="margin-bottom:0.5rem;"><a href="/plan-payment-calculator.html">Plan Payment Calculator</a></li>
+      <li style="margin-bottom:0.5rem;"><a href="/plan-confirmation.html">Plan Confirmation - Section 1325</a></li>
+      <li style="margin-bottom:0.5rem;"><a href="/plan-modification.html">Modifying Your Plan - Section 1329</a></li>
+      <li style="margin-bottom:0.5rem;"><a href="/modify-plan.html">Can I Modify My Plan After Confirmation?</a></li>
+      <li style="margin-bottom:0.5rem;"><a href="/secured-debts.html">Secured Debts - Mortgage, Car, Liens</a></li>
+      <li style="margin-bottom:0.5rem;"><a href="/cramdown.html">Cramdown - Reduce Your Car Loan</a></li>
+      <li style="margin-bottom:0.5rem;"><a href="/priority-debts.html">Priority Debts in Chapter 13</a></li>
+      <li style="margin-bottom:0.5rem;"><a href="/100-percent-plan.html">100% Plan - Paying All Creditors in Full</a></li>
+    </ul>
+  </div>
+
+<div style="max-width:820px;margin:2rem auto;padding:0 1.5rem">
+  <h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Topics</h2>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.75rem">
+    <a href="https://meanstest.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">The Means Test</a>
+    <a href="https://section1328.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Section 1328 Discharge</a>
+    <a href="https://lienstripping.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Lien Stripping</a>
+    <a href="https://bankruptcyhardship.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">hardship discharge in bankruptcy</a>
+  </div>
+</div>
+
 </main>
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
   <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
   <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
   <form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
-    <input type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
+    <input aria-label="your@email.com" type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
     <input type="hidden" name="_subject" value="BTN Research Subscriber">
     <button type="submit" style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer">Subscribe</button>
   </form>
@@ -269,7 +296,7 @@
   <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
   <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1328.org" style="color:#58a6ff">Section 1328 Discharge</a> - Chapter 13 discharge rules and the superdischarge</p>
   <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://lienstripping.org" style="color:#58a6ff">Lien Stripping</a> - How to remove underwater junior liens in Chapter 13</p>
-  <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://bankruptcyhardship.org" style="color:#58a6ff">Hardship Discharge</a> - <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328</a>(b) discharge when you cannot complete your plan</p>
+  <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://bankruptcyhardship.org" style="color:#58a6ff">hardship discharge in bankruptcy</a> - <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328 discharge requirements</a>(b) discharge when you cannot complete your plan</p>
 </div>
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
@@ -314,7 +341,187 @@
 <style>
 .related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
 </style>
+<!-- USER JOURNEY CROSS-LINKS (data-driven funnel) -->
+<div style="max-width:900px;margin:1.5rem auto;padding:0 1rem">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.1rem;margin:0 0 0.5rem 0;text-align:center">Your Next Questions</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0;text-align:center">Real users ask these next - we built the answers.</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+    <a href="https://keepmycarinbankruptcy.com?utm_source=chapter13plan.org&utm_medium=user-journey&utm_campaign=btn-funnel" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Can I Keep My Car?</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">How each chapter treats vehicle loans differently</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">keepmycarinbankruptcy.com &rarr;</p>
+    </a>
+    <a href="https://keepmyhouseinbankruptcy.com?utm_source=chapter13plan.org&utm_medium=user-journey&utm_campaign=btn-funnel" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Can I Keep My House?</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Chapter 13 can cure mortgage arrears</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">keepmyhouseinbankruptcy.com &rarr;</p>
+    </a>
+    <a href="https://howmuchdoesbankruptcycost.com?utm_source=chapter13plan.org&utm_medium=user-journey&utm_campaign=btn-funnel" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How Much Does It Cost?</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Filing fees, attorney costs, and payment plans</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">howmuchdoesbankruptcycost.com &rarr;</p>
+    </a>
+    <a href="https://filebankruptcyagain.com/your-path.html?utm_source=chapter13plan.org&utm_medium=user-journey&utm_campaign=btn-funnel" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Filed Before? Your Path</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Step-by-step guide for repeat filers</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">filebankruptcyagain.com &rarr;</p>
+    </a>
+  </div>
+</div>
+<!-- /USER JOURNEY -->
 <!-- /RELATED GUIDES -->
+
+<!-- STATE GUIDES CROSS-LINK (injected by inject_state_links.py 2026-04-01) -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.25rem 1.5rem;max-width:700px;margin:2rem auto;text-align:center">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">State Bankruptcy Guides</p>
+  <p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.</p>
+  <p style="margin:0 0 0.75rem;font-size:0.85rem;line-height:1.8"><a href="https://bankruptcyexemptionsbystate.com/states/california.html" style="color:#58a6ff;white-space:nowrap">California</a> <span style="color:#30363d">&middot;</span> <a href="https://bankruptcyexemptionsbystate.com/states/texas.html" style="color:#58a6ff;white-space:nowrap">Texas</a> <span style="color:#30363d">&middot;</span> <a href="https://bankruptcyexemptionsbystate.com/states/florida.html" style="color:#58a6ff;white-space:nowrap">Florida</a> <span style="color:#30363d">&middot;</span> <a href="https://bankruptcyexemptionsbystate.com/states/new-york.html" style="color:#58a6ff;white-space:nowrap">New York</a> <span style="color:#30363d">&middot;</span> <a href="https://bankruptcyexemptionsbystate.com/states/illinois.html" style="color:#58a6ff;white-space:nowrap">Illinois</a> <span style="color:#30363d">&middot;</span> <a href="https://bankruptcyexemptionsbystate.com/states/ohio.html" style="color:#58a6ff;white-space:nowrap">Ohio</a></p>
+  <a href="https://bankruptcyexemptionsbystate.com/states/" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse All 50 State Guides &rarr;</a>
+</div>
+<!-- /STATE GUIDES CROSS-LINK -->
+
+
+<!-- aggressive-interlink:glossary -->
+<div style="text-align:center;padding:0.75rem 0;margin-top:1rem"><a href="https://whathappensinbankruptcy.com/glossary/" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">📖 Bankruptcy Glossary</a> <span style="color:#7d8590;font-size:0.85rem">-- 61 terms explained</span></div>
+<!-- GEO CARD (timezone-based state suggestion) -->
+<div id="geo-card" style="display:none;max-width:700px;margin:1.5rem auto;padding:0 1rem">
+  <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-align:center">
+    <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem" id="geo-heading">Filing in Your State?</p>
+    <p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Check what you can protect.</p>
+    <a id="geo-link" href="https://bankruptcyexemptionsbystate.com/states/?utm_source=chapter13plan.org&utm_medium=geo-card&utm_campaign=btn-funnel" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse Your State's Exemptions &rarr;</a>
+  </div>
+</div>
+<script>
+(function(){
+  try {
+    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+    var map = {
+      'America/New_York': {s:'new-york',n:'New York'},
+      'America/Chicago': {s:'illinois',n:'Illinois'},
+      'America/Denver': {s:'colorado',n:'Colorado'},
+      'America/Los_Angeles': {s:'california',n:'California'},
+      'America/Phoenix': {s:'arizona',n:'Arizona'},
+      'America/Anchorage': {s:'alaska',n:'Alaska'},
+      'Pacific/Honolulu': {s:'hawaii',n:'Hawaii'},
+      'America/Indiana/Indianapolis': {s:'indiana',n:'Indiana'},
+      'America/Detroit': {s:'michigan',n:'Michigan'},
+      'America/Kentucky/Louisville': {s:'kentucky',n:'Kentucky'},
+      'America/Boise': {s:'idaho',n:'Idaho'}
+    };
+    var info = map[tz];
+    if (!info) {
+      if (tz.indexOf('America/New_York') !== -1 || tz.indexOf('Eastern') !== -1) info = map['America/New_York'];
+      else if (tz.indexOf('America/Chicago') !== -1 || tz.indexOf('Central') !== -1) info = map['America/Chicago'];
+      else if (tz.indexOf('America/Denver') !== -1 || tz.indexOf('Mountain') !== -1) info = map['America/Denver'];
+      else if (tz.indexOf('America/Los_Angeles') !== -1 || tz.indexOf('Pacific') !== -1) info = map['America/Los_Angeles'];
+    }
+    if (info) {
+      var src = 'chapter13plan.org';
+      document.getElementById('geo-heading').textContent = 'Filing in ' + info.n + '?';
+      document.getElementById('geo-link').href = 'https://bankruptcyexemptionsbystate.com/states/' + info.s + '.html?utm_source=' + src + '&utm_medium=geo-card&utm_campaign=btn-funnel';
+      document.getElementById('geo-link').textContent = info.n + ' Bankruptcy Exemptions \u2192';
+    }
+    document.getElementById('geo-card').style.display = 'block';
+  } catch(e) {}
+})();
+</script>
+<!-- /GEO CARD -->
+
+<!-- OBP Contact Form - deployed by deploy_btn_contact_form.py -->
+<div id="obp-help-form" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.5rem;margin:2rem auto;max-width:600px">
+  <h3 style="color:#c9d1d9;margin-top:0;margin-bottom:0.5rem">Have a Question?</h3>
+  <p style="color:#8b949e;font-size:0.85rem;margin-bottom:1rem">
+    Open Bankruptcy Project provides free educational information. We are not a law firm.
+    Nothing on this site constitutes legal advice. For advice about your specific situation,
+    consult a licensed attorney.
+  </p>
+  <form id="obp-help-submit" style="margin:0">
+    <input type="hidden" name="source" value="chapter13plan.org">
+    <input type="hidden" name="topic" value="Site Question">
+    <input aria-label="Name (optional)" type="text" name="name" placeholder="Name (optional)" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem">
+    <input aria-label="Email" type="email" name="email" placeholder="Email" required style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem">
+    <select name="state" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;appearance:auto">
+      <option value="">Select your state...</option>
+      <option value="AL">Alabama</option>
+      <option value="AK">Alaska</option>
+      <option value="AZ">Arizona</option>
+      <option value="AR">Arkansas</option>
+      <option value="CA">California</option>
+      <option value="CO">Colorado</option>
+      <option value="CT">Connecticut</option>
+      <option value="DE">Delaware</option>
+      <option value="DC">District of Columbia</option>
+      <option value="FL">Florida</option>
+      <option value="GA">Georgia</option>
+      <option value="HI">Hawaii</option>
+      <option value="ID">Idaho</option>
+      <option value="IL">Illinois</option>
+      <option value="IN">Indiana</option>
+      <option value="IA">Iowa</option>
+      <option value="KS">Kansas</option>
+      <option value="KY">Kentucky</option>
+      <option value="LA">Louisiana</option>
+      <option value="ME">Maine</option>
+      <option value="MD">Maryland</option>
+      <option value="MA">Massachusetts</option>
+      <option value="MI">Michigan</option>
+      <option value="MN">Minnesota</option>
+      <option value="MS">Mississippi</option>
+      <option value="MO">Missouri</option>
+      <option value="MT">Montana</option>
+      <option value="NE">Nebraska</option>
+      <option value="NV">Nevada</option>
+      <option value="NH">New Hampshire</option>
+      <option value="NJ">New Jersey</option>
+      <option value="NM">New Mexico</option>
+      <option value="NY">New York</option>
+      <option value="NC">North Carolina</option>
+      <option value="ND">North Dakota</option>
+      <option value="OH">Ohio</option>
+      <option value="OK">Oklahoma</option>
+      <option value="OR">Oregon</option>
+      <option value="PA">Pennsylvania</option>
+      <option value="RI">Rhode Island</option>
+      <option value="SC">South Carolina</option>
+      <option value="SD">South Dakota</option>
+      <option value="TN">Tennessee</option>
+      <option value="TX">Texas</option>
+      <option value="UT">Utah</option>
+      <option value="VT">Vermont</option>
+      <option value="VA">Virginia</option>
+      <option value="WA">Washington</option>
+      <option value="WV">West Virginia</option>
+      <option value="WI">Wisconsin</option>
+      <option value="WY">Wyoming</option>
+      <option value="AS">American Samoa</option>
+      <option value="GU">Guam</option>
+      <option value="MP">Northern Mariana Islands</option>
+      <option value="PR">Puerto Rico</option>
+      <option value="VI">U.S. Virgin Islands</option>
+    </select>
+    <textarea name="message" placeholder="Your question..." required rows="4" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;resize:vertical"></textarea>
+    <label style="color:#8b949e;font-size:0.8rem;display:flex;align-items:start;gap:0.5rem;margin:0.5rem 0 1rem;cursor:pointer">
+      <input aria-label="checkbox" type="checkbox" required style="margin-top:2px;accent-color:#bf3989">
+      I understand this is educational information, not legal advice.
+    </label>
+    <button type="submit" style="background:#bf3989;color:#fff;border:none;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;cursor:pointer;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">Submit Question</button>
+  </form>
+  <p id="obp-help-thanks" style="display:none;color:#3fb950;font-weight:600;margin:1rem 0 0">Thank you! We typically respond within one business day.</p>
+  <script>
+  document.getElementById('obp-help-submit').addEventListener('submit',function(e){
+    e.preventDefault();var f=this,b=f.querySelector('button[type=submit]');
+    b.disabled=true;b.textContent='Sending...';
+    var d={name:f.querySelector('[name=name]').value,email:f.querySelector('[name=email]').value,
+      state:f.querySelector('[name=state]').value,
+      message:f.querySelector('[name=message]').value,
+      topic:'Site Question ('+f.querySelector('[name=source]').value+')'};
+    fetch('https://script.google.com/macros/s/AKfycbwSILiwrhpiognHpMEws-j7Yc-aySqk3vDkCXFmNe-hA-tHrzGC6qid7f6ZqBy3n9sqiQ/exec',{method:'POST',body:JSON.stringify(d)})
+    .then(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'})
+    .catch(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'});
+  });
+  </script>
+</div>
+<!-- /OBP Contact Form -->
 
 <!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
 <div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
@@ -331,7 +538,18 @@
 
   <p><strong>Part of the Open Bankruptcy Project</strong></p>
   <p>Real information, no strings.</p>
-  <div class="links">
+  <!-- RECAP Counter -->
+<div style="text-align:center;margin:1.5rem auto;max-width:600px">
+  <a href="https://openbankruptcyproject.org/recap.html?utm_source=btn&utm_medium=crosslink&utm_campaign=chapter13plan.org" style="display:inline-block;background:#0d1117;border:1px solid #238636;color:#3fb950;padding:0.6rem 1.5rem;border-radius:6px;font-weight:700;font-size:0.95rem;text-decoration:none;letter-spacing:-0.01em">462+ Court Documents Freed from PACER</a>
+  <p style="color:#7d8590;font-size:0.78rem;margin-top:0.4rem">We buy federal court records and donate them to RECAP so no one has to pay. <a href="https://openbankruptcyproject.org/recap.html?utm_source=btn&utm_medium=crosslink&utm_campaign=chapter13plan.org" style="color:#58a6ff;text-decoration:none">Browse the archive &rarr;</a></p>
+</div>
+
+<!-- Transparency Counter -->
+<div style="text-align:center;margin:0.5rem auto 1.5rem;max-width:600px">
+  <p style="color:#7d8590;font-size:0.8rem;margin:0;letter-spacing:0.02em"><strong style="color:#e6edf3">$16,500+ spent</strong> &middot; <strong style="color:#e6edf3">$0 donated</strong> &middot; <strong style="color:#e6edf3">$0 hosting</strong> &middot; 105 domains &middot; 2,000+ pages &middot; All free, forever.</p>
+</div>
+
+<div class="links">
     <a href="https://1328f.com?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a>
     <a href="https://1328f.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">1328f.org</a>
     <a href="https://automaticstay.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">automaticstay.org</a>
@@ -343,16 +561,16 @@
     <a href="https://523a.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">523a.org</a>
     <a href="https://109g.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">109g.org</a>
     <a href="https://727a8.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">727a8.org</a>
-    <a href="https://727a8.com?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">727a8.com</a>
-    <a href="https://prosedebtors.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">prosedebtors.org</a>
-    <a href="https://whatischapter7.com?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">whatischapter7.com</a>
-    <a href="https://whatischapter7.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">whatischapter7.org</a>
+    <a href="https://727a8.com">727a8.com</a>
+    <a href="https://prosedebtors.org">prosedebtors.org</a>
+    <a href="https://whatischapter7.com">whatischapter7.com</a>
+    <a href="https://whatischapter7.org">whatischapter7.org</a>
     <a href="https://chapter13plan.org">chapter13plan.org</a>
-    <a href="https://lienstripping.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">lienstripping.org</a>
-    <a href="https://nondischargeable.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">nondischargeable.org</a>
-    <a href="https://bankruptcyfreshstart.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">bankruptcyfreshstart.org</a>
-    <a href="https://reaffirmationagreement.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">reaffirmationagreement.org</a>
-    <a href="https://dischargebar.org?utm_source=chapter13plan.org&utm_medium=referral&utm_campaign=btn-network">dischargebar.org</a>
+    <a href="https://lienstripping.org">lienstripping.org</a>
+    <a href="https://nondischargeable.org">nondischargeable.org</a>
+    <a href="https://bankruptcyfreshstart.org">bankruptcyfreshstart.org</a>
+    <a href="https://reaffirmationagreement.org">reaffirmationagreement.org</a>
+    <a href="https://dischargebar.org">dischargebar.org</a>
     <a href="https://section1328.org">section1328.org</a>
     <a href="https://bankruptcytaxes.org">bankruptcytaxes.org</a>
     <a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a>
@@ -362,9 +580,11 @@
     <a href="https://voluntarypetition.org">voluntarypetition.org</a>
     <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
     <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+      <a href="https://openbankruptcyproject.org/rule-9037/" rel="noopener">Rule 9037 Compliance Guide</a>
   </div>
-  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="margin-top:12px;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap"><a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;background:#1c2128;border:1px solid #30363d;color:#7d8590;padding:4px 12px;border-radius:20px;font-size:0.75rem;text-decoration:none;transition:border-color 0.2s" onmouseover="this.style.borderColor=&#39;#58a6ff&#39;" onmouseout="this.style.borderColor=&#39;#30363d&#39;"><svg width="14" height="14" viewBox="0 0 16 16" fill="#3fb950"><path d="M8 0a8 8 0 100 16A8 8 0 008 0zm3.78 5.97l-4.5 4.5a.75.75 0 01-1.06 0l-2-2a.75.75 0 011.06-1.06l1.47 1.47 3.97-3.97a.75.75 0 011.06 1.06z"/></svg> Cited by the Federal Rules Committee (26-BK-3)</a></div>
 </footer>
 <!-- BTN:FOOTER:END -->
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
@@ -381,7 +601,7 @@
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:700px;margin:2rem auto">
 <p style="color:#9eaab6;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.25rem">Federal Rules Committee</p>
 <p style="color:#e6edf3;font-size:0.95rem;margin-bottom:0.25rem">This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-3" style="color:#58a6ff">Suggestion 26-BK-3</a> and <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-5" style="color:#58a6ff">Suggestion 26-BK-5</a></p>
-<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328</a>(f) <a href="https://dischargebar.org" title="Bankruptcy Discharge Bar - Open Bankruptcy Project" target="_blank" rel="noopener">discharge bar</a> screening and <a href="https://openbankruptcyproject.org/rule-9037/" title="Rule 9037 SSN Redaction - Open Bankruptcy Project" target="_blank" rel="noopener">Rule 9037</a> SSN redaction in federal bankruptcy courts</p>
+<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328</a>(f) <a href="https://dischargebar.org" title="Bankruptcy Discharge Bar - Open Bankruptcy Project" target="_blank" rel="noopener">bankruptcy discharge bar rules</a> screening in federal bankruptcy courts</p>
 </div>
 <div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
 <script src="https://openbankruptcyproject.org/btn-search.js" defer></script>

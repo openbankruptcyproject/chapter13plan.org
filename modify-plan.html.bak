@@ -16,22 +16,22 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Chapter 13 Cramdown - Reduce Your Car Loan and Other Secured Debts - Chapter 13 Plan</title>
-<meta name="description" content="Learn about chapter 13 cramdown - reduce your car loan and other secured debts | chapter13plan.org in our free 2026 guide. S value, the 910-day rule, interest rates, and what debts can be crammed down.">
-<meta name="keywords" content="chapter 13 cramdown, car loan cramdown, 506(a), 910 day rule, secured debt reduction, bankruptcy cramdown">
-<link rel="canonical" href="https://chapter13plan.org/cramdown.html">
+<title>Can I Modify My Chapter 13 Plan After Confirmation?</title>
+<meta name="description" content="Learn about can i modify my chapter 13 plan after confirmation? | chapter13plan.org in our free 2026 guide.">
+<meta name="keywords" content="modify chapter 13 plan after confirmation, section 1329, plan modification, change chapter 13 payment, trustee motion to increase payment">
+<link rel="canonical" href="https://chapter13plan.org/modify-plan.html">
 
 <!-- Open Graph -->
-<meta property="og:title" content="Chapter 13 Cramdown - Reduce Your Car Loan and Other Secured Debts - Chapter 13 Plan">
-<meta property="og:description" content="Learn about chapter 13 cramdown - reduce your car loan and other secured debts | chapter13plan.org in our free 2026 guide.">
+<meta property="og:title" content="Can I Modify My Chapter 13 Plan After Confirmation?">
+<meta property="og:description" content="Learn about can i modify my chapter 13 plan after confirmation? | chapter13plan.org in our free 2026 guide.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://chapter13plan.org/cramdown.html">
+<meta property="og:url" content="https://chapter13plan.org/modify-plan.html">
 <meta property="og:site_name" content="chapter13plan.org">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Chapter 13 Cramdown - Reduce Your Car Loan and Other Secured Debts - Chapter 13 Plan">
-<meta name="twitter:description" content="Learn about chapter 13 cramdown - reduce your car loan and other secured debts | chapter13plan.org in our free 2026 guide.">
+<meta name="twitter:title" content="Can I Modify My Chapter 13 Plan After Confirmation?">
+<meta name="twitter:description" content="Learn about can i modify my chapter 13 plan after confirmation? | chapter13plan.org in our free 2026 guide.">
 <meta property="og:image" content="https://chapter13plan.org/og-image.svg">
 <meta name="twitter:image" content="https://chapter13plan.org/og-image.svg">
 
@@ -63,8 +63,8 @@
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Cramdown",
-      "item": "https://chapter13plan.org/cramdown.html"
+      "name": "Modify Plan After Confirmation",
+      "item": "https://chapter13plan.org/modify-plan.html"
     }
   ]
 }
@@ -78,34 +78,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Can I reduce my car loan in Chapter 13?",
+      "name": "How do I modify my Chapter 13 plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, if you purchased the vehicle more than 910 days (about 2.5 years) before filing bankruptcy. Under Section 506(a), the secured claim is reduced to the replacement value of the vehicle. The remaining balance becomes an unsecured claim. If the vehicle was purchased within 910 days, the hanging paragraph of Section 1325(a)(*) prevents cramdown and you must pay the full loan balance."
+        "text": "File a modified plan with the court, serve it on the trustee and all affected creditors, and attend a hearing if any party objects. The modified plan must explain the changed circumstances justifying the modification and must still satisfy the best interest test, projected disposable income test, and feasibility test under Section 1325. Most courts have local forms or templates for modified plans."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the 910-day rule?",
+      "name": "Can the trustee force me to pay more?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The 910-day rule, added by BAPCPA in 2005, prevents cramdown of purchase-money security interests in motor vehicles acquired within 910 days before filing. This means if you bought and financed your car less than about 2.5 years before your bankruptcy filing date, you cannot reduce the loan to the car's current value - you must pay the full balance through the plan."
+        "text": "Yes. Under Section 1329(a), the trustee can file a motion to modify your plan to increase payments. This typically happens when your income increases significantly, when tax returns show higher earnings than projected, or when you receive a windfall. The trustee reviews your annual tax returns and may file a modification motion if your disposable income has increased substantially."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I cramdown my mortgage in Chapter 13?",
+      "name": "How many times can I modify my Chapter 13 plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Section 1322(b)(2) contains an anti-modification clause that prohibits modifying the rights of holders of claims secured only by a security interest in the debtor's principal residence. You cannot reduce your mortgage balance to the home's value through cramdown. However, you may be able to strip off a wholly unsecured junior lien (second mortgage) if the home's value does not exceed the first mortgage balance."
+        "text": "Section 1329 does not limit the number of modifications. You can modify your plan as many times as circumstances require, as long as each modified plan meets the statutory requirements. However, frequent modifications may draw scrutiny from the court and trustee, and each modification involves filing fees, attorney costs, and potential hearings."
       }
     },
     {
       "@type": "Question",
-      "name": "What interest rate applies to a crammed-down loan?",
+      "name": "What if I cannot afford any payment at all?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most courts apply the 'Till rate' from the Supreme Court's decision in Till v. SCS Credit Corp. (2004). The Till rate starts with the national prime rate and adds a risk adjustment of 1% to 3%, depending on circumstances. As of early 2026, with prime at 7.5%, typical cramdown interest rates range from 8.5% to 10.5%. Some circuits use different methods, but the Till formula-based approach is most common."
+        "text": "If your financial situation has deteriorated to the point where no feasible plan is possible, you have several options: (1) request a hardship discharge under Section 1328(b) if you have already paid at least as much as creditors would have received in Chapter 7, (2) convert your case to Chapter 7, or (3) voluntarily dismiss the case. Each option has significant consequences that should be discussed with an attorney."
       }
     }
   ]
@@ -117,8 +117,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Chapter 13 Cramdown",
-      "description": "How Chapter 13 cramdown works under Section 506(a). Reduce your car loan to the vehicle",
+      "headline": "Can I Modify My Chapter 13 Plan After Confirmation?",
+      "description": "Yes - Section 1329 allows post-confirmation plan modification. Learn who can request it, common triggers, what can change, and the process for modifying your C",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -130,68 +130,68 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://chapter13plan.org/cramdown.html"
+      "mainEntityOfPage": "https://chapter13plan.org/modify-plan.html"
     },
     {
       "@type": "HowTo",
-      "name": "Chapter 13 Cramdown",
+      "name": "Can I Modify My Chapter 13 Plan After Confirmation?",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nChapter 13 Cramdown - Reduce Your Car Loan and "
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nCan I Modify My Chapter 13 Plan After Confirmati"
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "text": "Bifurcate the claim. The total debt is split: the secured portion equals the collateral's value, and the remainder is treated as an unsecured claim."
+          "text": "The Chapter 13 trustee - The trustee monitors your financial situation throughout the case. If your income increases substantially, the trustee may file a motion to modify your plan to increase payme"
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "text": "Set the interest rate. The secured claim must be paid with interest at a rate that gives the creditor the present value of its allowed secured claim. Most courts use the \"formula\" or \"Till\" approach."
+          "text": "An unsecured creditor - While rare in practice, any holder of an allowed unsecured claim can request modification. This might occur if a creditor learns that the debtor's income has increased or that"
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "text": "Pay through the plan. Monthly payments on the crammed-down secured claim are made through the Chapter 13 trustee as part of your regular plan payment."
+          "text": "Job loss or income reduction: The most common reason debtors seek modification. If you lose your job or your hours are cut, you can file a modified plan with a lower payment that reflects your current"
         },
         {
           "@type": "HowToStep",
           "position": 5,
-          "text": "Retain the property. You keep the vehicle (or other collateral) throughout the plan and upon completion."
+          "text": "Major unexpected expense: Medical bills, necessary car repairs, or other large unforeseen expenses can justify a temporary or permanent payment reduction."
         },
         {
           "@type": "HowToStep",
           "position": 6,
-          "text": "Purchase-money only: The rule applies only to purchase-money security interests - loans taken out to buy the vehicle. If you refinanced the car loan, some courts hold that the refinanced loan is no l"
+          "text": "Divorce or separation: If household income drops because a spouse moves out, or if new support obligations arise, modification may be necessary."
         },
         {
           "@type": "HowToStep",
           "position": 7,
-          "text": "Personal use only: The 910-day rule applies only to vehicles acquired for personal, family, or household purposes. Business vehicles are not subject to the rule and can be crammed down regardless of w"
+          "text": "Surrendering collateral: If you can no longer afford a vehicle payment and want to surrender the car, you can modify the plan to remove the secured claim and add the deficiency to unsecured debt."
         },
         {
           "@type": "HowToStep",
           "position": 8,
-          "text": "Motor vehicles only: The rule specifically covers motor vehicles. Other personal property purchased within one year before filing is subject to a separate provision in the same hanging paragraph, but "
+          "text": "Income increase: If your tax returns show significantly higher income than projected in the confirmed plan, the trustee may seek increased payments. Many trustees routinely review annual returns."
         },
         {
           "@type": "HowToStep",
           "position": 9,
-          "text": "Count carefully: The 910 days are counted backward from the petition date. If you purchased the car on January 1, 2024, and filed bankruptcy on August 1, 2026, that is 943 days - cramdown is availabl"
+          "text": "Tax refund review: Large tax refunds can signal that your withholding is higher than necessary, suggesting actual disposable income exceeds what the plan assumed. Some trustees require debtors to turn"
         },
         {
           "@type": "HowToStep",
           "position": 10,
-          "text": "Car loans (outside 910 days): The most common cramdown target. Vehicles depreciate quickly, making many car loans significantly undersecured."
+          "text": "Schedule I/J discrepancies: If the trustee discovers that your actual income and expenses differ materially from your filed schedules, a modification motion may follow."
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Chapter 13 Cramdown",
-      "url": "https://chapter13plan.org/cramdown.html",
+      "name": "Can I Modify My Chapter 13 Plan After Confirmation?",
+      "url": "https://chapter13plan.org/modify-plan.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -262,13 +262,6 @@
   .red-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .red-box p { margin-bottom: 0.5rem; }
   .red-box p:last-child { margin-bottom: 0; }
-  .example-box { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; margin: 1rem 0; }
-  .example-box .example-title { color: var(--accent); font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.75rem; }
-  .example-box table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
-  .example-box th, .example-box td { text-align: left; padding: 0.4rem 0.75rem; border-bottom: 1px solid var(--border); }
-  .example-box th { color: var(--text-muted); font-weight: 600; }
-  .example-box td { color: var(--text); }
-  .example-box .highlight { color: var(--green); font-weight: 600; }
   .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
   .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
   .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
@@ -296,33 +289,11 @@
     .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
     .nav-links.open { display: flex; }
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
-    .example-box { overflow-x: auto; }
   }
 </style>
 
-<link rel="alternate" hreflang="en" href="https://chapter13plan.org/cramdown.html">
-<link rel="alternate" hreflang="es" href="https://chapter13plan.org/cramdown-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://chapter13plan.org/modify-plan.html">
+<link rel="alternate" hreflang="es" href="https://chapter13plan.org/modify-plan-es.html">
 </head>
 <body>
 
@@ -337,167 +308,162 @@
     <a href="/plan-confirmation.html">Confirmation</a>
     <a href="/secured-debts.html">Secured Debts</a>
     <a href="/priority-debts.html">Priority Debts</a>
-    <a href="/plan-modification.html">Modification</a>
-    <a href="/cramdown.html" class="active">Cramdown</a>
+    <a href="/plan-modification.html" class="active">Modification</a>
+    <a href="/cramdown.html">Cramdown</a>
   </div>
 </nav>
 
 <header>
-  <h1><span class="accent">Chapter 13 Cramdown</span></h1>
-  <p class="subtitle">Reduce your car loan and other secured debts to the collateral's actual value under Section 506(a)</p>
+  <h1><span class="accent">Can I Modify My Chapter 13 Plan After Confirmation?</span></h1>
+  <p class="subtitle">Yes - Section 1329 provides a flexible mechanism to adjust your plan when circumstances change</p>
 </header>
 
 <div class="breadcrumb" aria-label="Breadcrumb">
-  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">Chapter 13 Plan</a> &rsaquo; Cramdown
+  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">Chapter 13 Plan</a> &rsaquo; Modify Plan After Confirmation
 </div>
 
 <main id="main-content">
 
   <div class="content-section">
-    <h2>What Is a Cramdown?</h2>
-    <p>A "<a href="https://section1192.org/" title="cramdown">cramdown</a>" is one of the most powerful tools available to <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> debtors. It allows you to reduce a secured debt to the actual value of the collateral - not what you owe on the loan. The legal basis is 11 U.S.C. Section 506(a), which provides that a claim is secured only to the extent of the value of the creditor's interest in the property. Any amount above that value becomes an unsecured claim.</p>
-    <p>In plain terms: if you owe $15,000 on a car that is now worth $8,000, a <a href="https://section1192.org/" title="cramdown">cramdown</a> splits the debt into two parts. The $8,000 secured by the car is treated as a secured claim and paid through the plan at an appropriate interest rate. The remaining $7,000 becomes unsecured and is paid at whatever percentage your plan provides to unsecured creditors - often pennies on the dollar.</p>
-    <p>The term "cramdown" is not used in the Bankruptcy Code itself. It is informal shorthand used by practitioners and courts to describe the bifurcation of an undersecured claim under Section 506(a) and the treatment of the secured portion under Section 1325(a)(5).</p>
+    <h2>Post-Confirmation Modification Under Section 1329</h2>
+    <p>A <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> plan is not set in stone. Life changes - jobs are lost, medical emergencies arise, income increases, divorces happen - and the Bankruptcy Code accounts for this reality. Section 1329 of Title 11 allows modification of a confirmed plan at any time after confirmation but before the completion of payments.</p>
+    <p>This flexibility is one of the core advantages of <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> over <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>. Rather than forcing <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> when things change, the Code provides a mechanism to adjust the plan to current reality. Courts generally favor modification over <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> because it keeps the debtor in the system, maintains the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a>, and continues distributions to creditors.</p>
+    <p>However, modification is not automatic. The modified plan must be filed with the court, served on affected parties, and must satisfy the same legal requirements as the original plan - including the best interest test, the projected disposable income test, and the feasibility test under Section 1325.</p>
   </div>
 
   <div class="content-section">
-    <h2>How Cramdown Works in Practice</h2>
-    <p>To cramdown a secured debt in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, your plan must propose to pay the secured creditor the replacement value of the collateral, plus interest, over the life of the plan. The plan must also provide that the creditor retains its lien on the property until the earlier of (a) payment of the allowed secured claim or (b) <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. Here is the step-by-step process:</p>
-    <ol>
-      <li><strong>Determine the collateral's value.</strong> For personal property like vehicles, the standard is "replacement value" - what it would cost the debtor to obtain comparable property, considering the age and condition of the actual property. The Supreme Court established this standard in <em>Associates Commercial Corp. v. Rash</em>, 520 U.S. 953 (1997). For cars, this is typically between private party value and retail value, often approximated using NADA or KBB guides.</li>
-      <li><strong>Bifurcate the claim.</strong> The total debt is split: the secured portion equals the collateral's value, and the remainder is treated as an unsecured claim.</li>
-      <li><strong>Set the interest rate.</strong> The secured claim must be paid with interest at a rate that gives the creditor the present value of its allowed secured claim. Most courts use the "formula" or "Till" approach.</li>
-      <li><strong>Pay through the plan.</strong> Monthly payments on the crammed-down secured claim are made through the Chapter 13 trustee as part of your regular plan payment.</li>
-      <li><strong>Retain the property.</strong> You keep the vehicle (or other collateral) throughout the plan and upon completion.</li>
-    </ol>
+    <h2>Who Can Request a Modification?</h2>
+    <p>Section 1329(a) authorizes three parties to request plan modification:</p>
+    <ul>
+      <li><strong>The debtor</strong> - This is the most common scenario. You can file a modified plan at any time after confirmation to reduce payments (if income dropped), extend the plan (up to 60 months), change how claims are treated, or surrender collateral you can no longer afford.</li>
+      <li><strong>The Chapter 13 trustee</strong> - The trustee monitors your financial situation throughout the case. If your income increases substantially, the trustee may file a motion to modify your plan to increase payments to unsecured creditors. This is often triggered by review of your annual tax returns.</li>
+      <li><strong>An <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a></strong> - While rare in practice, any holder of an allowed unsecured claim can request modification. This might occur if a creditor learns that the debtor's income has increased or that the debtor received a substantial inheritance or other windfall.</li>
+    </ul>
+  </div>
 
-    <div class="example-box">
-      <p class="example-title">Example: Car Loan Cramdown</p>
-      <table>
-        <tr><th>Item</th><th>Without Cramdown</th><th>With Cramdown</th></tr>
-        <tr><td>Loan balance owed</td><td>$18,000</td><td>$18,000</td></tr>
-        <tr><td>Vehicle value (replacement)</td><td>$10,500</td><td>$10,500</td></tr>
-        <tr><td>Secured claim paid at interest</td><td>$18,000</td><td>$10,500</td></tr>
-        <tr><td>Unsecured deficiency</td><td>$0</td><td>$7,500</td></tr>
-        <tr><td>Interest rate on secured portion</td><td>Contract rate (e.g. 14%)</td><td>Till rate (e.g. 9%)</td></tr>
-        <tr><td>Unsecured deficiency paid at plan %</td><td>N/A</td><td>e.g. 10% = $750</td></tr>
-        <tr><td>Total paid on this debt</td><td>~$22,680</td><td class="highlight">~$12,660</td></tr>
-      </table>
-      <p style="color:var(--text-muted);font-size:0.85rem;margin-top:0.75rem;">In this example, cramdown saves approximately $10,000 over the life of the plan. Actual savings depend on interest rates, plan length, and <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a> percentage.</p>
+  <div class="content-section">
+    <h2>Common Triggers for Plan Modification</h2>
+
+    <h3>Debtor-Initiated Modifications (Reducing Payments)</h3>
+    <ul>
+      <li><strong>Job loss or income reduction:</strong> The most common reason debtors seek modification. If you lose your job or your hours are cut, you can file a modified plan with a lower payment that reflects your current income. You will need to file updated Schedules I and J showing the changed circumstances.</li>
+      <li><strong>Major unexpected expense:</strong> Medical bills, necessary car repairs, or other large unforeseen expenses can justify a temporary or permanent payment reduction.</li>
+      <li><strong>Divorce or separation:</strong> If household income drops because a spouse moves out, or if new support obligations arise, modification may be necessary.</li>
+      <li><strong>Surrendering collateral:</strong> If you can no longer afford a vehicle payment and want to surrender the car, you can modify the plan to remove the secured claim and add the deficiency to <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a>.</li>
+    </ul>
+
+    <h3>Trustee-Initiated Modifications (Increasing Payments)</h3>
+    <ul>
+      <li><strong>Income increase:</strong> If your tax returns show significantly higher income than projected in the confirmed plan, the trustee may seek increased payments. Many trustees routinely review annual returns.</li>
+      <li><strong>Tax refund review:</strong> Large tax refunds can signal that your withholding is higher than necessary, suggesting actual disposable income exceeds what the plan assumed. Some trustees require debtors to turn over tax refunds above a certain threshold.</li>
+      <li><strong>Schedule I/J discrepancies:</strong> If the trustee discovers that your actual income and expenses differ materially from your filed schedules, a modification motion may follow.</li>
+      <li><strong>Inheritance or windfall:</strong> Under Section 541(a)(5), property acquired by inheritance, property settlement, or life insurance within 180 days after filing becomes property of the estate. The trustee may seek modification to distribute this windfall to creditors.</li>
+    </ul>
+
+    <div class="yellow-box">
+      <p><strong>Proactive is better than reactive.</strong> If you know your income has increased, consider filing a modified plan yourself before the trustee does. This gives you more control over the terms and demonstrates good faith to the court.</p>
     </div>
   </div>
 
   <div class="content-section">
-    <h2>The 910-Day Rule (BAPCPA Hanging Paragraph)</h2>
-    <p>There is one major exception to car loan cramdown. The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (<a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a>) added what is commonly called the "hanging paragraph" - an unnumbered paragraph at the end of Section 1325(a) that prevents cramdown of certain recent vehicle purchases.</p>
+    <h2>What Can Be Modified?</h2>
+    <p>Section 1329(a) specifically permits modification to:</p>
+    <ol>
+      <li><strong>Increase or reduce the amount of payments</strong> on claims of a particular class designated in the plan.</li>
+      <li><strong>Extend or reduce the time period</strong> for payments - but the plan cannot exceed 60 months total from the date of the first payment under the original plan.</li>
+      <li><strong>Alter the amount of distribution</strong> to a creditor whose claim is provided for by the plan, to the extent necessary to account for payments made outside the plan.</li>
+      <li><strong>Reduce amounts to be paid</strong> to account for any actual payments made (added by the 2005 <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> amendments).</li>
+    </ol>
+    <p>In practical terms, this means you can adjust payment amounts, change how specific creditors are paid, surrender collateral, add new debts to the plan, extend the plan up to the 60-month maximum, or shorten it if you can pay everything sooner.</p>
 
     <div class="red-box">
-      <p><strong>The 910-day rule:</strong> If you purchased a motor vehicle for personal use and the purchase-money security interest was incurred within 910 days (approximately 2.5 years) before your bankruptcy filing date, you cannot cramdown the loan. You must pay the full balance through the plan.</p>
+      <p><strong>The 60-month ceiling is absolute.</strong> Even through modification, your plan cannot exceed 60 months from the date of the first payment under the original confirmed plan. If you are already 48 months into a 60-month plan, you cannot extend it to 72 months - you have 12 months left, period. Plan accordingly.</p>
     </div>
+  </div>
 
-    <p>Key details about the 910-day rule:</p>
+  <div class="content-section">
+    <h2>The Modification Process</h2>
+    <p>The exact procedure varies by district, but the general process is:</p>
+    <ol>
+      <li><strong>File a modified plan.</strong> Prepare a new plan that reflects the proposed changes. Most districts have local forms. Include updated Schedules I and J showing current income and expenses.</li>
+      <li><strong>File a motion.</strong> Many districts require a separate motion to modify, explaining the changed circumstances and why the modification is necessary.</li>
+      <li><strong>Serve affected parties.</strong> The modified plan must be served on the trustee, all creditors whose treatment changes, and any other affected parties under Federal Rule of Bankruptcy Procedure 3015(h).</li>
+      <li><strong>Objection period.</strong> Creditors and the trustee have a period (typically 21-28 days, depending on the district) to file objections.</li>
+      <li><strong>Hearing.</strong> If no objection is filed, many courts confirm the modified plan without a hearing. If there is an objection, the court schedules a hearing where both sides present their positions.</li>
+      <li><strong>Confirmation of modified plan.</strong> The court applies the same tests as initial confirmation - the modified plan must satisfy Section 1325(a) requirements as applicable.</li>
+    </ol>
+  </div>
+
+  <div class="content-section">
+    <h2>Modifications to Reduce Payments</h2>
+    <p>When you seek to reduce your plan payment, the court will scrutinize whether the reduction is justified by a genuine change in circumstances. You will typically need to show:</p>
     <ul>
-      <li><strong>Purchase-money only:</strong> The rule applies only to purchase-money security interests - loans taken out to buy the vehicle. If you refinanced the car loan, some courts hold that the refinanced loan is no longer a purchase-money security interest, making cramdown available even within 910 days. This is a contested area of law that varies by circuit.</li>
-      <li><strong>Personal use only:</strong> The 910-day rule applies only to vehicles acquired for personal, family, or household purposes. Business vehicles are not subject to the rule and can be crammed down regardless of when they were purchased.</li>
-      <li><strong>Motor vehicles only:</strong> The rule specifically covers motor vehicles. Other personal property purchased within one year before filing is subject to a separate provision in the same hanging paragraph, but the 910-day timeline applies only to motor vehicles.</li>
-      <li><strong>Count carefully:</strong> The 910 days are counted backward from the petition date. If you purchased the car on January 1, 2024, and filed bankruptcy on August 1, 2026, that is 943 days - cramdown is available. If you filed on April 1, 2026, that is only 821 days - cramdown is blocked.</li>
+      <li>A specific, identifiable change - not just general financial stress</li>
+      <li>Updated income documentation (pay stubs, tax returns, business records)</li>
+      <li>Updated expense documentation showing the changed circumstances</li>
+      <li>That the modified plan still satisfies the best interest test (unsecured creditors still receive at least the <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> liquidation value)</li>
+      <li>That the modified plan is feasible - you can actually make the proposed payments</li>
     </ul>
+    <p>Courts are generally sympathetic to involuntary income reductions (layoffs, disability, medical issues) and less sympathetic to voluntary changes (quitting a job, taking lower-paying work by choice). Document the involuntary nature of the change thoroughly.</p>
 
     <div class="green-box">
-      <p><strong>Strategic timing:</strong> If your car loan is underwater and you are considering Chapter 13, check whether waiting a few extra months to file would get you past the 910-day mark. The savings from cramdown can be substantial - potentially thousands of dollars.</p>
+      <p><strong>Practical tip:</strong> Do not wait until you are already months behind on payments to seek modification. File the modified plan as soon as you know your circumstances have changed. Falling behind triggers a motion to dismiss, and you will be fighting on two fronts - defending against dismissal while trying to get a modification approved.</p>
     </div>
   </div>
 
   <div class="content-section">
-    <h2>What Can (and Cannot) Be Crammed Down</h2>
-
-    <h3>Debts Eligible for Cramdown</h3>
+    <h2>Modifications to Increase Payments</h2>
+    <p>When the trustee seeks to increase your payments, the burden is on the trustee to show that a material change in your financial circumstances justifies higher payments. Common defenses include:</p>
     <ul>
-      <li><strong>Car loans (outside 910 days):</strong> The most common cramdown target. Vehicles depreciate quickly, making many car loans significantly undersecured.</li>
-      <li><strong>Personal property loans:</strong> Loans secured by furniture, electronics, jewelry, or other personal property can be crammed down if the property's value is less than the loan balance. For non-vehicle personal property purchased within one year before filing, the hanging paragraph may apply.</li>
-      <li><strong>Investment property mortgages:</strong> Mortgages on rental property or investment real estate can be crammed down because the anti-modification clause of Section 1322(b)(2) applies only to the debtor's principal residence.</li>
-      <li><strong>Business equipment loans:</strong> Equipment used in a sole proprietorship or small business can be crammed down. The 910-day rule does not apply to business-use property.</li>
-      <li><strong>Second mortgages on principal residence (partial):</strong> While you cannot modify a first mortgage on your principal residence, a wholly unsecured junior lien can be "stripped off" entirely. This is technically <a href="https://lienstripping.org" title="Lien Stripping in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">lien stripping</a> rather than cramdown, but it operates on similar principles. See <a href="https://lienstripping.org">lienstripping.org</a> for details.</li>
+      <li>The income increase is temporary or one-time (overtime that has since ended, a one-time bonus)</li>
+      <li>Expenses have also increased proportionally (new childcare costs, higher insurance premiums)</li>
+      <li>The income shown on tax returns does not reflect current reality (you were laid off after the tax year ended)</li>
+      <li>The proposed increase would make the plan infeasible</li>
     </ul>
+    <p>If your income has genuinely and permanently increased, the trustee's modification motion will likely succeed. The disposable income test applies to the modified plan, and if your current income produces more disposable income, the court will generally require it to go to creditors.</p>
+  </div>
 
-    <h3>Debts NOT Eligible for Cramdown</h3>
+  <div class="content-section">
+    <h2>Alternatives to Modification</h2>
+    <p>If modification will not solve your problem - for example, if your income has dropped so far that no feasible plan is possible - you have other options:</p>
     <ul>
-      <li><strong>First mortgage on principal residence:</strong> Section 1322(b)(2) prohibits modification of rights of a creditor whose claim is secured only by a security interest in the debtor's principal residence. This is the single largest limitation on Chapter 13 cramdown power. You must pay the full mortgage balance at the contract rate.</li>
-      <li><strong>Car loans within 910 days:</strong> As discussed above, the hanging paragraph blocks cramdown of purchase-money vehicle loans incurred within 910 days before filing.</li>
-      <li><strong>Personal property loans within 1 year (non-vehicle):</strong> The hanging paragraph also blocks cramdown of purchase-money security interests in other personal property incurred within one year before filing.</li>
+      <li><strong><a href="https://bankruptcyhardship.org/" title="hardship discharge">Hardship discharge</a> (Section 1328(b)):</strong> If you cannot complete your plan due to circumstances beyond your control, you have already paid at least as much as creditors would have received in Chapter 7, and modification is not practicable, you may qualify for a <a href="https://bankruptcyhardship.org" title="Hardship Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">hardship discharge</a>. See <a href="https://bankruptcyhardship.org">bankruptcyhardship.org</a>.</li>
+      <li><strong>Conversion to Chapter 7:</strong> You can convert your Chapter 13 case to Chapter 7 at any time under Section 1307(a). This eliminates plan payments but may result in loss of non-exempt assets. Any payments already made to creditors through the plan are not returned to you.</li>
+      <li><strong>Voluntary dismissal:</strong> You can request dismissal of your Chapter 13 case under Section 1307(b). This ends the bankruptcy entirely, but all debts return to their pre-filing status (minus amounts already paid through the plan). Creditors can resume collection activity immediately.</li>
     </ul>
-  </div>
-
-  <div class="content-section">
-    <h2>Valuation: The Replacement Value Standard</h2>
-    <p>Under <em>Associates Commercial Corp. v. Rash</em>, 520 U.S. 953 (1997), the Supreme Court held that when a debtor proposes to retain collateral under a cramdown, the appropriate valuation standard is "replacement value" - the price a willing buyer in the debtor's trade, business, or situation would pay a willing seller to obtain comparable property.</p>
-    <p>For vehicles, replacement value is generally understood to fall between private party sale value and full retail value. Most courts look to NADA (National Automobile Dealers Association) guides, Kelley Blue Book, or actual comparable sales. Some districts have established local conventions - for example, using NADA clean retail minus a fixed percentage.</p>
-    <p>Valuation disputes are common. The creditor will argue for a higher value (reducing the benefit of cramdown), and the debtor will argue for a lower value. If the parties cannot agree, the court holds an evidentiary hearing on valuation. Having a professional appraisal or detailed comparable sales data strengthens your position.</p>
-  </div>
-
-  <div class="content-section">
-    <h2>Interest Rate: The Till Formula</h2>
-    <p>In <em>Till v. SCS Credit Corp.</em>, 541 U.S. 465 (2004), the Supreme Court addressed the question of what interest rate applies to crammed-down secured claims in Chapter 13. The plurality opinion adopted a "formula" approach:</p>
-
-    <div class="green-box">
-      <p><strong>Till rate = Prime rate + Risk adjustment (1% to 3%)</strong></p>
-      <p>The prime rate is the national prime rate published by the Wall Street Journal. The risk adjustment accounts for factors such as the probability of default, the nature of the collateral, and the adequacy of protection. Most courts add 1% to 3%, with 1% to 2% being most common for vehicle loans.</p>
-    </div>
-
-    <p>The Till rate is almost always lower than the contract rate on the original loan, especially for subprime borrowers. A debtor who financed a car at 18% interest might see their cramdown rate reduced to 9-10% - a significant savings on top of the principal reduction.</p>
-    <p>Not all circuits follow Till identically. Some courts in the Eighth Circuit and elsewhere have used a "coerced loan" or market-rate approach in certain circumstances. Check local practice in your district.</p>
-  </div>
-
-  <div class="content-section">
-    <h2>Cramdown Savings: Real-World Impact</h2>
-    <p>The combination of principal reduction and interest rate reduction makes cramdown one of the most financially significant benefits of Chapter 13. Consider these scenarios:</p>
-
-    <div class="example-box">
-      <p class="example-title">Scenario Comparison</p>
-      <table>
-        <tr><th>Scenario</th><th>Loan Balance</th><th>Vehicle Value</th><th>Savings</th></tr>
-        <tr><td>Newer car, moderate depreciation</td><td>$22,000</td><td>$17,000</td><td class="highlight">~$5,800</td></tr>
-        <tr><td>Older car, heavy depreciation</td><td>$12,000</td><td>$5,000</td><td class="highlight">~$7,400</td></tr>
-        <tr><td>Subprime loan (high interest)</td><td>$15,000</td><td>$9,000</td><td class="highlight">~$8,200</td></tr>
-        <tr><td>Two vehicles combined</td><td>$30,000</td><td>$16,000</td><td class="highlight">~$15,600</td></tr>
-      </table>
-      <p style="color:var(--text-muted);font-size:0.85rem;margin-top:0.75rem;">Savings estimates include both principal reduction and interest savings over a 60-month plan at Till rate vs. contract rate. Actual results vary.</p>
-    </div>
-
-    <p>For debtors with multiple underwater vehicles or high-interest subprime loans, cramdown can save $10,000 to $20,000 or more over the life of the plan. This is often the single biggest financial advantage of choosing Chapter 13 over <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> for debtors who need to keep their vehicles.</p>
   </div>
 
   <div class="content-section">
     <h2>Frequently Asked Questions</h2>
 
     <div class="faq-item">
-      <h3>Can I reduce my car loan in Chapter 13?</h3>
-      <p>Yes - if the vehicle was purchased more than 910 days before your bankruptcy filing date. Under Section 506(a), the secured claim is reduced to the replacement value of the vehicle. The remaining balance becomes <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a>, paid at whatever percentage your plan provides. If the vehicle was purchased within 910 days and the loan is a purchase-money security interest, cramdown is not available.</p>
+      <h3>How do I modify my Chapter 13 plan?</h3>
+      <p>File a modified plan with the court along with updated Schedules I and J, serve the trustee and affected creditors, and attend a hearing if any party objects. The modified plan must explain the changed circumstances and satisfy the same legal requirements as the original plan. Most districts have local forms - check your court's website or ask the trustee's office.</p>
     </div>
 
     <div class="faq-item">
-      <h3>What is the 910-day rule?</h3>
-      <p>The 910-day rule (from the <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> "hanging paragraph" at the end of Section 1325(a)) prevents cramdown of purchase-money car loans incurred within 910 days (about 2 years and 6 months) before filing. It was enacted in 2005 to protect recent vehicle lenders from having their claims bifurcated. The rule applies only to personal-use vehicles financed with purchase-money loans.</p>
+      <h3>Can the trustee force me to pay more?</h3>
+      <p>Yes. The trustee can file a motion to modify your plan to increase payments under Section 1329(a). This typically happens when tax returns show higher income, when your Schedule I/J updates reveal increased disposable income, or when you receive a windfall. You have the right to object and present evidence at a hearing.</p>
     </div>
 
     <div class="faq-item">
-      <h3>Can I cramdown my mortgage?</h3>
-      <p>You cannot cramdown a mortgage on your principal residence. Section 1322(b)(2) specifically prohibits modification of a claim secured only by the debtor's primary home. However, you can cramdown mortgages on investment or rental properties. You may also be able to strip off a wholly unsecured junior lien on your primary residence - see <a href="https://lienstripping.org">lienstripping.org</a>.</p>
+      <h3>How many times can I modify my Chapter 13 plan?</h3>
+      <p>There is no statutory limit on the number of modifications. You can modify as many times as circumstances require. However, frequent modifications may draw scrutiny - courts want to see that each modification reflects a genuine change in circumstances, not gamesmanship. Each modification also costs time and potentially attorney fees.</p>
     </div>
 
     <div class="faq-item">
-      <h3>What interest rate applies to a crammed-down loan?</h3>
-      <p>Most courts apply the Till rate: the national prime rate plus a risk adjustment of 1% to 3%. In early 2026, with the prime rate at 7.5%, typical cramdown rates range from 8.5% to 10.5%. While this is not cheap, it is almost always lower than the original contract rate, particularly for subprime loans. The reduced principal combined with the reduced interest rate generates the savings.</p>
+      <h3>What if I cannot afford any payment at all?</h3>
+      <p>If no feasible plan payment is possible, modification will not help. Your options are a <a href="https://bankruptcyhardship.org" title="Hardship Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">hardship discharge</a> under <a href="https://bankruptcyhardship.org">Section 1328(b)</a> (if you qualify), conversion to Chapter 7, or voluntary dismissal. Each has significant consequences. A <a href="https://bankruptcyhardship.org" title="Hardship Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">hardship discharge</a> is limited to cases where the failure is due to circumstances beyond your control, you have paid at least the Chapter 7 liquidation amount, and modification is not practicable.</p>
     </div>
   </div>
 
   <div class="content-section">
     <h2>Related Resources</h2>
     <ul style="list-style:none;padding:0;">
-      <li style="margin-bottom:0.5rem;"><a href="https://lienstripping.org">lienstripping.org</a> - Strip off underwater junior liens on your home</li>
-      <li style="margin-bottom:0.5rem;"><a href="/secured-debts.html">Secured Debts in Chapter 13</a> - How mortgages, car loans, and other liens are treated</li>
-      <li style="margin-bottom:0.5rem;"><a href="https://meanstest.org">meanstest.org</a> - Determine your median income status for plan length</li>
-      <li style="margin-bottom:0.5rem;"><a href="https://section1328.org">section1328.org</a> - Chapter 13 <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> rules</li>
+      <li style="margin-bottom:0.5rem;"><a href="/plan-modification.html">Plan Modification Overview - Section 1329</a></li>
+      <li style="margin-bottom:0.5rem;"><a href="https://section1328.org/modification-before-discharge.html">Modification Before Discharge</a> - section1328.org</li>
+      <li style="margin-bottom:0.5rem;"><a href="https://dismissalrate.org/why-chapter-13-fail.html">Why Chapter 13 Cases Fail</a> - dismissalrate.org</li>
+      <li style="margin-bottom:0.5rem;"><a href="https://bankruptcyhardship.org">Hardship Discharge - Section 1328(b)</a></li>
     </ul>
   </div>
 
@@ -554,8 +520,8 @@
   <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
   <ul style="list-style:none;padding:0;margin:0">
     <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=chapter13plan.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=chapter13plan.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=chapter13plan.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=chapter13plan.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
   </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -583,7 +549,7 @@
     <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
     <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
   </div>
-  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

@@ -17,20 +17,20 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>100% Chapter 13 Plan - Benefits of Paying All Unsecured Creditors in Full</title>
-<meta content="Learn about 100% chapter 13 plan - benefits of paying all unsecured creditors in full | chapter13plan.org in our free 2026 guide." name="description"/>
-<meta content="100 percent chapter 13 plan, 100% chapter 13 plan benefits, full payment plan bankruptcy, chapter 13 pay all creditors" name="keywords"/>
-<link href="https://chapter13plan.org/100-percent-plan.html" rel="canonical"/>
+<title>Chapter 13 Plan Payment Calculator - Estimate Your Monthly Payment</title>
+<meta content="Free Chapter 13 plan payment calculator. Estimate your monthly payment based on disposable income, the best interest test, and the appli..." name="description"/>
+<meta content="chapter 13 plan payment calculator, disposable income, chapter 13 monthly payment, best interest test, applicable commitment period" name="keywords"/>
+<link href="https://chapter13plan.org/plan-payment-calculator.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="100% Chapter 13 Plan - Benefits of Paying All Unsecured Creditors in Full" property="og:title"/>
-<meta content="Learn about 100% chapter 13 plan - benefits of paying all unsecured creditors in full | chapter13plan.org in our free 2026 guide." property="og:description"/>
+<meta content="Chapter 13 Plan Payment Calculator - Estimate Your Monthly Payment" property="og:title"/>
+<meta content="Free Chapter 13 plan payment calculator. Estimate your monthly payment based on disposable income, the best interest test, and the appli..." property="og:description"/>
 <meta content="website" property="og:type"/>
-<meta content="https://chapter13plan.org/100-percent-plan.html" property="og:url"/>
+<meta content="https://chapter13plan.org/plan-payment-calculator.html" property="og:url"/>
 <meta content="chapter13plan.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="100% Chapter 13 Plan - Benefits of Paying All Unsecured Creditors in Full" name="twitter:title"/>
-<meta content="Learn about 100% chapter 13 plan - benefits of paying all unsecured creditors in full | chapter13plan.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Chapter 13 Plan Payment Calculator - Estimate Your Monthly Payment" name="twitter:title"/>
+<meta content="Free Chapter 13 plan payment calculator. Estimate your monthly payment based on disposable income, the best interest test, and the appli..." name="twitter:description"/>
 <meta content="https://chapter13plan.org/og-image.svg" property="og:image"/>
 <meta content="https://chapter13plan.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -60,8 +60,8 @@
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "100% Plan",
-      "item": "https://chapter13plan.org/100-percent-plan.html"
+      "name": "Plan Payment Calculator",
+      "item": "https://chapter13plan.org/plan-payment-calculator.html"
     }
   ]
 }
@@ -74,34 +74,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Why would I file Chapter 13 if I can pay all my debts?",
+      "name": "How much will my Chapter 13 payment be?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Filing Chapter 13 even with a 100% plan provides several advantages: the automatic stay stops all collection activity including foreclosure and lawsuits, you can catch up on mortgage arrears over 3-5 years instead of all at once, you can cramdown car loans to the vehicle's value, interest and penalties on unsecured debt typically stop accruing, and you make one consolidated monthly payment instead of managing multiple creditors. The superdischarge under Section 1328(a) may also discharge certain debts that would survive a Chapter 7 discharge."
+        "text": "Your Chapter 13 payment depends on three factors: your monthly disposable income (current monthly income minus allowed expenses), the value of your non-exempt assets (the best interest test), and whether the plan is feasible. The payment must be the higher of your disposable income or the amount unsecured creditors would receive in a Chapter 7 liquidation."
       }
     },
     {
       "@type": "Question",
-      "name": "Can a 100% plan be shorter than 5 years?",
+      "name": "Can my payment change during the plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It depends on your income and the circuit you are in. If you are a below-median debtor, the applicable commitment period is 3 years, and a 100% plan may be completed in that time or less. For above-median debtors, some circuits hold that once 100% of unsecured claims are paid, the plan can end even if the full 60 months have not elapsed. Other circuits require the full commitment period regardless. Check your local practice."
+        "text": "Yes. Either you, the trustee, or an unsecured creditor can request a plan modification under Section 1329. Common triggers include job loss, income increases, or unexpected expenses. The modified plan must still satisfy the best interest test and be feasible."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I still get a discharge with a 100% plan?",
+      "name": "What is disposable income in Chapter 13?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Upon completion of all plan payments, you receive a discharge under Section 1328(a). The Chapter 13 discharge is broader than the Chapter 7 discharge - sometimes called the 'superdischarge' - and may discharge certain debts that would survive Chapter 7, such as willful and malicious injury to property (though not to persons) and certain other categories. Even though you paid 100%, the discharge provides a legal determination that the debts are satisfied."
+        "text": "Disposable income is defined in 11 U.S.C. Section 1325(b)(2) as current monthly income minus amounts reasonably necessary for the maintenance or support of the debtor and dependents. For above-median debtors, the allowed expenses are determined by the means test standards from Section 707(b)(2)."
       }
     },
     {
       "@type": "Question",
-      "name": "Does the trustee fee increase my total cost in a 100% plan?",
+      "name": "What happens if I cannot afford the minimum payment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The Chapter 13 trustee takes a percentage of all payments distributed through the plan, typically 4-10% depending on the district. In a 100% plan, this means you actually pay more than 100% of your unsecured debt. For example, if you owe $30,000 in unsecured debt and the trustee fee is 7%, your plan must distribute approximately $32,250 - the $30,000 to creditors plus the trustee's share. Your attorney fees are also typically paid through the plan."
+        "text": "If you cannot afford the minimum Chapter 13 payment, you may not be eligible for Chapter 13. You might consider Chapter 7 (if you pass the means test), negotiating with creditors outside bankruptcy, or waiting until your financial situation changes. If you are already in an active Chapter 13 case and circumstances have changed, you may seek a plan modification or hardship discharge under Section 1328(b)."
       }
     }
   ]
@@ -113,8 +113,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "100% Chapter 13 Plan",
-      "description": "Why file a 100% Chapter 13 plan? Stop foreclosure, cramdown car loans, consolidated payments, and the superdischarge - even when paying all unsecured creditors",
+      "headline": "Chapter 13 Plan Payment Calculator",
+      "description": "Free Chapter 13 plan payment calculator. Estimate your monthly payment based on disposable income, the best interest test, and the applicable commitment period.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -126,12 +126,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://chapter13plan.org/100-percent-plan.html"
+      "mainEntityOfPage": "https://chapter13plan.org/plan-payment-calculator.html"
     },
     {
       "@type": "WebPage",
-      "name": "100% Chapter 13 Plan",
-      "url": "https://chapter13plan.org/100-percent-plan.html",
+      "name": "Chapter 13 Plan Payment Calculator",
+      "url": "https://chapter13plan.org/plan-payment-calculator.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -198,13 +198,6 @@
   .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .yellow-box p { margin-bottom: 0.5rem; }
   .yellow-box p:last-child { margin-bottom: 0; }
-  .example-box { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; margin: 1rem 0; }
-  .example-box .example-title { color: var(--accent); font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.75rem; }
-  .example-box table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
-  .example-box th, .example-box td { text-align: left; padding: 0.4rem 0.75rem; border-bottom: 1px solid var(--border); }
-  .example-box th { color: var(--text-muted); font-weight: 600; }
-  .example-box td { color: var(--text); }
-  .example-box .highlight { color: var(--green); font-weight: 600; }
   .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
   .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
   .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
@@ -220,6 +213,20 @@
   .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; }
   .network-footer .links a:hover { color: var(--accent); }
   .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  .calc-form { background: #21262d; border: 1px solid var(--border); border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0; }
+  .calc-form label { display: block; color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.25rem; margin-top: 1rem; }
+  .calc-form label:first-child { margin-top: 0; }
+  .calc-form input { width: 100%; max-width: 300px; padding: 0.5rem 0.75rem; background: var(--bg); border: 1px solid var(--border); border-radius: 4px; color: var(--text); font-size: 1rem; }
+  .calc-form input:focus { border-color: var(--accent); outline: none; }
+  .calc-form .hint { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.15rem; }
+  .calc-btn { display: inline-block; margin-top: 1.25rem; padding: 0.6rem 2rem; background: #238636; color: #fff; border: none; border-radius: 6px; font-size: 1rem; font-weight: 600; cursor: pointer; }
+  .calc-btn:hover { background: #2ea043; }
+  .calc-result { background: var(--surface); border: 2px solid var(--green); border-radius: 8px; padding: 1.5rem; margin-top: 1.5rem; display: none; }
+  .calc-result h3 { color: #f0f6fc; margin-bottom: 1rem; font-size: 1.15rem; }
+  .calc-result .result-row { display: flex; justify-content: space-between; padding: 0.5rem 0; border-bottom: 1px solid var(--border); font-size: 0.95rem; }
+  .calc-result .result-row:last-child { border-bottom: none; }
+  .calc-result .result-label { color: var(--text-muted); }
+  .calc-result .result-value { color: var(--accent); font-weight: 600; }
   .faq-item { margin-bottom: 1.5rem; }
   .faq-item h3 { color: #f0f6fc; font-size: 1.05rem; margin-bottom: 0.5rem; }
   .faq-item p { color: var(--text); font-size: 0.95rem; }
@@ -232,29 +239,29 @@
     .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
     .nav-links.open { display: flex; }
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
-    .example-box { overflow-x: auto; }
+    .calc-form input { max-width: 100%; }
   }
 </style>
-<link href="https://chapter13plan.org/100-percent-plan.html" hreflang="en" rel="alternate"/>
-<link href="https://chapter13plan.org/100-percent-plan-es.html" hreflang="es" rel="alternate"/>
+<link href="https://chapter13plan.org/plan-payment-calculator.html" hreflang="en" rel="alternate"/>
+<link href="https://chapter13plan.org/plan-payment-calculator-es.html" hreflang="es" rel="alternate"/>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
+  "@type": "WebApplication",
+  "name": "Chapter 13 Plan Payment Calculator - Estimate Your Monthly Payment",
+  "description": "Free Chapter 13 plan payment calculator. Estimate your monthly payment based on disposable income, the best interest test, and the appli...",
+  "url": "https://chapter13plan.org/plan-payment-calculator.html",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
   }
 }
 </script>
@@ -266,7 +273,7 @@
 <button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
 <div class="nav-links">
 <a href="/">Home</a>
-<a href="/plan-payments.html">Payments</a>
+<a class="active" href="/plan-payments.html">Payments</a>
 <a href="/plan-confirmation.html">Confirmation</a>
 <a href="/secured-debts.html">Secured Debts</a>
 <a href="/priority-debts.html">Priority Debts</a>
@@ -275,124 +282,135 @@
 </div>
 </nav>
 <header>
-<h1><span class="accent">100% Chapter 13 Plan</span></h1>
-<p class="subtitle">Why filing Chapter 13 can make sense even when you pay all unsecured creditors in full</p>
+<h1><span class="accent">Chapter 13 Plan Payment Calculator</span></h1>
+<p class="subtitle">Estimate your monthly Chapter 13 plan payment based on disposable income and the best interest test</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › <a href="/">Chapter 13 Plan</a> › 100% Plan
+<a href="https://1328f.com/">Network</a> › <a href="/">Chapter 13 Plan</a> › Payment Calculator
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>What Is a 100% Plan?</h2>
-<p>A "100% plan" is a <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> repayment plan that pays all allowed unsecured claims in full - 100 cents on the dollar. At first glance, this might seem pointless: why go through bankruptcy if you are paying everything back? But a 100% plan provides several concrete legal and financial advantages that are not available outside bankruptcy.</p>
-<p>100% plans are more common than many people realize. They typically arise when a debtor has above-median income and relatively moderate <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a>, or when a debtor's primary goal is not debt reduction but rather restructuring - stopping a foreclosure, cramming down a car loan, or consolidating payments under court protection.</p>
+<h2>How Chapter 13 Payments Are Determined</h2>
+<p>Your <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> plan payment is not a number your attorney picks out of thin air. It is determined by federal bankruptcy law - specifically 11 U.S.C. Section 1325(b) - and must satisfy three independent tests. Your actual payment will be the highest amount required by any of them.</p>
+<p>Understanding these tests is critical because they set both the floor and the ceiling for what you will pay over the life of your plan. If your payment is set too low, the trustee or a creditor will object and the court will not confirm your plan. If it is set higher than required, you may be paying more than necessary.</p>
+<h3>Test 1: The Disposable Income Test</h3>
+<p>Under Section 1325(b)(1)(B), if the trustee or an <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a> objects to confirmation, the plan must commit all of your "projected disposable income" to plan payments during the applicable commitment period.</p>
+<p><strong>Disposable income</strong> is defined as your current monthly income (CMI) minus amounts reasonably necessary for the maintenance and support of yourself and your dependents. For above-median-income debtors, the "reasonably necessary" expenses are determined using the <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> standards from <a href="https://www.law.cornell.edu/uscode/text/11/707#b_0" rel="noopener" target="_blank">Section 707(b)</a>(2) - the same IRS expense categories used to determine <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> eligibility. For below-median debtors, the court uses your actual expenses as reported on Schedule J.</p>
+<p>Current monthly income is calculated by averaging your gross income from all sources over the six full calendar months before your bankruptcy filing date. This includes wages, salary, overtime, business income, rental income, pension and retirement distributions, and regular contributions from others. It does not include Social Security benefits.</p>
+<h3>Test 2: The Best Interest Test (Liquidation Analysis)</h3>
+<p>Under Section 1325(a)(4), unsecured creditors must receive at least as much through your <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> plan as they would have received if you had filed <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> instead. This is called the "best interest of creditors" test.</p>
+<p>In a Chapter 7 case, a trustee would liquidate your non-exempt assets and distribute the proceeds to creditors. If you have $10,000 in non-exempt assets and $50,000 in unsecured debt, the Chapter 7 dividend would be 20 cents on the dollar. Your Chapter 13 plan must pay at least that same 20% to unsecured creditors.</p>
+<p>If you have no non-exempt assets - which is common - the Chapter 7 dividend would be zero, and this test does not set a meaningful floor. But if you have significant equity in property above your exemption limits, this test can require substantial payments.</p>
+<h3>Test 3: The Feasibility Test</h3>
+<p>Under Section 1325(a)(6), the court must find that you will be able to make all payments under the plan. A plan that looks good on paper but would leave you unable to pay rent or buy groceries will not be confirmed. The court examines your budget (Schedules I and J) to verify that the proposed payment is realistic given your actual income and expenses.</p>
 </div>
 <div class="content-section">
-<h2>Why File Chapter 13 If Paying 100%?</h2>
-<p>A 100% <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> plan delivers benefits that no amount of voluntary debt repayment can match:</p>
-<h3>1. Stop Foreclosure and Cure Mortgage Arrears</h3>
-<p>This is the most common reason for 100% plans. If you are behind on your mortgage, the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a> immediately stops foreclosure proceedings. Your plan then allows you to cure the entire arrearage over 3 to 5 years while making current mortgage payments going forward. Outside bankruptcy, most lenders demand immediate full payment of arrears - which is often impossible.</p>
-<p>A debtor who is $15,000 behind on a mortgage and has $20,000 in <a href="https://creditcarddebtbankruptcy.org" rel="noopener" target="_blank" title="Credit Card Debt and Bankruptcy - Open Bankruptcy Project">credit card debt</a> might file a 100% plan that cures the mortgage arrears over 60 months ($250/month) while paying 100% of the unsecured debt. The alternative - losing the home - is far worse.</p>
-<h3>2. Cramdown Car Loans</h3>
-<p>Even in a 100% plan, you can <a href="/cramdown.html">cramdown</a> car loans to the vehicle's replacement value (subject to the 910-day rule). If you owe $18,000 on a car worth $10,000, your plan pays $10,000 as a secured claim at the Till rate, and the $8,000 deficiency becomes unsecured. In a 100% plan, you pay the $8,000 deficiency in full - but you still save substantially because you eliminated the high contract interest rate on the entire $18,000.</p>
-<h3>3. Stop Interest and Penalties</h3>
-<p>Once your Chapter 13 case is filed, most unsecured creditors stop accruing interest. In a 100% plan, you pay the allowed claims as of the filing date - not the ballooning balance that would accumulate over 3 to 5 years of continued interest and late fees. For high-interest <a href="https://creditcarddebtbankruptcy.org" rel="noopener" target="_blank" title="Credit Card Debt and Bankruptcy - Open Bankruptcy Project">credit card debt</a>, this savings can be significant even in a 100% plan.</p>
-<h3>4. One Consolidated Monthly Payment</h3>
-<p>Instead of juggling payments to multiple creditors, you make one payment to the Chapter 13 trustee, who distributes it according to the plan. This simplifies your finances and eliminates the risk of missing a payment to one creditor while paying others. It also provides a structured framework - like a court-supervised debt management plan with the force of federal law behind it.</p>
-<h3>5. Protection from Lawsuits and Garnishment</h3>
-<p>The <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> prevents all collection activity throughout your case - lawsuits, <a href="https://garnishedwages.org" rel="noopener" target="_blank" title="Wage Garnishment and Bankruptcy - Open Bankruptcy Project">wage garnishment</a>, bank levies, repossession, utility shutoffs (for 20 days), and collection calls. This blanket protection lasts for the entire 3-to-5-year plan term, not just a few months.</p>
-<h3>6. The Superdischarge</h3>
-<p>The Chapter 13 <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(a) is broader than the <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. Sometimes called the "superdischarge," it can discharge certain debts that would survive <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, including:</p>
+<h2>The Applicable Commitment Period</h2>
+<p>The length of your plan is governed by the "applicable commitment period" under Section 1325(b)(4). It depends on whether your income is above or below the median for your state and household size:</p>
 <ul>
-<li>Debts for willful and malicious injury to property (but not to persons) - 11 U.S.C. <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(6)</li>
-<li>Debts incurred to pay <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> tax obligations - 11 U.S.C. <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(14)</li>
-<li>Certain debts arising from property settlements in divorce or separation - 11 U.S.C. <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(15)</li>
+<li><strong>Below median income:</strong> The applicable commitment period is 3 years (36 months). However, the court may approve a longer plan up to 5 years if needed to pay priority debts, cure mortgage arrears, or for other cause.</li>
+<li><strong>Above median income:</strong> The applicable commitment period is 5 years (60 months). You must commit all disposable income for the full 60 months unless you pay 100% of unsecured claims sooner.</li>
 </ul>
-<p>Even in a 100% plan, the discharge provides a legal determination that the debts are fully satisfied. It prevents creditors from later claiming additional amounts, penalties, or interest that were not part of the allowed claim. For more on the superdischarge, see <a href="https://section1328.org/superdischarge.html">section1328.org</a>.</p>
-<div class="green-box">
-<p><strong>Key insight:</strong> The superdischarge is available only after completion of all plan payments under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(a). It is not available in a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(b). A 100% plan is the most reliable path to the superdischarge because it eliminates feasibility concerns and maximizes the probability of successful completion.</p>
-</div>
+<p>You can check whether your income is above or below the median using the <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> at <a href="https://meanstest.org">meanstest.org</a>. The median income figures are published by the Census Bureau and updated periodically by the <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">U.S. Trustee Program</a>.</p>
 </div>
 <div class="content-section">
-<h2>When 100% Plans Happen</h2>
-<p>Not everyone who files a 100% plan does so by choice. Several circumstances lead to 100% plans:</p>
-<ul>
-<li><strong>Above-median income with moderate unsecured debt:</strong> If you earn well above the state median and have only $15,000-$30,000 in unsecured debt, your projected disposable income over 60 months may exceed the total unsecured debt. The disposable income test effectively requires a 100% plan.</li>
-<li><strong>Low unsecured debt:</strong> A debtor with $5,000 in <a href="https://creditcarddebtbankruptcy.org" rel="noopener" target="_blank" title="Credit Card Debt and Bankruptcy - Open Bankruptcy Project">credit card debt</a> but $20,000 in mortgage arrears will likely pay 100% of unsecured claims because the plan payment - driven by the mortgage cure - generates enough to cover everything.</li>
-<li><strong>Significant non-exempt assets:</strong> If you have $40,000 in non-exempt equity and $35,000 in unsecured debt, the best interest test requires at least 100% payment (since Chapter 7 liquidation would yield more than the total unsecured claims).</li>
-<li><strong>Strategic choice:</strong> Some debtors choose a 100% plan to get the superdischarge, stop interest accrual, or consolidate payments even though they could technically pay debts outside bankruptcy.</li>
-</ul>
-</div>
-<div class="content-section">
-<h2>Plan Length and the 100% Question</h2>
-<p>One important and often-contested question: can a 100% plan be shorter than the full applicable commitment period?</p>
-<p>The circuits are split on this issue:</p>
-<ul>
-<li><strong>Some circuits allow early completion:</strong> If you pay 100% of all allowed unsecured claims before the 36- or 60-month commitment period ends, some courts permit the plan to conclude early. The reasoning is that Section 1325(b)(1)(B) requires either full payment or the applicable commitment period - and full payment has been achieved.</li>
-<li><strong>Other circuits require the full period:</strong> Some courts hold that the applicable commitment period is a minimum duration, regardless of when 100% payment is achieved. Under this interpretation, you continue making payments (which are then distributed to creditors, potentially exceeding 100%) or you must wait out the remaining months.</li>
-</ul>
-<p>For below-median debtors, the 3-year commitment period makes this less controversial - 3 years is manageable, and many plans can pay 100% well within that timeframe. For above-median debtors locked into a 5-year period, the difference matters significantly.</p>
+<h2>Estimate Your Payment</h2>
 <div class="yellow-box">
-<p><strong>Check your circuit:</strong> Local practice controls this issue. Ask your attorney or the Chapter 13 trustee's office whether your district permits early plan completion upon 100% payment.</p>
+<p><strong>Important:</strong> This calculator provides a rough estimate only. Actual Chapter 13 payments depend on many factors not captured here, including secured debt arrears, priority tax claims, attorney fees, trustee percentage, and local court practices. Do not rely on this estimate as legal advice.</p>
+</div>
+<div class="calc-form">
+<label for="calc-income">Monthly Gross Income (all sources)</label>
+<input id="calc-income" min="0" placeholder="e.g. 5000" step="1" type="number"/>
+<p class="hint">Average of last 6 months. Include wages, business income, rental income, etc. Exclude Social Security.</p>
+<label for="calc-expenses">Monthly Necessary Expenses</label>
+<input id="calc-expenses" min="0" placeholder="e.g. 4000" step="1" type="number"/>
+<p class="hint">Housing, food, transportation, insurance, medical, childcare, etc.</p>
+<label for="calc-assets">Value of Non-Exempt Assets</label>
+<input id="calc-assets" min="0" placeholder="e.g. 5000" step="1" type="number"/>
+<p class="hint">Total value of property you could not protect with <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> in a Chapter 7. Enter 0 if unsure.</p>
+<label for="calc-unsecured">Total Unsecured Debt</label>
+<input id="calc-unsecured" min="0" placeholder="e.g. 30000" step="1" type="number"/>
+<p class="hint">Credit cards, medical bills, personal loans, deficiency balances, etc.</p>
+<label for="calc-median">Is your income above or below the state median?</label>
+<select id="calc-median" style="width:100%;max-width:300px;padding:0.5rem 0.75rem;background:var(--bg);border:1px solid var(--border);border-radius:4px;color:var(--text);font-size:1rem;">
+<option value="below">Below median (3-year plan)</option>
+<option value="above">Above median (5-year plan)</option>
+</select>
+<p class="hint">Check at <a href="https://meanstest.org">meanstest.org</a> if you are unsure.</p>
+<button class="calc-btn" onclick="calculatePayment()">Estimate My Payment</button>
+</div>
+<div class="calc-result" id="calc-result">
+<h3>Estimated Results</h3>
+<div class="result-row">
+<span class="result-label">Monthly Disposable Income</span>
+<span class="result-value" id="res-di">--</span>
+</div>
+<div class="result-row">
+<span class="result-label">Plan Length</span>
+<span class="result-value" id="res-length">--</span>
+</div>
+<div class="result-row">
+<span class="result-label">Estimated Monthly Payment</span>
+<span class="result-value" id="res-payment">--</span>
+</div>
+<div class="result-row">
+<span class="result-label">Total Paid to Unsecured Creditors</span>
+<span class="result-value" id="res-total">--</span>
+</div>
+<div class="result-row">
+<span class="result-label">Estimated % to Unsecured Creditors</span>
+<span class="result-value" id="res-pct">--</span>
+</div>
+<div class="result-row">
+<span class="result-label">Controlling Test</span>
+<span class="result-value" id="res-test">--</span>
+</div>
+<p style="color:var(--text-muted);font-size:0.85rem;margin-top:1rem;">This estimate does not include trustee fees (typically 4-10%), attorney fees, secured debt arrears, or priority claims - all of which increase your actual payment. Consult with a bankruptcy attorney for an accurate calculation.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>The Hidden Cost: Trustee Fees</h2>
-<p>The Chapter 13 trustee is compensated by taking a percentage of all plan payments. This percentage varies by district but typically ranges from 4% to 10%. In a 100% plan, this means you actually pay more than 100% of your unsecured debt.</p>
-<div class="example-box">
-<p class="example-title">Example: True Cost of a 100% Plan</p>
-<table>
-<tr><th>Component</th><th>Amount</th></tr>
-<tr><td>Total unsecured claims</td><td>$30,000</td></tr>
-<tr><td>Trustee fee (7%)</td><td>$2,258</td></tr>
-<tr><td>Attorney fees (paid through plan)</td><td>$3,500</td></tr>
-<tr><td>Total plan payments for unsecured + overhead</td><td>$35,758</td></tr>
-<tr><td>Interest saved (avg 22% APR stopped for 4 years)</td><td class="highlight">-$26,400</td></tr>
-<tr><td>Net cost vs. paying outside bankruptcy</td><td class="highlight">Savings of ~$20,600</td></tr>
-</table>
-<p style="color:var(--text-muted);font-size:0.85rem;margin-top:0.75rem;">Even after trustee fees and attorney costs, stopping interest accrual on high-rate unsecured debt often makes a 100% Chapter 13 plan cheaper than paying debts outside bankruptcy. Results vary based on interest rates and debt levels.</p>
-</div>
-<p>The trustee fee calculation is based on the gross amount distributed, not just the amount going to unsecured creditors. Secured debt payments and priority claim payments that flow through the trustee also generate trustee fees. This increases the total plan cost but is unavoidable in Chapter 13.</p>
-</div>
-<div class="content-section">
-<h2>The Disposable Income Test and 100% Plans</h2>
-<p>Under Section 1325(b)(1), if the trustee or an <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a> objects to confirmation, the plan must either pay 100% of unsecured claims or commit all projected disposable income for the applicable commitment period. In practice, this means:</p>
+<h2>What the Calculator Does Not Include</h2>
+<p>The estimate above covers only the disposable income and best interest tests for unsecured creditors. In practice, your monthly Chapter 13 payment also funds:</p>
 <ul>
-<li>If your disposable income over the commitment period exceeds your total unsecured debt, you are paying 100% whether you planned to or not.</li>
-<li>If you propose a 100% plan, the disposable income test is automatically satisfied regardless of how much income you earn - because you are paying everything.</li>
-<li>The best interest test is also automatically satisfied in a 100% plan, since creditors receive more than they would in Chapter 7 liquidation (unless you have non-exempt assets exceeding your unsecured debt, which is rare).</li>
+<li><strong>Mortgage arrears:</strong> If you are behind on your mortgage, the plan must cure the entire arrearage over the plan term, which increases your monthly payment.</li>
+<li><strong>Priority debts:</strong> Domestic support obligations (child support, alimony) and most tax debts classified as priority under Section 507 must be paid in full through the plan.</li>
+<li><strong>Secured debt through the plan:</strong> Some plans pay car loans or other secured debts directly through the trustee, adding to the monthly payment.</li>
+<li><strong>Attorney fees:</strong> Your bankruptcy attorney's fees are often paid through the plan, typically $3,000-$5,000 depending on the district.</li>
+<li><strong>Trustee fees:</strong> The Chapter 13 trustee takes a percentage of all plan payments (typically 4-10%) as compensation. This means your gross payment must be higher than the net amount distributed to creditors.</li>
 </ul>
-<p>This makes confirmation of a 100% plan relatively straightforward. The main issue the court will examine is feasibility - can you actually make the proposed payments for the duration of the plan?</p>
 </div>
 <div class="content-section">
 <h2>Frequently Asked Questions</h2>
 <div class="faq-item">
-<h3>Why would I file Chapter 13 if I can pay all my debts?</h3>
-<p>Chapter 13 provides legal protections and financial tools that voluntary repayment cannot match: the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> stops foreclosure and lawsuits, you can cure mortgage arrears over years instead of immediately, car loans can be crammed down, interest on unsecured debt stops accruing, and the superdischarge covers certain debts that Chapter 7 does not. Even at 100%, the structure and protection are valuable.</p>
+<h3>How much will my Chapter 13 payment be?</h3>
+<p>Your payment depends on your disposable income, the value of your non-exempt assets, and the specific debts included in your plan. At minimum, it must equal your monthly disposable income (if the trustee objects) and must pay unsecured creditors at least as much as they would receive in a Chapter 7 liquidation. Many debtors pay between $200 and $2,000 per month, but the range varies enormously.</p>
 </div>
 <div class="faq-item">
-<h3>Can a 100% plan be shorter than 5 years?</h3>
-<p>It depends on your income level and your circuit. Below-median debtors have a 3-year commitment period and may complete sooner if 100% is reached early. For above-median debtors, some circuits allow early completion upon 100% payment, while others require the full 60-month term. Check with a local attorney or the trustee's office in your district.</p>
+<h3>Can my payment change during the plan?</h3>
+<p>Yes. Section 1329 allows the debtor, the trustee, or an <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a> to request a plan modification after confirmation. If you lose your job, get a raise, or experience a significant change in expenses, the payment can be adjusted up or down. The modified plan must still satisfy the best interest test and be feasible. See our <a href="/plan-modification.html">plan modification guide</a> and our detailed page on <a href="/modify-plan.html">modifying your plan after confirmation</a>.</p>
 </div>
 <div class="faq-item">
-<h3>Do I still get a discharge with a 100% plan?</h3>
-<p>Yes. Upon completion of all plan payments, you receive the full Chapter 13 discharge under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(a). This includes the superdischarge - broader than the Chapter 7 discharge - which covers certain debts like willful property damage and some property settlement obligations from divorce. The discharge also provides a legal determination that all obligations under the plan are satisfied, preventing future claims.</p>
+<h3>What is disposable income in Chapter 13?</h3>
+<p>Disposable income is your current monthly income minus amounts reasonably necessary for your maintenance and support. For above-median debtors, allowed expenses follow the <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> formula from Section 707(b)(2) - standardized IRS expense categories plus actual payments on secured debts. For below-median debtors, the court typically uses actual reasonable expenses. The <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> is explained in detail at <a href="https://meanstest.org">meanstest.org</a>.</p>
 </div>
 <div class="faq-item">
-<h3>Does the trustee fee increase my total cost?</h3>
-<p>Yes. The trustee takes a percentage (typically 4-10%) of all distributions. In a 100% plan, this means you pay more than 100% of your unsecured debt in total plan payments. However, the interest savings from stopping unsecured debt accrual (often 15-30% APR) usually more than offset the trustee fee, making the plan cheaper overall than paying outside bankruptcy.</p>
+<h3>What happens if I cannot afford the minimum payment?</h3>
+<p>If your disposable income is zero or negative, you may still file Chapter 13 - but only if you can propose a feasible plan that satisfies the best interest test and pays all required priority and secured debts. If that is not possible, Chapter 7 may be a better option (assuming you qualify under the <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a>). If you are already in an active case and cannot keep up, you may request a <a href="/plan-modification.html">plan modification</a>, convert to Chapter 7, or seek a <a href="https://bankruptcyhardship.org">hardship discharge</a> under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(b).</p>
 </div>
 </div>
 <div class="content-section">
 <h2>Related Resources</h2>
 <ul style="list-style:none;padding:0;">
-<li style="margin-bottom:0.5rem;"><a href="https://meanstest.org">meanstest.org</a> - Check whether your income is above or below median</li>
-<li style="margin-bottom:0.5rem;"><a href="/plan-payments.html">How Plan Payments Work</a> - Payment collection and what happens if you miss one</li>
-<li style="margin-bottom:0.5rem;"><a href="https://section1328.org/superdischarge.html">The Superdischarge - Section 1328(a)</a></li>
-<li style="margin-bottom:0.5rem;"><a href="https://whatischapter7.com">whatischapter7.com</a> - Compare with Chapter 7 to decide which chapter fits your situation</li>
+<li style="margin-bottom:0.5rem;"><a href="https://meanstest.org">meanstest.org</a> - Determine if your income is above or below the state median</li>
+<li style="margin-bottom:0.5rem;"><a href="https://section1328.org">section1328.org</a> - Chapter 13 <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> rules and the superdischarge</li>
+<li style="margin-bottom:0.5rem;"><a href="/plan-payments.html">How Plan Payments Work</a> - Payment collection, missed payments, and catch-up</li>
+<li style="margin-bottom:0.5rem;"><a href="https://dismissalrate.org">dismissalrate.org</a> - Chapter 13 <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> and failure rates by district</li>
 </ul>
 </div>
 <p style="color:var(--text-muted);font-size:0.8rem;text-align:center;margin-top:2rem;">Last updated: March 2026</p>
+<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
+<a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
+</div>
 </main>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
@@ -442,8 +460,8 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=chapter13plan.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=chapter13plan.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=chapter13plan.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=chapter13plan.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -470,7 +488,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
@@ -496,8 +514,59 @@
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:700px;margin:2rem auto">
 <p style="color:#9eaab6;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.25rem">Federal Rules Committee</p>
 <p style="color:#e6edf3;font-size:0.95rem;margin-bottom:0.25rem">This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-3" style="color:#58a6ff">Suggestion 26-BK-3</a> and <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-5" style="color:#58a6ff">Suggestion 26-BK-5</a></p>
-<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://www.law.cornell.edu/uscode/text/11/1328#f_0" rel="noopener" target="_blank">Section 1328(f)</a> <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> screening in federal bankruptcy courts</p>
+<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(f) <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> screening and <a href="https://openbankruptcyproject.org/rule-9037/" rel="noopener" target="_blank" title="Rule 9037 SSN Redaction - Open Bankruptcy Project">Rule 9037</a> SSN redaction in federal bankruptcy courts</p>
 </div>
+<script>
+function calculatePayment() {
+  var income = parseFloat(document.getElementById('calc-income').value) || 0;
+  var expenses = parseFloat(document.getElementById('calc-expenses').value) || 0;
+  var assets = parseFloat(document.getElementById('calc-assets').value) || 0;
+  var unsecured = parseFloat(document.getElementById('calc-unsecured').value) || 0;
+  var median = document.getElementById('calc-median').value;
+
+  var di = Math.max(0, income - expenses);
+  var months = median === 'above' ? 60 : 36;
+
+  // Disposable income test: total paid = di * months
+  var diTotal = di * months;
+
+  // Best interest test: must pay at least the value of non-exempt assets
+  var biTotal = assets;
+
+  // The controlling amount is whichever is higher
+  var controllingTotal = Math.max(diTotal, biTotal);
+  var controllingTest = diTotal >= biTotal ? 'Disposable Income Test' : 'Best Interest Test';
+
+  // If best interest test controls, monthly payment = assets / months (at minimum)
+  var monthlyPayment = controllingTotal / months;
+
+  // Cap percentage at 100%
+  var pct = unsecured > 0 ? Math.min(100, (controllingTotal / unsecured) * 100) : 0;
+
+  // If total exceeds unsecured debt, cap and possibly shorten plan
+  if (unsecured > 0 && controllingTotal > unsecured) {
+    controllingTotal = unsecured;
+    pct = 100;
+    // Could finish early
+    if (di > 0) {
+      var earlyMonths = Math.ceil(unsecured / di);
+      if (earlyMonths < months) {
+        months = earlyMonths;
+        monthlyPayment = di;
+      }
+    }
+  }
+
+  document.getElementById('res-di').textContent = '$' + di.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0}) + '/month';
+  document.getElementById('res-length').textContent = months + ' months (' + (months / 12).toFixed(1) + ' years)';
+  document.getElementById('res-payment').textContent = '$' + Math.round(monthlyPayment).toLocaleString() + '/month';
+  document.getElementById('res-total').textContent = '$' + Math.round(controllingTotal).toLocaleString();
+  document.getElementById('res-pct').textContent = pct.toFixed(1) + '%';
+  document.getElementById('res-test').textContent = controllingTest;
+
+  document.getElementById('calc-result').style.display = 'block';
+}
+</script>
 <div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
 <script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
 </body>
