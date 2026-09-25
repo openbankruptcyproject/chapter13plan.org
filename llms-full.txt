@@ -1,6 +1,6 @@
 # chapter13plan.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on chapter13plan.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## 100% Chapter 13 Plan - Benefits of Paying All Unsecured Creditors in Full
+## 100 Percent Chapter 13 Plan [2026]: 11 USC 1325(b) Disposable Income Test and Full-Payment Benefits
 Source: https://chapter13plan.org/100-percent-plan.html
 
 Skip to main content
@@ -29,6 +29,8 @@ Cramdown
 Why filing Chapter 13 can make sense even when you pay all unsecured creditors in full
 
 Network › Chapter 13 Plan › 100% Plan
+
+Filing Chapter 13 even with a 100% plan provides several advantages: the automatic stay stops all collection activity including foreclosure and lawsuits, you can catch up on mortgage arrears over 3-5 years instead of all at once, you can cramdown car loans to the vehicle's value, interest and penalties on unsecured debt typically stop accruing, and you make one consolidated monthly payment instead of managing multiple creditors. The superdischarge under Section 1328(a) may also discharge certain debts that would survive a Chapter 7 discharge.
 
 What Is a 100% Plan?
 
@@ -156,6 +158,16 @@ Does the trustee fee increase my total cost?
 
 Yes. The trustee takes a percentage (typically 4-10%) of all distributions. In a 100% plan, this means you pay more than 100% of your unsecured debt in total plan payments. However, the interest savings from stopping unsecured debt accrual (often 15-30% APR) usually more than offset the trustee fee, making the plan cheaper overall than paying outside bankruptcy.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
 Related Resources
 
 meanstest.org - Check whether your income is above or below median
@@ -199,7 +211,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -227,34 +239,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-523a.org
-727a8.org
-prosedebtors.org
-whatischapter7.com
-chapter13plan.org
-lienstripping.org
-section1328.org
-bankruptcyhardship.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -274,7 +285,7 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -282,7 +293,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Payment Calculator: Estimate Your Monthly Plan [2026] - Chapter 13 Plan
+## Chapter 13 Payment Calculator [2026]: 11 USC 1325(b) Disposable Income and Plan Length Estimator
 Source: https://chapter13plan.org/calculator.html
 
 Skip to main content
@@ -304,6 +315,8 @@ Chapter 13 Payment Calculator
 Estimate your monthly plan payment based on your income, expenses, and debts. Free, private, no data leaves your browser.
 
 Network › Chapter 13 Plan › Payment Calculator
+
+Your Chapter 13 plan payment is based on your disposable income (monthly income minus allowed expenses), the amount of secured debt arrears and priority debt that must be paid in full, and any additional amount needed to satisfy the best interests of creditors test. The payment must be at least enough to cover secured arrears and priority debt over the plan length, and you must commit all projected disposable income to the plan under the best efforts test of 11 U.S.C. Section 1325(b).
 
 Chapter 13 Payment Estimator
 
@@ -526,7 +539,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -554,29 +567,41 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-chapter13plan.org
-section1328.org
-lienstripping.org
-bankruptcyhardship.org
-chapter7vs13.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -584,7 +609,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Cramdown - Reduce Your Car Loan and Other Secured Debts - Chapter 13 Plan
+## Chapter 13 Cramdown [2026]: 11 USC 1325(a)(5)(B) Reducing Car Loan Principal to Collateral Value
 Source: https://chapter13plan.org/cramdown.html
 
 Skip to main content
@@ -605,6 +630,8 @@ Chapter 13 Cramdown
 Reduce your car loan and other secured debts to the collateral's actual value under Section 506(a)
 
 Network › Chapter 13 Plan › Cramdown
+
+Yes, if you purchased the vehicle more than 910 days (about 2.5 years) before filing bankruptcy. Under Section 506(a), the secured claim is reduced to the replacement value of the vehicle. The remaining balance becomes an unsecured claim. If the vehicle was purchased within 910 days, the hanging paragraph of Section 1325(a)(*) prevents cramdown and you must pay the full loan balance.
 
 What Is a Cramdown?
 
@@ -746,6 +773,16 @@ What interest rate applies to a crammed-down loan?
 
 Most courts apply the Till rate: the national prime rate plus a risk adjustment of 1% to 3%. In early 2026, with the prime rate at 7.5%, typical cramdown rates range from 8.5% to 10.5%. While this is not cheap, it is almost always lower than the original contract rate, particularly for subprime loans. The reduced principal combined with the reduced interest rate generates the savings.
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
 Related Resources
 
 lienstripping.org - Strip off underwater junior liens on your home
@@ -789,7 +826,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -817,34 +854,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-523a.org
-727a8.org
-prosedebtors.org
-whatischapter7.com
-chapter13plan.org
-lienstripping.org
-section1328.org
-bankruptcyhardship.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -864,9 +900,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -875,7 +911,7 @@ This site provides general information, not legal advice. Consult a qualified at
 ## Chapter 13 Repayment Plan - How Plan Payments Work [2026 Guide] - Chapter 13 Plan
 Source: https://chapter13plan.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -890,13 +926,15 @@ Priority Debts
 Modification
 Cramdown
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Chapter 13 Repayment Plan
 
 Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325
 
 Network › Chapter 13 Repayment Plan
+
+The means test compares your income to your state's median income to determine Chapter 7 eligibility. If your income is below the median, you qualify automatically. If above, a detailed expense analysis determines whether you have enough disposable income to fund a Chapter 13 plan instead.
 
 About This Site
 
@@ -989,7 +1027,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -1131,56 +1169,57 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Chapter 13 Plan Confirmation Integrity
 
-Part of the Open Bankruptcy Project
+Chapter 13 plan confirmation is governed by the requirements of Section 1325(a), including the good-faith requirement at Section 1325(a)(3) and the disposable-income test at Section 1325(b). Where post-confirmation conduct surfaces material pre-confirmation nondisclosure, the integrity of the confirmation order is open to challenge.
+
+The Section 1330 Revocation Gateway
+
+Section 1330 permits revocation of a Chapter 13 confirmation order procured by fraud, on motion of a party in interest within 180 days of confirmation. This is the Chapter 13 parallel to Section 1144 in Chapter 11 and Subchapter V, and to Section 727(d) in Chapter 7.
+
+Good Faith and Disclosure Adequacy
+
+The good-faith requirement at Section 1325(a)(3) is the doctrinal frame through which courts assess whether the plan and the conduct around its confirmation reflect honest dealing. Misstated income, undisclosed assets, or omitted material facts that bear on disposable-income calculation can independently fail good faith. The same factual record may also support a Section 1330 revocation if the omissions were material to confirmation.
+
+The Chapter 13 framework is structurally parallel to the Subchapter V consent-integrity framework. See the cross-chapter analysis at section1191.org.
+
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
-Rule 9037 PII Scanner
+♥ Donate
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1194,15 +1233,45 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Index
+Pros Cons
+
 ---
 
-## Can I Modify My Chapter 13 Plan After Confirmation?
+## Modifying Chapter 13 Plan After Confirmation [2026]: 11 USC 1329 Procedure, Grounds, and Deadlines
 Source: https://chapter13plan.org/modify-plan.html
 
 Skip to main content
@@ -1223,6 +1292,8 @@ Can I Modify My Chapter 13 Plan After Confirmation?
 Yes - Section 1329 provides a flexible mechanism to adjust your plan when circumstances change
 
 Network › Chapter 13 Plan › Modify Plan After Confirmation
+
+File a modified plan with the court, serve it on the trustee and all affected creditors, and attend a hearing if any party objects. The modified plan must explain the changed circumstances justifying the modification and must still satisfy the best interest test, projected disposable income test, and feasibility test under Section 1325. Most courts have local forms or templates for modified plans.
 
 Post-Confirmation Modification Under Section 1329
 
@@ -1401,7 +1472,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -1429,34 +1500,33 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-523a.org
-727a8.org
-prosedebtors.org
-whatischapter7.com
-chapter13plan.org
-lienstripping.org
-section1328.org
-bankruptcyhardship.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1476,15 +1546,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Chapter 13 Plan Confirmation - Section 1325
+## Chapter 13 Plan Confirmation [2026]: 11 USC 1325 Eligibility Requirements and Hearing Procedure
 Source: https://chapter13plan.org/plan-confirmation.html
 
 Skip to main content
@@ -1505,6 +1575,8 @@ Chapter 13 Repayment Plan
 Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325
 
 Network › Chapter 13 Repayment Plan
+
+The means test compares your income to your state's median income to determine Chapter 7 eligibility. If your income is below the median, you qualify automatically. If above, a detailed expense analysis determines whether you have enough disposable income to fund a Chapter 13 plan instead.
 
 Good Faith - 1325(a)(3)
 
@@ -1569,7 +1641,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -1597,47 +1669,43 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1651,15 +1719,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Modifying Your Chapter 13 Plan - Section 1329
+## Chapter 13 Plan Modification [2026]: 11 USC 1329 Post-Confirmation Changes Before Final Payment
 Source: https://chapter13plan.org/plan-modification.html
 
 Skip to main content
@@ -1680,6 +1748,8 @@ Chapter 13 Repayment Plan
 Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325
 
 Network › Chapter 13 Repayment Plan
+
+Life changes during a 3-5 year plan. Job loss, income reduction, medical emergency, divorce, or increased expenses may require modifying your plan. Section 1329 allows the debtor, trustee, or unsecured creditor to request modification after confirmation.
 
 When to Modify
 
@@ -1744,7 +1814,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -1772,47 +1842,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1826,9 +1892,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1855,6 +1921,8 @@ Chapter 13 Plan Payment Calculator
 Estimate your monthly Chapter 13 plan payment based on disposable income and the best interest test
 
 Network › Chapter 13 Plan › Payment Calculator
+
+Your Chapter 13 payment depends on three factors: your monthly disposable income (current monthly income minus allowed expenses), the value of your non-exempt assets (the best interest test), and whether the plan is feasible. The payment must be the higher of your disposable income or the amount unsecured creditors would receive in a Chapter 7 liquidation.
 
 How Chapter 13 Payments Are Determined
 
@@ -1975,6 +2043,16 @@ What happens if I cannot afford the minimum payment?
 
 If your disposable income is zero or negative, you may still file Chapter 13 - but only if you can propose a feasible plan that satisfies the best interest test and pays all required priority and secured debts. If that is not possible, Chapter 7 may be a better option (assuming you qualify under the means test). If you are already in an active case and cannot keep up, you may request a plan modification, convert to Chapter 7, or seek a hardship discharge under Section 1328(b).
 
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
 Related Resources
 
 meanstest.org - Determine if your income is above or below the state median
@@ -1989,7 +2067,7 @@ Last updated: March 2026
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Further Reading & Resources
 
@@ -2022,7 +2100,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -2050,34 +2128,33 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-523a.org
-727a8.org
-prosedebtors.org
-whatischapter7.com
-chapter13plan.org
-lienstripping.org
-section1328.org
-bankruptcyhardship.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2097,15 +2174,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## How Chapter 13 Plan Payments Work
+## How Chapter 13 Plan Payments Work [2026]: 11 USC 1326 Trustee Disbursement and Default Procedures
 Source: https://chapter13plan.org/plan-payments.html
 
 Skip to main content
@@ -2126,6 +2203,8 @@ Chapter 13 Repayment Plan
 Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325
 
 Network › Chapter 13 Repayment Plan
+
+The Chapter 13 trustee collects your monthly payment and distributes it to creditors according to the confirmed plan. Most courts require payroll deduction - your employer sends the payment directly to the trustee before you receive your paycheck.
 
 How Payments Are Collected
 
@@ -2194,7 +2273,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -2222,47 +2301,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2276,15 +2351,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Priority Debts in Chapter 13 - Chapter 13 Plan
+## Chapter 13 Priority Debts [2026]: 11 USC 507 Tax, Domestic Support, and Wage Claim Treatment
 Source: https://chapter13plan.org/priority-debts.html
 
 Skip to main content
@@ -2305,6 +2380,8 @@ Chapter 13 Repayment Plan
 Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325
 
 Network › Chapter 13 Repayment Plan
+
+The means test compares your income to your state's median income to determine Chapter 7 eligibility. If your income is below the median, you qualify automatically. If above, a detailed expense analysis determines whether you have enough disposable income to fund a Chapter 13 plan instead.
 
 Must Be Paid in Full
 
@@ -2371,7 +2448,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -2399,47 +2476,43 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2453,15 +2526,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Chapter 13 Bankruptcy Pros and Cons - Keep Property, Cure Arrears - Chapter 13 Plan
+## Chapter 13 Pros and Cons [2026]: Mortgage Cure Under 1322(b)(5), Cramdown, and 5-Year Commitment
 Source: https://chapter13plan.org/pros-cons.html
 
 Skip to main content
@@ -2485,6 +2558,8 @@ Network › Chapter 13 Plan › Pros and Cons
 Quick Answer
 
 Chapter 13 lets you keep all your property and catch up on mortgage or car payments over 3-5 years. You can cramdown car loans, strip junior liens, and protect cosigners. The trade-off: all disposable income goes to the plan, trustee oversight for the full term, and a national dismissal rate of approximately 48%. Compare with Chapter 7.
+
+Chapter 13 lets you keep all your property (including nonexempt assets), cure mortgage arrears over 3-5 years to save your home, strip junior liens on underwater property, cramdown car loans to current value, protect cosigners through the codebtor stay, and catch up on tax debts and support obligations through the plan.
 
 Advantages of Chapter 13 Bankruptcy
 
@@ -2735,7 +2810,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -2763,32 +2838,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-chapter7vs13.org
-whatischapter7.org
-howtofilebankruptcy.org
-lienstripping.org
-523a.org
-727a8.com
-dischargebar.org
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2802,15 +2888,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Secured Debts in Chapter 13 - Chapter 13 Plan
+## Chapter 13 Secured Debts [2026]: 11 USC 1325(a)(5) Cramdown, Cure, and Surrender Options
 Source: https://chapter13plan.org/secured-debts.html
 
 Skip to main content
@@ -2831,6 +2917,8 @@ Chapter 13 Repayment Plan
 Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325
 
 Network › Chapter 13 Repayment Plan
+
+Chapter 13 is a reorganization bankruptcy where you repay some or all of your debts over a 3-5 year plan. It lets you keep your property, catch up on mortgage or car payments, and discharge remaining unsecured debt at the end of the plan.
 
 Mortgage Cure - 1322(b)(5)
 
@@ -2899,7 +2987,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 Bankruptcy Hardship Discharge
 
@@ -2927,47 +3015,43 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Part of the Open Bankruptcy Project
+The cases below define the doctrine on this site:
+
+Till v. SCS Credit Corp., 541 U.S. 465 (2004) - cramdown interest rate in Chapter 13 is the prime rate plus a risk adjustment (1-3%); the formula approach controls over coerced-loan or contract-rate alternatives.
+
+Hamilton v. Lanning, 560 U.S. 505 (2010) - "projected disposable income" under Section 1325(b)(1)(B) determined by the forward-looking approach, not just the historical six-month CMI snapshot.
+
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) - foundational fresh-start case; the bankruptcy discharge gives the honest but unfortunate debtor a new opportunity in life unhampered by preexisting debt.
+
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2981,9 +3065,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -3045,7 +3129,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -3055,6 +3139,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About chapter13plan.org
+Source: https://chapter13plan.org/about.html
+
+chapter13plan.org
+
+Home
+About
+Privacy
+
+About chapter13plan.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+chapter13plan.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
