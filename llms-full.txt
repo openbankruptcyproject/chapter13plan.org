@@ -2542,7 +2542,7 @@ This is a long commitment. Life changes over 3-5 years - job loss, illness, divo
 
 Chapter 13 requires "regular income" under 11 U.S.C. Section 109(e). This does not have to be traditional W-2 employment - Social Security, pension income, self-employment income, rental income, and even regular financial support from a family member can qualify. But if your income is irregular, seasonal, or uncertain, maintaining consistent plan payments becomes a major challenge.
 
-Additionally, there are debt limits. As of 2026, your total noncontingent, liquidated debts (secured and unsecured combined) must not exceed $2,750,000 to qualify for Chapter 13.
+Additionally, there are debt limits. As of 2026, your noncontingent, liquidated unsecured debts must be less than $526,700 and your secured debts less than $1,580,125 to qualify for Chapter 13 (as adjusted April 1, 2025). The temporary combined $2,750,000 limit expired June 21, 2024.
 
 3. All Disposable Income Goes to the Plan
 
@@ -2676,7 +2676,7 @@ You are already judgment-proof. If your income is exempt (Social Security, disab
 
 You cannot afford the plan payments. If your budget after necessary expenses leaves nothing for creditors, no confirmable plan exists.
 
-Your debts exceed the Chapter 13 limits. Total noncontingent, liquidated debts above $2,750,000 disqualify you from Chapter 13.
+Your debts exceed the Chapter 13 limits. Noncontingent, liquidated unsecured debts of $526,700 or more, or secured debts of $1,580,125 or more, disqualify you from Chapter 13.
 
 Not sure which chapter? Use the Chapter 7 vs. Chapter 13 comparison for a complete side-by-side breakdown. Start with the means test to determine your Chapter 7 eligibility - that result often drives the decision.
 
